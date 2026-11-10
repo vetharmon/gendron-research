@@ -1,0 +1,3414 @@
+{
+ "C001": [
+  {
+   "type": "Baptism",
+   "date": "1816-01-05",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-12-09",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C002": [
+  {
+   "type": "Baptism",
+   "date": "1816-01-30",
+   "place": "St-Luc"
+  },
+  {
+   "type": "Marriage",
+   "date": "1840-06-16",
+   "place": "L'Acadie"
+  },
+  {
+   "type": "Marriage",
+   "date": "1864-02-08",
+   "place": "Henryville"
+  }
+ ],
+ "C003": [
+  {
+   "type": "Baptism",
+   "date": "1816-02-09",
+   "place": "L'Acadie"
+  }
+ ],
+ "C004": [
+  {
+   "type": "Baptism",
+   "date": "1816-02-22",
+   "place": "St-Roch-des-Aulnaies"
+  }
+ ],
+ "C005": [
+  {
+   "type": "PRDH-IGD family record 244226](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/244226)",
+   "date": "",
+   "place": "Roxton Falls"
+  },
+  {
+   "type": "Baptism",
+   "date": "1816-03-10",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-02-09",
+   "place": "Saint-Pie"
+  }
+ ],
+ "C006": [
+  {
+   "type": "Baptism",
+   "date": "1816-04-26",
+   "place": "Varennes"
+  }
+ ],
+ "C007": [
+  {
+   "type": "Baptism",
+   "date": "1816-05-13",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1816-11-08",
+   "place": "Montmagny"
+  }
+ ],
+ "C008": [
+  {
+   "type": "Baptism",
+   "date": "1816-05-15",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1817-01-23",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C009": [
+  {
+   "type": "PRDH-IGD family record 220306](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/220306)",
+   "date": "",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Baptism",
+   "date": "1816-06-24",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1842-08-23",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C010": [
+  {
+   "type": "FamilySearch index record](https://www.familysearch.org/ark:/61903/1:1:X4Q3-GGQN?lang=en)",
+   "date": "",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1816-06-29",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1836-10-25",
+   "place": "Beauharnois"
+  }
+ ],
+ "C011": [
+  {
+   "type": "Baptism",
+   "date": "1816-07-01",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1816-07-16",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C012": [
+  {
+   "type": "Baptism",
+   "date": "1816-08-12",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1816-10-03",
+   "place": "Montmagny"
+  }
+ ],
+ "C013": [
+  {
+   "type": "Baptism",
+   "date": "1816-08-12",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1816-09-24",
+   "place": "Montmagny"
+  }
+ ],
+ "C014": [
+  {
+   "type": "Baptism",
+   "date": "1816-08-23",
+   "place": "Sorel"
+  },
+  {
+   "type": "Burial",
+   "date": "1820-07-01",
+   "place": "Sorel"
+  }
+ ],
+ "C015": [
+  {
+   "type": "Baptism",
+   "date": "1816-10-02",
+   "place": "Montmagny"
+  }
+ ],
+ "C016": [
+  {
+   "type": "Baptism",
+   "date": "1817-01-25",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Marriage",
+   "date": "1844-04-22",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  }
+ ],
+ "C017": [
+  {
+   "type": "PRDH-IGD family record 222711](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/222711)",
+   "date": "",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1817-02-03",
+   "place": "Neuville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1838-07-09",
+   "place": "Neuville"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1843-01-24",
+   "place": "Neuville"
+  }
+ ],
+ "C018": [
+  {
+   "type": "Baptism",
+   "date": "1817-02-09",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1817-07-08",
+   "place": "Montmagny"
+  }
+ ],
+ "C019": [
+  {
+   "type": "Baptism",
+   "date": "1817-04-17",
+   "place": "La Pocati\u00e8re"
+  },
+  {
+   "type": "Burial",
+   "date": "1817-04-21",
+   "place": "La Pocati\u00e8re"
+  }
+ ],
+ "C020": [
+  {
+   "type": "Baptism",
+   "date": "1817-04-17",
+   "place": "La Pocati\u00e8re"
+  },
+  {
+   "type": "Burial",
+   "date": "1817-04-21",
+   "place": "La Pocati\u00e8re"
+  }
+ ],
+ "C021": [
+  {
+   "type": "Baptism",
+   "date": "1817-07-11",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1817-08-02",
+   "place": "St-Antoine-sur-Richelieu"
+  }
+ ],
+ "C022": [
+  {
+   "type": "Baptism",
+   "date": "1817-07-18",
+   "place": "Varennes"
+  }
+ ],
+ "C023": [
+  {
+   "type": "PRDH-IGD family 253794](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/253794)",
+   "date": "",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1817-07-31",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-01-16",
+   "place": "St-Damase"
+  }
+ ],
+ "C024": [
+  {
+   "type": "PRDH-IGD family 229114](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/229114)",
+   "date": "",
+   "place": "Sainte-M\u00e9lanie"
+  },
+  {
+   "type": "Baptism",
+   "date": "1817-08-04",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1844-05-21",
+   "place": "Sainte-M\u00e9lanie"
+  }
+ ],
+ "C025": [
+  {
+   "type": "Baptism",
+   "date": "1817-08-10",
+   "place": "St-Denis-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-04-04",
+   "place": "St-Ours"
+  }
+ ],
+ "C026": [
+  {
+   "type": "PRDH-IGD family 205124](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/205124)",
+   "date": "",
+   "place": "St-Hugues"
+  },
+  {
+   "type": "Baptism",
+   "date": "1817-08-13",
+   "place": "St-Jean-Port-Joli"
+  }
+ ],
+ "C027": [
+  {
+   "type": "Baptism",
+   "date": "1817-09-13",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-08-13",
+   "place": "Marieville"
+  }
+ ],
+ "C028": [
+  {
+   "type": "Baptism",
+   "date": "1817-09-17",
+   "place": "Sorel"
+  }
+ ],
+ "C029": [
+  {
+   "type": "Baptism",
+   "date": "1817-10-07",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1844-10-21",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C030": [
+  {
+   "type": "Baptism",
+   "date": "1817-11-13",
+   "place": "St-Henri-de-Lauzon"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-07-27",
+   "place": "Lauzon, L\u00e9vis"
+  }
+ ],
+ "C031": [
+  {
+   "type": "Baptism",
+   "date": "1817-12-04",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Marriage",
+   "date": "1840-05-12",
+   "place": "Montmagny"
+  }
+ ],
+ "C032": [
+  {
+   "type": "Baptism",
+   "date": "1817-12-18",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-07-20",
+   "place": "Montmagny"
+  }
+ ],
+ "C033": [
+  {
+   "type": "Baptism",
+   "date": "1818-01-29",
+   "place": "St-Roch-des-Aulnaies"
+  }
+ ],
+ "C034": [
+  {
+   "type": "Baptism",
+   "date": "1818-02-02",
+   "place": "\u00cele-Perrot"
+  }
+ ],
+ "C035": [
+  {
+   "type": "Baptism",
+   "date": "1818-02-12",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-05-26",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C036": [
+  {
+   "type": "Baptism",
+   "date": "1818-02-18",
+   "place": "Pointe-du-Lac"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-06-22",
+   "place": "Pointe-du-Lac"
+  }
+ ],
+ "C037": [
+  {
+   "type": "Baptism",
+   "date": "1818-03-06",
+   "place": "Saint-Michel-de-Bellechasse"
+  }
+ ],
+ "C038": [
+  {
+   "type": "Parents' marriage",
+   "date": "1811-10-08",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Baptism",
+   "date": "1818-03-06",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1833-09-14",
+   "place": "Rivi\u00e8re-du-Loup"
+  }
+ ],
+ "C039": [
+  {
+   "type": "Baptism",
+   "date": "1818-04-04",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C040": [
+  {
+   "type": "PRDH-IGD family 237022](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/237022)",
+   "date": "",
+   "place": "Sainte-Martine"
+  },
+  {
+   "type": "Baptism",
+   "date": "1818-05-06",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1845-11-11",
+   "place": "Sainte-Martine"
+  }
+ ],
+ "C041": [
+  {
+   "type": "Baptism",
+   "date": "1818-05-07",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-06-01",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C042": [
+  {
+   "type": "Baptism",
+   "date": "1818-05-25",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C043": [
+  {
+   "type": "Baptism",
+   "date": "1818-05-25",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Marriage",
+   "date": "1840-02-25",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Baptism",
+   "date": "1859-05-05",
+   "place": "Saint-Pie"
+  }
+ ],
+ "C044": [
+  {
+   "type": "Baptism",
+   "date": "1818-07-11",
+   "place": "St-Pierre-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Marriage",
+   "date": "1839-08-20",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Marriage",
+   "date": "1866-08-20",
+   "place": "St-Hugues"
+  }
+ ],
+ "C045": [
+  {
+   "type": "Baptism",
+   "date": "1818-08-01",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1818-08-31",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Baptism",
+   "date": "1822-11-11",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C046": [
+  {
+   "type": "Baptism",
+   "date": "1818-09-04",
+   "place": "Batiscan"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-04-05",
+   "place": "Batiscan"
+  }
+ ],
+ "C047": [
+  {
+   "type": "Baptism",
+   "date": "1819-03-09",
+   "place": "St-Luc"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-08-18",
+   "place": "L'Acadie"
+  },
+  {
+   "type": "Baptism",
+   "date": "1859-01-20",
+   "place": "St-Luc"
+  }
+ ],
+ "C048": [
+  {
+   "type": "Baptism",
+   "date": "1819-04-29",
+   "place": "Sorel"
+  },
+  {
+   "type": "Marriage",
+   "date": "1841-02-02",
+   "place": "Sorel"
+  },
+  {
+   "type": "Burial",
+   "date": "1849-07-23",
+   "place": "Lauzon, L\u00e9vis"
+  }
+ ],
+ "C049": [
+  {
+   "type": "Baptism",
+   "date": "1819-06-01",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-11-26",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1859-11-20",
+   "place": "Beauharnois"
+  }
+ ],
+ "C050": [
+  {
+   "type": "Baptism",
+   "date": "1819-06-22",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-08-28",
+   "place": "St-Ours"
+  }
+ ],
+ "C051": [
+  {
+   "type": "Baptism",
+   "date": "1819-07-14",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Marriage",
+   "date": "1859-05-09",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C052": [
+  {
+   "type": "Baptism",
+   "date": "1819-07-31",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-09-26",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C053": [
+  {
+   "type": "Baptism",
+   "date": "1819-08-16",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-08-31",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C054": [
+  {
+   "type": "Baptism",
+   "date": "1819-09-05",
+   "place": "Champlain"
+  }
+ ],
+ "C055": [
+  {
+   "type": "Baptism",
+   "date": "1819-09-10",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-10-17",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  }
+ ],
+ "C056": [
+  {
+   "type": "Baptism",
+   "date": "1819-10-21",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1819-11-03",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C057": [
+  {
+   "type": "Baptism",
+   "date": "1819-11-18",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C058": [
+  {
+   "type": "Baptism",
+   "date": "1819-11-20",
+   "place": "St-Laurent"
+  },
+  {
+   "type": "Marriage",
+   "date": "1841-02-22",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-09-24",
+   "place": "M\u00e9tis-sur-Mer"
+  }
+ ],
+ "C059": [
+  {
+   "type": "Baptism",
+   "date": "1819-11-21",
+   "place": "Sorel"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-10-16",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C060": [
+  {
+   "type": "Baptism",
+   "date": "1819-12-06",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Marriage",
+   "date": "1841-11-03",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-02-10",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C061": [
+  {
+   "type": "Baptism",
+   "date": "1819-12-15",
+   "place": "Neuville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-02-17",
+   "place": "Toronto, Ontario"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1858-02-08",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C062": [
+  {
+   "type": "Baptism",
+   "date": "1819-12-18",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-07-18",
+   "place": "Cap-St-Ignace"
+  }
+ ],
+ "C063": [
+  {
+   "type": "Baptism",
+   "date": "1820-03-31",
+   "place": "Pointe-du-Lac"
+  },
+  {
+   "type": "Burial",
+   "date": "1841-12-02",
+   "place": "Pointe-du-Lac"
+  }
+ ],
+ "C064": [
+  {
+   "type": "Baptism",
+   "date": "1820-05-12",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Burial",
+   "date": "1832-01-31",
+   "place": "St-Damase"
+  }
+ ],
+ "C065": [
+  {
+   "type": "Baptism",
+   "date": "1820-06-22",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C066": [
+  {
+   "type": "Baptism",
+   "date": "1820-07-20",
+   "place": "St-Denis-sur-Richelieu"
+  }
+ ],
+ "C067": [
+  {
+   "type": "Baptism",
+   "date": "1820-08-07",
+   "place": "St-Ours"
+  }
+ ],
+ "C068": [
+  {
+   "type": "Baptism",
+   "date": "1820-08-28",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1820-08-30",
+   "place": "Beauharnois"
+  }
+ ],
+ "C069": [
+  {
+   "type": "Baptism",
+   "date": "1820-09-07",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-01-07",
+   "place": "Montmagny"
+  }
+ ],
+ "C070": [
+  {
+   "type": "Baptism",
+   "date": "1820-09-30",
+   "place": "Beauharnois"
+  }
+ ],
+ "C071": [
+  {
+   "type": "Baptism",
+   "date": "1820-10-14",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Marriage",
+   "date": "1839-09-02",
+   "place": "Grondines"
+  }
+ ],
+ "C072": [
+  {
+   "type": "Baptism",
+   "date": "1820-11-12",
+   "place": "Beauharnois"
+  }
+ ],
+ "C073": [
+  {
+   "type": "Baptism",
+   "date": "1820-12-08",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1820-12-20",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C074": [
+  {
+   "type": "Baptism",
+   "date": "1821-01-15",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-02-08",
+   "place": "Rivi\u00e8re-du-Loup"
+  }
+ ],
+ "C075": [
+  {
+   "type": "Baptism",
+   "date": "1821-02-22",
+   "place": "St-Luc"
+  },
+  {
+   "type": "Marriage",
+   "date": "1843-02-27",
+   "place": "St-Luc"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1852-02-10",
+   "place": "Henryville"
+  }
+ ],
+ "C076": [
+  {
+   "type": "Baptism",
+   "date": "1821-03-15",
+   "place": "Frenchville, Maine"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-07-21",
+   "place": "Batiscan"
+  }
+ ],
+ "C077": [
+  {
+   "type": "Baptism",
+   "date": "1821-05-09",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-10-05",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1850-06-12",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C078": [
+  {
+   "type": "Baptism",
+   "date": "1821-05-26",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-02-18",
+   "place": "Beauharnois"
+  }
+ ],
+ "C079": [
+  {
+   "type": "Baptism",
+   "date": "1821-05-28",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-07-24",
+   "place": "Beauharnois"
+  }
+ ],
+ "C080": [
+  {
+   "type": "Baptism",
+   "date": "1821-06-22",
+   "place": "Beauharnois"
+  }
+ ],
+ "C081": [
+  {
+   "type": "Baptism",
+   "date": "1821-06-26",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-09-06",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C082": [
+  {
+   "type": "Parents' marriage",
+   "date": "1809-09-04",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1821-07-14",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Father's remarriage",
+   "date": "1838-05-08",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-02-17",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-04-18",
+   "place": "Beauharnois"
+  }
+ ],
+ "C083": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-03",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-08-06",
+   "place": "St-Ours"
+  }
+ ],
+ "C084": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-05",
+   "place": "St-Henri-de-Lauzon"
+  }
+ ],
+ "C085": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-06",
+   "place": "Nicolet"
+  },
+  {
+   "type": "Marriage",
+   "date": "1841-02-23",
+   "place": "La Durantaye"
+  }
+ ],
+ "C086": [
+  {
+   "type": "Vermont repertoire",
+   "date": "",
+   "place": "Burlington, Vermont"
+  },
+  {
+   "type": "Diocese of Burlington archives](https://www.vermontcatholic.org/about/chancery/archives/)",
+   "date": "",
+   "place": "Burlington, Vermont"
+  },
+  {
+   "type": "Baptism",
+   "date": "1821-08-10",
+   "place": "Berthierville"
+  }
+ ],
+ "C087": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-18",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-05-08",
+   "place": "Beauharnois"
+  }
+ ],
+ "C088": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-19",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-08-30",
+   "place": "Cap-St-Ignace"
+  }
+ ],
+ "C089": [
+  {
+   "type": "Baptism",
+   "date": "1821-08-27",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-01-29",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C090": [
+  {
+   "type": "Baptism",
+   "date": "1821-10-09",
+   "place": "St-Constant"
+  }
+ ],
+ "C091": [
+  {
+   "type": "Baptism",
+   "date": "1821-10-14",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1821-10-17",
+   "place": "Montmagny"
+  }
+ ],
+ "C092": [
+  {
+   "type": "Baptism",
+   "date": "1821-10-21",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1850-02-05",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1860-06-28",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C093": [
+  {
+   "type": "Baptism",
+   "date": "1821-10-29",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Marriage",
+   "date": "1844-01-22",
+   "place": "Sainte-Luce"
+  },
+  {
+   "type": "Baptism",
+   "date": "1856-12-09",
+   "place": "M\u00e9tis-sur-Mer"
+  }
+ ],
+ "C094": [
+  {
+   "type": "Baptism",
+   "date": "1822-01-11",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-05-30",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C095": [
+  {
+   "type": "Baptism",
+   "date": "1822-01-29",
+   "place": "Pointe-du-Lac"
+  },
+  {
+   "type": "Burial",
+   "date": "1842-01-09",
+   "place": "Pointe-du-Lac"
+  }
+ ],
+ "C096": [
+  {
+   "type": "Baptism",
+   "date": "1822-02-19",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-08-26",
+   "place": "Montmagny"
+  }
+ ],
+ "C097": [
+  {
+   "type": "Baptism",
+   "date": "1822-03-05",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1841-08-02",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C098": [
+  {
+   "type": "Parents' marriage",
+   "date": "1809-04-18",
+   "place": "St-Jean-Port-Joli"
+  },
+  {
+   "type": "Baptism",
+   "date": "1822-03-24",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Marriage",
+   "date": "1840-11-24",
+   "place": "St-Jean-Port-Joli"
+  },
+  {
+   "type": "Marriage",
+   "date": "1860-10-09",
+   "place": "Yamaska"
+  }
+ ],
+ "C099": [
+  {
+   "type": "Baptism",
+   "date": "1822-06-10",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Burial",
+   "date": "1841-10-25",
+   "place": "St-Damase"
+  }
+ ],
+ "C100": [
+  {
+   "type": "Baptism",
+   "date": "1822-06-27",
+   "place": "Trois-Rivi\u00e8res"
+  }
+ ],
+ "C101": [
+  {
+   "type": "PRDH-IGD family record 251969](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/251969)",
+   "date": "",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1822-07-08",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-09-19",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1849-07-13",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1851-05-20",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1853-03-20",
+   "place": "St-Damase"
+  }
+ ],
+ "C102": [
+  {
+   "type": "Baptism",
+   "date": "1822-08-25",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1823-02-22",
+   "place": "Beauharnois"
+  }
+ ],
+ "C103": [
+  {
+   "type": "Baptism",
+   "date": "1822-09-01",
+   "place": "Batiscan"
+  }
+ ],
+ "C104": [
+  {
+   "type": "Baptism",
+   "date": "1822-09-08",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-10-19",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1858-09-18",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C105": [
+  {
+   "type": "Baptism",
+   "date": "1822-10-18",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Baptism",
+   "date": "1822-10-19",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1822-11-04",
+   "place": "St-Ours"
+  }
+ ],
+ "C106": [
+  {
+   "type": "Baptism",
+   "date": "1822-11-11",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C107": [
+  {
+   "type": "Baptism",
+   "date": "1822-12-02",
+   "place": "St-Denis-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1827-05-08",
+   "place": "Iberville"
+  }
+ ],
+ "C108": [
+  {
+   "type": "Baptism",
+   "date": "1822-12-22",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-11-28",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-03-18",
+   "place": "Beauharnois"
+  }
+ ],
+ "C109": [
+  {
+   "type": "Baptism",
+   "date": "1823-01-25",
+   "place": "La Pr\u00e9sentation"
+  },
+  {
+   "type": "Marriage",
+   "date": "1863-02-02",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C110": [
+  {
+   "type": "Baptism",
+   "date": "1823-02-12",
+   "place": "St-R\u00e9gis"
+  }
+ ],
+ "C111": [
+  {
+   "type": "Baptism",
+   "date": "1823-02-21",
+   "place": "Beauharnois"
+  }
+ ],
+ "C112": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-01",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-01-30",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Baptism",
+   "date": "1853-01-30",
+   "place": "Rimouski"
+  }
+ ],
+ "C113": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-08",
+   "place": "St-Jude"
+  },
+  {
+   "type": "Burial",
+   "date": "1823-03-19",
+   "place": "St-Jude"
+  }
+ ],
+ "C114": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-08",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1823-08-02",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C115": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-16",
+   "place": "Montmagny"
+  }
+ ],
+ "C116": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-18",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1844-09-17",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Burial",
+   "date": "1854-09-06",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C117": [
+  {
+   "type": "Baptism",
+   "date": "1823-03-24",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1823-08-19",
+   "place": "St-Ours"
+  }
+ ],
+ "C118": [
+  {
+   "type": "Baptism",
+   "date": "1823-04-07",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C119": [
+  {
+   "type": "Grandparents' marriage",
+   "date": "1787-10-08",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Mother's baptism",
+   "date": "1799-05-25",
+   "place": "La Durantaye"
+  },
+  {
+   "type": "Parents' marriage",
+   "date": "1816-02-20",
+   "place": "La Durantaye"
+  },
+  {
+   "type": "Baptism",
+   "date": "1823-05-09",
+   "place": "La Durantaye"
+  },
+  {
+   "type": "Grandfather's remarriage",
+   "date": "1828-09-16",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Grandfather's remarriage",
+   "date": "1839-02-10",
+   "place": "Grondines"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-10-19",
+   "place": "La Durantaye"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-05-04",
+   "place": "La Durantaye"
+  }
+ ],
+ "C120": [
+  {
+   "type": "Baptism",
+   "date": "1823-05-29",
+   "place": "Berthierville"
+  }
+ ],
+ "C121": [
+  {
+   "type": "Parents' marriage",
+   "date": "1820-11-06",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Baptism",
+   "date": "1823-07-21",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-02-22",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Baptism",
+   "date": "1849-01-05",
+   "place": "Cap-St-Ignace"
+  }
+ ],
+ "C122": [
+  {
+   "type": "Baptism",
+   "date": "1823-07-26",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Burial",
+   "date": "1824-04-10",
+   "place": "Berthierville"
+  }
+ ],
+ "C123": [
+  {
+   "type": "Baptism",
+   "date": "1823-07-27",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-02-19",
+   "place": "St-Hugues"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1853-04-04",
+   "place": "St-Hugues"
+  }
+ ],
+ "C124": [
+  {
+   "type": "Baptism",
+   "date": "1823-08-02",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Burial",
+   "date": "1823-09-09",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C125": [
+  {
+   "type": "Baptism",
+   "date": "1823-08-02",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Burial",
+   "date": "1824-02-05",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C126": [
+  {
+   "type": "Baptism",
+   "date": "1823-08-30",
+   "place": "Cap-St-Ignace"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-01-08",
+   "place": "Cap-St-Ignace"
+  }
+ ],
+ "C127": [
+  {
+   "type": "Baptism",
+   "date": "1823-09-06",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C128": [
+  {
+   "type": "Baptism",
+   "date": "1823-09-08",
+   "place": "St-Roch-de-l'Achigan"
+  },
+  {
+   "type": "Marriage",
+   "date": "1843-07-18",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1856",
+   "place": "St-Roch-de-l'Achigan"
+  }
+ ],
+ "C129": [
+  {
+   "type": "Baptism",
+   "date": "1823-09-21",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C130": [
+  {
+   "type": "Baptism",
+   "date": "1823-09-29",
+   "place": "St-Henri-de-Lauzon"
+  }
+ ],
+ "C131": [
+  {
+   "type": "Baptism",
+   "date": "1823-10-05",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-08-29",
+   "place": "St-Ours"
+  }
+ ],
+ "C132": [
+  {
+   "type": "Baptism",
+   "date": "1823-11-27",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-02-07",
+   "place": "St-Jude"
+  }
+ ],
+ "C133": [
+  {
+   "type": "Parents' marriage",
+   "date": "1819-01-11",
+   "place": "Champlain"
+  },
+  {
+   "type": "Baptism",
+   "date": "1823-12-23",
+   "place": "Batiscan"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-02-11",
+   "place": "Batiscan"
+  }
+ ],
+ "C134": [
+  {
+   "type": "Baptism",
+   "date": "1824-03-04",
+   "place": "St-Fran\u00e7ois-du-Lac"
+  },
+  {
+   "type": "Burial",
+   "date": "1825-03-07",
+   "place": "Yamaska"
+  }
+ ],
+ "C135": [
+  {
+   "type": "Adjacent register context",
+   "date": "",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1824-03-10",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-01-27",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Baptism",
+   "date": "1860-11-27",
+   "place": "St-Antoine-sur-Richelieu"
+  }
+ ],
+ "C136": [
+  {
+   "type": "Baptism",
+   "date": "1824-03-31",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1825-03-09",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C137": [
+  {
+   "type": "Baptism",
+   "date": "1824-04-03",
+   "place": "Marieville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-02-15",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-12-22",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C138": [
+  {
+   "type": "Baptism",
+   "date": "1824-05-04",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-08-08",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-06-17",
+   "place": "Beauharnois"
+  }
+ ],
+ "C139": [
+  {
+   "type": "Baptism",
+   "date": "1824-05-08",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1824-07-05",
+   "place": "Montmagny"
+  }
+ ],
+ "C140": [
+  {
+   "type": "Baptism",
+   "date": "1824-05-13",
+   "place": "Chambly"
+  }
+ ],
+ "C141": [
+  {
+   "type": "His parents' records",
+   "date": "",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1824-06-08",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1824-06-10",
+   "place": "Beauharnois"
+  }
+ ],
+ "C142": [
+  {
+   "type": "Baptism",
+   "date": "1824-07-29",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-05-21",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-06-04",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  }
+ ],
+ "C143": [
+  {
+   "type": "Baptism",
+   "date": "1824-08-22",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  }
+ ],
+ "C144": [
+  {
+   "type": "Baptism",
+   "date": "1824-08-28",
+   "place": "Cap-St-Ignace"
+  }
+ ],
+ "C145": [
+  {
+   "type": "Baptism",
+   "date": "1824-09-14",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1847-08-23",
+   "place": "Trois-Rivi\u00e8res"
+  }
+ ],
+ "C146": [
+  {
+   "type": "Parents' marriage",
+   "date": "1817-07-21",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1824-09-21",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1844-09-28",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C147": [
+  {
+   "type": "Baptism",
+   "date": "1824-09-28",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C148": [
+  {
+   "type": "Parents' marriage",
+   "date": "1821-01-23",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Baptism",
+   "date": "1824-10-03",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-10-30",
+   "place": "Sainte-Luce"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-11-21",
+   "place": "Baie-des-Sables"
+  }
+ ],
+ "C149": [
+  {
+   "type": "Baptism",
+   "date": "1824-10-11",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1838-07-27",
+   "place": "Beauharnois"
+  }
+ ],
+ "C150": [
+  {
+   "type": "Baptism",
+   "date": "1824-10-13",
+   "place": "Batiscan"
+  },
+  {
+   "type": "Marriage",
+   "date": "1860-01-10",
+   "place": "Batiscan"
+  }
+ ],
+ "C151": [
+  {
+   "type": "Baptism",
+   "date": "1824-10-17",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-10-06",
+   "place": "St-Hugues"
+  },
+  {
+   "type": "Baptism",
+   "date": "1854-10-10",
+   "place": "St-Hugues"
+  }
+ ],
+ "C152": [
+  {
+   "type": "Parents' marriage",
+   "date": "1819-02-08",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Baptism",
+   "date": "1824-11-10",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Marriage",
+   "date": "1850-06-11",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Brother's marriage",
+   "date": "1851-09-30",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1851-10-27",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Baptism",
+   "date": "1860-09-27",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C153": [
+  {
+   "type": "Baptism",
+   "date": "1824-11-14",
+   "place": "Iberville"
+  },
+  {
+   "type": "Burial",
+   "date": "1834-08-15",
+   "place": "St-Luc"
+  }
+ ],
+ "C154": [
+  {
+   "type": "Baptism",
+   "date": "1824-11-28",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C155": [
+  {
+   "type": "Baptism",
+   "date": "1824-12-03",
+   "place": "St-Damase"
+  }
+ ],
+ "C156": [
+  {
+   "type": "Baptism",
+   "date": "1825-01-08",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-08-17",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C157": [
+  {
+   "type": "Baptism",
+   "date": "1825-01-21",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1861-07-15",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C158": [
+  {
+   "type": "Baptism",
+   "date": "1825-02-15",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-10-16",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1860-11-20",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C159": [
+  {
+   "type": "Baptism",
+   "date": "1825-02-17",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C160": [
+  {
+   "type": "Baptism",
+   "date": "1825-03-06",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1834-02-19",
+   "place": "Beauharnois"
+  }
+ ],
+ "C161": [
+  {
+   "type": "Baptism",
+   "date": "1825-03-06",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1841-09-07",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Baptism",
+   "date": "1850-08-10",
+   "place": "Ste-\u00c9lisabeth"
+  }
+ ],
+ "C162": [
+  {
+   "type": "Baptism",
+   "date": "1825-03-13",
+   "place": "Iberville"
+  },
+  {
+   "type": "Burial",
+   "date": "1825-03-28",
+   "place": "St-Luc"
+  }
+ ],
+ "C163": [
+  {
+   "type": "Baptism",
+   "date": "1825-06-07",
+   "place": "St-Jean-Baptiste-de-Rouville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-11-27",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C164": [
+  {
+   "type": "Baptism",
+   "date": "1825-06-10",
+   "place": "Beauharnois"
+  }
+ ],
+ "C165": [
+  {
+   "type": "Baptism",
+   "date": "1825-07-02",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-04-28",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1859-07-18",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C166": [
+  {
+   "type": "Baptism",
+   "date": "1825-07-02",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1825-11-25",
+   "place": "Montmagny"
+  }
+ ],
+ "C167": [
+  {
+   "type": "Baptism",
+   "date": "1825-07-11",
+   "place": "Neuville"
+  },
+  {
+   "type": "Burial",
+   "date": "1825-08-26",
+   "place": "Neuville"
+  }
+ ],
+ "C168": [
+  {
+   "type": "Baptism",
+   "date": "1825-07-28",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1847-09-17",
+   "place": "Sainte-Martine"
+  }
+ ],
+ "C169": [
+  {
+   "type": "Baptism",
+   "date": "1825-08-25",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Marriage",
+   "date": "1853-02-07",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Remarriage",
+   "date": "1868-02-24",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C170": [
+  {
+   "type": "Baptism",
+   "date": "1825-11-10",
+   "place": "St-Jude"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-01-15",
+   "place": "St-Jude"
+  }
+ ],
+ "C171": [
+  {
+   "type": "Baptism",
+   "date": "1825-11-24",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Marriage",
+   "date": "1850-11-05",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-02-15",
+   "place": "St-Damase"
+  }
+ ],
+ "C172": [
+  {
+   "type": "Baptism",
+   "date": "1825-12-24",
+   "place": "Beauharnois"
+  }
+ ],
+ "C173": [
+  {
+   "type": "Baptism",
+   "date": "1826-01-08",
+   "place": "St-Jude"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-02-09",
+   "place": "St-Jude"
+  }
+ ],
+ "C174": [
+  {
+   "type": "Baptism",
+   "date": "1826-01-24",
+   "place": "St-Constant"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-07-12",
+   "place": "St-Constant"
+  }
+ ],
+ "C175": [
+  {
+   "type": "Baptism",
+   "date": "1826-02-02",
+   "place": "Sorel"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-01-13",
+   "place": "Sorel"
+  },
+  {
+   "type": "Burial",
+   "date": "1846-10-17",
+   "place": "Sorel"
+  }
+ ],
+ "C176": [
+  {
+   "type": "Baptism",
+   "date": "1826-02-14",
+   "place": "Beauharnois"
+  }
+ ],
+ "C177": [
+  {
+   "type": "Baptism",
+   "date": "1826-03-04",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-08-04",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C178": [
+  {
+   "type": "Baptism",
+   "date": "1826-03-07",
+   "place": "Berthier-sur-Mer"
+  }
+ ],
+ "C179": [
+  {
+   "type": "Baptism",
+   "date": "1826-03-19",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-03-31",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C180": [
+  {
+   "type": "Baptism",
+   "date": "1826-03-29",
+   "place": "Napierville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-09-25",
+   "place": "L'Acadie"
+  },
+  {
+   "type": "Baptism",
+   "date": "1860-12-19",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C181": [
+  {
+   "type": "Baptism",
+   "date": "1826-04-02",
+   "place": "Beauharnois"
+  }
+ ],
+ "C182": [
+  {
+   "type": "Baptism",
+   "date": "1826-04-07",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-08-09",
+   "place": "Sainte-Luce"
+  }
+ ],
+ "C183": [
+  {
+   "type": "Baptism",
+   "date": "1826-05-09",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C184": [
+  {
+   "type": "Baptism",
+   "date": "1826-05-21",
+   "place": "Iberville"
+  }
+ ],
+ "C185": [
+  {
+   "type": "Baptism",
+   "date": "1826-07-01",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Burial",
+   "date": "1826-09-09",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C186": [
+  {
+   "type": "Baptism",
+   "date": "1826-08-20",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-09-16",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Baptism",
+   "date": "1861-04-07",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C187": [
+  {
+   "type": "Parents' marriage",
+   "date": "1815-01-09",
+   "place": "La Pocati\u00e8re"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-09-08",
+   "place": "L'Acadie"
+  },
+  {
+   "type": "Marriage",
+   "date": "1854-10-10",
+   "place": "St-Luc"
+  }
+ ],
+ "C188": [
+  {
+   "type": "Parents' marriage",
+   "date": "1819-02-08",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-09-14",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-09-30",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1853-08-16",
+   "place": "St-Antoine-sur-Richelieu"
+  }
+ ],
+ "C189": [
+  {
+   "type": "Baptism",
+   "date": "1826-10-02",
+   "place": "Iberville"
+  }
+ ],
+ "C190": [
+  {
+   "type": "PRDH-IGD family record 253663](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/253663)",
+   "date": "",
+   "place": "Baie-des-Sables"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-10-11",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-01-09",
+   "place": "Sainte-Luce"
+  }
+ ],
+ "C191": [
+  {
+   "type": "Baptism",
+   "date": "1826-11-28",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-01-11",
+   "place": "Rivi\u00e8re-Ouelle"
+  },
+  {
+   "type": "Baptism",
+   "date": "1851-01-16",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1857-03-13",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C192": [
+  {
+   "type": "Baptism",
+   "date": "1826-12-16",
+   "place": "St-Vallier"
+  }
+ ],
+ "C193": [
+  {
+   "type": "Baptism",
+   "date": "1825-05-19",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-12-28",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-02-27",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C194": [
+  {
+   "type": "Baptism",
+   "date": "1827-01-08",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-02-02",
+   "place": "Saint-Pie"
+  }
+ ],
+ "C195": [
+  {
+   "type": "Baptism",
+   "date": "1827-04-02",
+   "place": "Beauharnois"
+  }
+ ],
+ "C196": [
+  {
+   "type": "Baptism",
+   "date": "1827-04-04",
+   "place": "St-Jean-Port-Joli"
+  }
+ ],
+ "C197": [
+  {
+   "type": "Baptism",
+   "date": "1827-04-09",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1827-09-27",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C198": [
+  {
+   "type": "PRDH-IGD family record 159519](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/159519)",
+   "date": "",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Baptism",
+   "date": "1827-04-14",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1828-09-11",
+   "place": "Beauharnois"
+  }
+ ],
+ "C199": [
+  {
+   "type": "Baptism",
+   "date": "1827-04-20",
+   "place": "St-Ours"
+  }
+ ],
+ "C200": [
+  {
+   "type": "Baptism",
+   "date": "1827-05-10",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-06-01",
+   "place": "Berthierville"
+  }
+ ],
+ "C201": [
+  {
+   "type": "Baptism",
+   "date": "1827-06-11",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-08-11",
+   "place": "Deschaillons-sur-Saint-Laurent"
+  }
+ ],
+ "C202": [
+  {
+   "type": "Parents' marriage",
+   "date": "1811-10-08",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Baptism",
+   "date": "1827-07-10",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1827-08-06",
+   "place": "Montmagny"
+  }
+ ],
+ "C203": [
+  {
+   "type": "Baptism",
+   "date": "1827-07-11",
+   "place": "St-Damase"
+  }
+ ],
+ "C204": [
+  {
+   "type": "Baptism",
+   "date": "1827-07-29",
+   "place": "St-Constant"
+  }
+ ],
+ "C205": [
+  {
+   "type": "Baptism",
+   "date": "1827-08-04",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-01-21",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C206": [
+  {
+   "type": "Baptism",
+   "date": "1827-08-09",
+   "place": "Marieville"
+  }
+ ],
+ "C207": [
+  {
+   "type": "Baptism",
+   "date": "1827-08-24",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-09-25",
+   "place": "Deschaillons-sur-Saint-Laurent"
+  }
+ ],
+ "C208": [
+  {
+   "type": "Baptism",
+   "date": "1827-09-06",
+   "place": "Beauport"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-07-12",
+   "place": "Beauport"
+  }
+ ],
+ "C209": [
+  {
+   "type": "Baptism",
+   "date": "1827-09-14",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Marriage",
+   "date": "1850-10-07",
+   "place": "St-Jude"
+  }
+ ],
+ "C210": [
+  {
+   "type": "Baptism",
+   "date": "1827-09-18",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C211": [
+  {
+   "type": "Baptism",
+   "date": "1827-10-01",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C212": [
+  {
+   "type": "Baptism",
+   "date": "1827-10-10",
+   "place": "Beauharnois"
+  }
+ ],
+ "C213": [
+  {
+   "type": "Baptism",
+   "date": "1827-10-25",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-01-07",
+   "place": "Montmagny"
+  }
+ ],
+ "C214": [
+  {
+   "type": "Baptism",
+   "date": "1827-11-08",
+   "place": "St-Pierre"
+  },
+  {
+   "type": "Marriage",
+   "date": "1854-07-18",
+   "place": "St-Laurent"
+  }
+ ],
+ "C215": [
+  {
+   "type": "Baptism",
+   "date": "1827-11-26",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-09-17",
+   "place": "St-Antoine-sur-Richelieu"
+  },
+  {
+   "type": "Burial",
+   "date": "1858-07-12",
+   "place": "St-Antoine-sur-Richelieu"
+  }
+ ],
+ "C216": [
+  {
+   "type": "Baptism",
+   "date": "1827-12-06",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C217": [
+  {
+   "type": "Baptism",
+   "date": "1827-12-13",
+   "place": "Batiscan"
+  }
+ ],
+ "C218": [
+  {
+   "type": "Baptism",
+   "date": "1828-01-08",
+   "place": "Yamaska"
+  },
+  {
+   "type": "Burial",
+   "date": "1828-09-18",
+   "place": "Yamaska"
+  }
+ ],
+ "C219": [
+  {
+   "type": "Baptism",
+   "date": "1828-01-13",
+   "place": "St-Luc"
+  },
+  {
+   "type": "Marriage",
+   "date": "1846-08-04",
+   "place": "St-Constant"
+  }
+ ],
+ "C220": [
+  {
+   "type": "Baptism",
+   "date": "1828-02-01",
+   "place": "Beauharnois"
+  }
+ ],
+ "C221": [
+  {
+   "type": "Parents' marriage",
+   "date": "1826-01-31",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-11-28",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
+   "type": "Baptism",
+   "date": "1828-02-08",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-01-30",
+   "place": "Deschaillons-sur-Saint-Laurent"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-01-11",
+   "place": "Rivi\u00e8re-Ouelle"
+  }
+ ],
+ "C222": [
+  {
+   "type": "Baptism",
+   "date": "1828-02-15",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-02-18",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C223": [
+  {
+   "type": "Baptism",
+   "date": "1828-02-16",
+   "place": "St-Ours"
+  }
+ ],
+ "C224": [
+  {
+   "type": "Baptism",
+   "date": "1828-02-18",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1855-01-08",
+   "place": "St-Pierre-les-Becquets"
+  }
+ ],
+ "C225": [
+  {
+   "type": "Baptism",
+   "date": "1828-02-24",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C226": [
+  {
+   "type": "Baptism",
+   "date": "1828-03-07",
+   "place": "Beauharnois"
+  }
+ ],
+ "C227": [
+  {
+   "type": "Baptism",
+   "date": "1828-03-31",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1850-10-22",
+   "place": "Trois-Rivi\u00e8res"
+  }
+ ],
+ "C228": [
+  {
+   "type": "Baptism",
+   "date": "1828-06-02",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1828-06-21",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C229": [
+  {
+   "type": "Baptism",
+   "date": "1828-06-10",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1849-10-01",
+   "place": "Berthierville"
+  }
+ ],
+ "C230": [
+  {
+   "type": "Baptism",
+   "date": "1828-07-18",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-04-28",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C231": [
+  {
+   "type": "Baptism",
+   "date": "1828-07-24",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Marriage",
+   "date": "1854-10-17",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C232": [
+  {
+   "type": "Baptism",
+   "date": "1828-08-10",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C233": [
+  {
+   "type": "Baptism",
+   "date": "1828-08-31",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C234": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-07",
+   "place": "St-Ours"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-03-17",
+   "place": "St-Ours"
+  }
+ ],
+ "C235": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-09",
+   "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "Marriage",
+   "date": "1858-01-18",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C236": [
+  {
+   "type": "Parents' marriage",
+   "date": "1811-10-08",
+   "place": "Qu\u00e9bec"
+  },
+  {
+   "type": "Baptism",
+   "date": "1828-09-11",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1828-09-27",
+   "place": "Montmagny"
+  }
+ ],
+ "C237": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-12",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Burial",
+   "date": "1828-10-13",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C238": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-13",
+   "place": "Berthierville"
+  }
+ ],
+ "C239": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-20",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1849-07-31",
+   "place": "Montmagny"
+  }
+ ],
+ "C240": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-21",
+   "place": "Beauharnois"
+  }
+ ],
+ "C241": [
+  {
+   "type": "Baptism",
+   "date": "1828-09-22",
+   "place": "St-Hugues"
+  },
+  {
+   "type": "Burial",
+   "date": "1832-04-01",
+   "place": "St-Hugues"
+  }
+ ],
+ "C242": [
+  {
+   "type": "Parents' marriage",
+   "date": "1815-01-09",
+   "place": "La Pocati\u00e8re"
+  },
+  {
+   "type": "Baptism",
+   "date": "1828-10-21",
+   "place": "L'Acadie"
+  },
+  {
+   "type": "Marriage",
+   "date": "1854-11-13",
+   "place": "St-Luc"
+  }
+ ],
+ "C243": [
+  {
+   "type": "Baptism",
+   "date": "1828-12-11",
+   "place": "Montmagny"
+  }
+ ],
+ "C244": [
+  {
+   "type": "Baptism",
+   "date": "1828-12-11",
+   "place": "Contrecoeur"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-04-29",
+   "place": "Qu\u00e9bec"
+  }
+ ],
+ "C245": [
+  {
+   "type": "Baptism",
+   "date": "1829-01-24",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-03-03",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C246": [
+  {
+   "type": "Baptism",
+   "date": "1829-01-31",
+   "place": "Batiscan"
+  }
+ ],
+ "C247": [
+  {
+   "type": "Baptism",
+   "date": "1829-02-03",
+   "place": "St-Damase"
+  }
+ ],
+ "C248": [
+  {
+   "type": "Baptism",
+   "date": "1829-02-07",
+   "place": "St-Hyacinthe"
+  },
+  {
+   "type": "Burial",
+   "date": "1831-07-16",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C249": [
+  {
+   "type": "Baptism",
+   "date": "1829-02-10",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  }
+ ],
+ "C250": [
+  {
+   "type": "Baptism",
+   "date": "1829-03-11",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C251": [
+  {
+   "type": "Baptism",
+   "date": "1829-04-03",
+   "place": "La Durantaye"
+  },
+  {
+   "type": "Burial",
+   "date": "1836-04-25",
+   "place": "La Durantaye"
+  }
+ ],
+ "C252": [
+  {
+   "type": "Baptism",
+   "date": "1829-04-07",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C253": [
+  {
+   "type": "Baptism",
+   "date": "1829-05-22",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-06-11",
+   "place": "Berthierville"
+  }
+ ],
+ "C254": [
+  {
+   "type": "Baptism",
+   "date": "1829-05-24",
+   "place": "Rimouski"
+  },
+  {
+   "type": "Marriage",
+   "date": "1854-09-04",
+   "place": "Rimouski"
+  }
+ ],
+ "C255": [
+  {
+   "type": "Baptism",
+   "date": "1829-05-24",
+   "place": "St-Pierre-les-Becquets"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-07-20",
+   "place": "Deschaillons-sur-Saint-Laurent"
+  }
+ ],
+ "C256": [
+  {
+   "type": "Baptism",
+   "date": "1829-06-04",
+   "place": "Beauharnois"
+  },
+  {
+   "type": "Burial",
+   "date": "1834-03-12",
+   "place": "Beauharnois"
+  }
+ ],
+ "C257": [
+  {
+   "type": "Baptism",
+   "date": "1829-06-19",
+   "place": "Yamaska"
+  },
+  {
+   "type": "Burial",
+   "date": "1831-01-26",
+   "place": "Yamaska"
+  }
+ ],
+ "C258": [
+  {
+   "type": "Parents' marriage",
+   "date": "1809-04-18",
+   "place": "St-Jean-Port-Joli"
+  },
+  {
+   "type": "Baptism",
+   "date": "1829-06-23",
+   "place": "St-Roch-des-Aulnaies"
+  }
+ ],
+ "C259": [
+  {
+   "type": "Baptism",
+   "date": "1829-07-31",
+   "place": "Pointe-du-Lac"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-08-18",
+   "place": "Trois-Rivi\u00e8res"
+  }
+ ],
+ "C260": [
+  {
+   "type": "Baptism",
+   "date": "1829-08-06",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-01-17",
+   "place": "Ste-\u00c9lisabeth"
+  }
+ ],
+ "C261": [
+  {
+   "type": "Baptism",
+   "date": "1829-08-18",
+   "place": "Ste-Anne-de-la-P\u00e9rade"
+  }
+ ],
+ "C262": [
+  {
+   "type": "Baptism",
+   "date": "1829-08-21",
+   "place": "Marieville"
+  },
+  {
+   "type": "Marriage",
+   "date": "1852-11-03",
+   "place": "Marieville"
+  }
+ ],
+ "C263": [
+  {
+   "type": "Baptism",
+   "date": "1829-09-21",
+   "place": "Batiscan"
+  },
+  {
+   "type": "Burial",
+   "date": "1831-05-03",
+   "place": "Batiscan"
+  }
+ ],
+ "C264": [
+  {
+   "type": "Baptism",
+   "date": "1829-11-07",
+   "place": "Ch\u00e2teauguay"
+  }
+ ],
+ "C265": [
+  {
+   "type": "Baptism",
+   "date": "1829-11-12",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1829-11-30",
+   "place": "Montmagny"
+  }
+ ],
+ "C266": [
+  {
+   "type": "Baptism",
+   "date": "1829-12-11",
+   "place": "Contrecoeur"
+  }
+ ],
+ "C267": [
+  {
+   "type": "Baptism",
+   "date": "1830-01-07",
+   "place": "St-Laurent"
+  },
+  {
+   "type": "Marriage",
+   "date": "1864-10-12",
+   "place": "St-Laurent"
+  }
+ ],
+ "C268": [
+  {
+   "type": "Baptism",
+   "date": "1830-02-02",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Burial",
+   "date": "1838-01-16",
+   "place": "Saint-Pie"
+  }
+ ],
+ "C269": [
+  {
+   "type": "Baptism",
+   "date": "1830-05-07",
+   "place": "Yamachiche"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-07-07",
+   "place": "Yamachiche"
+  }
+ ],
+ "C270": [
+  {
+   "type": "Baptism",
+   "date": "1827-05-10",
+   "place": "Berthierville"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-06-01",
+   "place": "Berthierville"
+  }
+ ],
+ "C271": [
+  {
+   "type": "Baptism",
+   "date": "1830-06-20",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Burial",
+   "date": "1832-02-03",
+   "place": "St-Damase"
+  }
+ ],
+ "C272": [
+  {
+   "type": "Baptism",
+   "date": "1830-06-24",
+   "place": "Montmagny"
+  },
+  {
+   "type": "Burial",
+   "date": "1830-06-28",
+   "place": "Montmagny"
+  }
+ ],
+ "C273": [
+  {
+   "type": "Baptism",
+   "date": "1829-03-01",
+   "place": "Ste-\u00c9lisabeth"
+  },
+  {
+   "type": "Baptism",
+   "date": "1830-06-24",
+   "place": "Ste-\u00c9lisabeth"
+  },
+  {
+   "type": "Marriage",
+   "date": "1851-01-14",
+   "place": "Sainte-M\u00e9lanie"
+  },
+  {
+   "type": "Marriage",
+   "date": "1860-10-02",
+   "place": "Sainte-M\u00e9lanie"
+  }
+ ],
+ "C274": [
+  {
+   "type": "Baptism",
+   "date": "1830-08-13",
+   "place": "St-Fran\u00e7ois-de-la-Rivi\u00e8re-du-Sud"
+  }
+ ],
+ "C275": [
+  {
+   "type": "Baptism",
+   "date": "1830-08-30",
+   "place": "Marieville"
+  },
+  {
+   "type": "Baptism",
+   "date": "1830-08-31",
+   "place": "Marieville"
+  }
+ ],
+ "C276": [
+  {
+   "type": "Baptism",
+   "date": "1830-09-30",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Burial",
+   "date": "1833-04-27",
+   "place": "Saint-Pie"
+  }
+ ],
+ "C277": [
+  {
+   "type": "Baptism",
+   "date": "1830-10-03",
+   "place": "St-Hyacinthe"
+  }
+ ],
+ "C278": [
+  {
+   "type": "Baptism",
+   "date": "1830-11-04",
+   "place": "Montmagny"
+  }
+ ],
+ "C279": [
+  {
+   "type": "Baptism",
+   "date": "1830-11-07",
+   "place": "St-Hugues"
+  },
+  {
+   "type": "Burial",
+   "date": "1831-02-06",
+   "place": "St-Hugues"
+  }
+ ],
+ "C280": [
+  {
+   "type": "Baptism",
+   "date": "1830-12-09",
+   "place": "St-Damase"
+  },
+  {
+   "type": "Burial",
+   "date": "1839-07-10",
+   "place": "St-Damase"
+  }
+ ],
+ "C281": [
+  {
+   "type": "Baptism",
+   "date": "1830-12-17",
+   "place": "Sorel"
+  }
+ ]
+}
