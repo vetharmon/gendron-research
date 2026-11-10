@@ -1,0 +1,12 @@
+title: Gendron · Gendreau Research Atlas
+description: Candidate-by-candidate research concerning Franklin Jondro and François Gendron.
+url: "https://vetharmon.github.io"
+baseurl: "/gendron-research"
+markdown: kramdown
+permalink: pretty
+collections:
+  candidates:
+    output: true
+    permalink: /candidates/:name/
+exclude:
+  - README.md
