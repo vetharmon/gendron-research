@@ -19,6 +19,12 @@ No register images are hosted or reproduced here. Source links lead to providers
 
 The present source pages are working research notes. Verify the historical act, its location and the image before relying upon it in an official submission. The earliest records shown are indexed baptism dates unless otherwise stated.
 
+## How to use the research assessments
+
+The narrative on each candidate page preserves the project's existing interpretation and any original-record reading notes. Distinguish those working readings from a letter-for-letter transcription: names, dates, parental identifiers, and conflicting entries should be checked against the original scan. In particular, a burial lead with unresolved parental conflict is **not** a conclusive exclusion.
+
+The evidence entries on candidate pages are **readable source abstracts**, prepared from existing research metadata — not verbatim transcriptions of manuscript images. Exact wording must be checked against the original before quoting.
+
 ## Research method
 
 Every candidate retains its original C-series ID so the pages can be reconciled with the master elimination register. Evidence is assessed through childhood death records, adult marriages and continuing families, census records, and source-parent matching. A record that cannot currently be found is not treated as proof of emigration or death.
