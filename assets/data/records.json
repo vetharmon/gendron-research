@@ -2428,7 +2428,7 @@
   {
    "type": "Marriage",
    "date": "1848-01-11",
-   "place": "Qu\u00e9bec"
+   "place": "Rivi\u00e8re-Ouelle"
   },
   {
    "type": "Baptism",
@@ -2746,6 +2746,16 @@
  ],
  "C221": [
   {
+   "type": "Parents' marriage",
+   "date": "1826-01-31",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
+   "type": "Baptism",
+   "date": "1826-11-28",
+   "place": "St-Roch-des-Aulnaies"
+  },
+  {
    "type": "Baptism",
    "date": "1828-02-08",
    "place": "St-Roch-des-Aulnaies"
@@ -2754,6 +2764,11 @@
    "type": "Burial",
    "date": "1829-01-30",
    "place": "Deschaillons-sur-Saint-Laurent"
+  },
+  {
+   "type": "Marriage",
+   "date": "1848-01-11",
+   "place": "Rivi\u00e8re-Ouelle"
   }
  ],
  "C222": [
