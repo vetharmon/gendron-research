@@ -81,15 +81,29 @@
       var layer = L.layerGroup().addTo(map);
       var toggle = document.getElementById("francois");
       var statusSel = document.getElementById("status");
+      var distEl = document.getElementById("dist");
+      var MTL = [45.5017, -73.5673];
+      function hav(a, b) {
+        var p1 = a[0] * Math.PI / 180, p2 = b[0] * Math.PI / 180;
+        var dp = p2 - p1, dl = (b[1] - a[1]) * Math.PI / 180;
+        var h = Math.sin(dp / 2) * Math.sin(dp / 2) + Math.cos(p1) * Math.cos(p2) * Math.sin(dl / 2) * Math.sin(dl / 2);
+        return 2 * 6371 * Math.asin(Math.sqrt(h));
+      }
       var note = document.getElementById("map-note");
       function draw() {
         var onlyFr = !!(toggle && toggle.checked);
         var cat = statusSel ? statusSel.value : "all";
         var byPlace = {};
         var shown = 0;
+        var maxKm = (distEl && !distEl.disabled) ? +distEl.value : null;
+        var unlimited = (maxKm === null || maxKm >= +distEl.max);
         window.GG_BAPTISMS.forEach(function (b) {
           if (onlyFr && !b.fr) return;
           if (cat !== "all" && b.tier !== cat) return;
+          if (!unlimited) {
+            var bp = canon(b.place);
+            if (!places[bp] || hav(MTL, places[bp]) > maxKm) return;
+          }
           var p = canon(b.place);
           if (!places[p]) return;
           (byPlace[p] = byPlace[p] || []).push(b);
@@ -121,6 +135,7 @@
         if (note) {
           var parts = [];
           if (onlyFr) parts.push("François only");
+          if (!unlimited) parts.push("within " + maxKm + " km of Montréal");
           if (cat !== "all" && statusSel) parts.push(statusSel.options[statusSel.selectedIndex].text);
           note.hidden = parts.length === 0;
           if (parts.length) note.textContent = "Map filtered — " + parts.join(" · ") + ": " + shown + (shown === 1 ? " candidate" : " candidates") + ".";
@@ -129,6 +144,7 @@
       draw();
       if (toggle) toggle.addEventListener("change", draw);
       if (statusSel) statusSel.addEventListener("change", draw);
+      if (distEl) distEl.addEventListener("input", draw);
     });
   }
 })();
