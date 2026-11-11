@@ -64,12 +64,6 @@
           pin(map, places[p], "<strong>" + p + "</strong><br>" + lines.join("<br>"), TIER_COLORS[ctier]);
           bounds.push(places[p]);
         });
-        if (places["Châteauguay"]) {
-          L.marker(places["Châteauguay"], {
-            icon: L.divIcon({ className: "map-star-wrap", html: '<span class="map-star">★</span>', iconSize: [26, 26], iconAnchor: [13, 13] }),
-            keyboard: false
-          }).addTo(layer).bindPopup("<strong>Châteauguay</strong> — Saint-Joachim parish. The proposed candidate, François Gendron (C127), was baptized here on 6 September 1823.");
-        }
         if (bounds.length === 1) map.setView(bounds[0], 9);
         else map.fitBounds(bounds, { padding: [24, 24] });
       });
