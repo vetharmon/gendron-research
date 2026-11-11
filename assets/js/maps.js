@@ -60,32 +60,59 @@
   }
 
   // ---- Dashboard map ----
+  // Follows the register's filters: the "François only" checkbox and the
+  // Assessment dropdown re-plot the
+  // map with just the François candidates' baptism places and refits the view.
   var dashEl = document.getElementById("dash-map");
   if (dashEl && window.GG_BAPTISMS) {
     fetchJSON(base + "/assets/data/places.json").then(function (places) {
       if (!places) { dashEl.parentElement.style.display = "none"; return; }
-      var byPlace = {};
-      window.GG_BAPTISMS.forEach(function (b) {
-        var p = canon(b.place);
-        if (!places[p]) return;
-        (byPlace[p] = byPlace[p] || []).push(b);
-      });
       var map = makeMap(dashEl);
-      var bounds = [];
-      Object.keys(byPlace).forEach(function (p) {
-        var list = byPlace[p];
-        var links = list.slice(0, 10).map(function (b) {
-          return '<a href="' + b.url + '">' + b.id + " · " + b.name + "</a>";
-        }).join("<br>");
-        if (list.length > 10) links += "<br>… and " + (list.length - 10) + " more (see the table)";
-        var m = L.circleMarker(places[p], {
-          radius: Math.min(6 + list.length, 16), color: "#7a4a12", weight: 1.5,
-          fillColor: "#e8a33d", fillOpacity: 0.75
-        }).addTo(map).bindPopup("<strong>" + p + "</strong> — " + list.length +
-          (list.length === 1 ? " candidate" : " candidates") + "<br>" + links);
-        bounds.push(places[p]);
-      });
-      if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
+      var layer = L.layerGroup().addTo(map);
+      var toggle = document.getElementById("francois");
+      var statusSel = document.getElementById("status");
+      var note = document.getElementById("map-note");
+      function draw() {
+        var onlyFr = !!(toggle && toggle.checked);
+        var cat = statusSel ? statusSel.value : "all";
+        var byPlace = {};
+        var shown = 0;
+        window.GG_BAPTISMS.forEach(function (b) {
+          if (onlyFr && !b.fr) return;
+          if (cat !== "all" && b.cat !== cat) return;
+          var p = canon(b.place);
+          if (!places[p]) return;
+          (byPlace[p] = byPlace[p] || []).push(b);
+          shown++;
+        });
+        layer.clearLayers();
+        var bounds = [];
+        Object.keys(byPlace).forEach(function (p) {
+          var list = byPlace[p];
+          var links = list.slice(0, 10).map(function (b) {
+            return '<a href="' + b.url + '">' + b.id + " · " + b.name + "</a>";
+          }).join("<br>");
+          if (list.length > 10) links += "<br>… and " + (list.length - 10) + " more (see the table)";
+          L.circleMarker(places[p], {
+            radius: Math.min(6 + list.length, 16), color: "#7a4a12", weight: 1.5,
+            fillColor: "#e8a33d", fillOpacity: 0.75
+          }).addTo(layer).bindPopup("<strong>" + p + "</strong> — " + list.length +
+            (list.length === 1 ? " candidate" : " candidates") + "<br>" + links);
+          bounds.push(places[p]);
+        });
+        if (bounds.length === 1) map.setView(bounds[0], 9);
+        else if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
+        if (note) {
+          var parts = [];
+          if (onlyFr) parts.push("François only");
+          if (cat !== "all" && statusSel) parts.push(statusSel.options[statusSel.selectedIndex].text);
+          note.hidden = parts.length === 0;
+          if (parts.length) note.textContent = "Map filtered — " + parts.join(" · ") + ": " + shown + (shown === 1 ? " candidate" : " candidates") + ".";
+        }
+      }
+      draw();
+      if (toggle) toggle.addEventListener("change", draw);
+      if (statusSel) statusSel.addEventListener("change", draw);
     });
   }
 })();
