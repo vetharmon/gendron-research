@@ -212,3 +212,5 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .brand-mark { width: 34px; height: 34px; border-radius: 50%; vertical-align: -10px; margin-right: 10px; }
 .hero-badge { width: 168px; height: 168px; float: right; margin: 0.2rem 0 1rem 1.5rem; }
 @media (max-width: 640px) { .hero-badge { float: none; display: block; margin: 0 auto 1rem; width: 132px; height: 132px; } }
+
+.filters input[type="range"] { width: 170px; accent-color: var(--accent); vertical-align: middle; }

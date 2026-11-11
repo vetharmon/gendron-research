@@ -2,6 +2,8 @@
   const q = document.getElementById("search"),
     s = document.getElementById("status"),
     f = document.getElementById("francois"),
+    d = document.getElementById("dist"),
+    dout = document.getElementById("dist-out"),
     rows = [...document.querySelectorAll("#results tr")],
     count = document.getElementById("count"),
     empty = document.getElementById("empty"),
@@ -51,12 +53,14 @@
     }
   }
   function update() {
+    if (d && dout) dout.textContent = (d.disabled || +d.value >= +d.max) ? "all" : "\u2264 " + d.value + " km";
     const query = norm(q.value.trim());
     let n = 0;
     for (const tr of rows) {
       const show = (!query || tr.dataset.nsearch.includes(query)) &&
         (s.value === "all" || tr.dataset.tier === s.value) &&
-        (!f.checked || tr.dataset.francois === "true");
+        (!f.checked || tr.dataset.francois === "true") &&
+        (!d || d.disabled || +d.value >= +d.max || (tr.dataset.dist !== undefined && +tr.dataset.dist <= +d.value));
       tr.hidden = !show;
       if (show) n++;
     }
@@ -64,6 +68,33 @@
     empty.hidden = n !== 0;
     stats();
   }
-  [q, s, f].forEach((el) => el.addEventListener("input", update));
+  [q, s, f, d].forEach((el) => { if (el) el.addEventListener("input", update); });
+  // Distance of each baptism place from Montréal, from the same coordinates
+  // the maps use. Until the data arrives the slider stays disabled and
+  // nothing is filtered by distance.
+  const MTL = [45.5017, -73.5673];
+  const MERGE = { "Sorel-Tracy": "Sorel", "L'Acadie, Saint-Jean-sur-Richelieu": "L'Acadie" };
+  const hav = (a, b) => {
+    const p1 = a[0] * Math.PI / 180, p2 = b[0] * Math.PI / 180;
+    const dp = p2 - p1, dl = (b[1] - a[1]) * Math.PI / 180;
+    const h = Math.sin(dp / 2) ** 2 + Math.cos(p1) * Math.cos(p2) * Math.sin(dl / 2) ** 2;
+    return 2 * 6371 * Math.asin(Math.sqrt(h));
+  };
+  if (d) {
+    fetch((window.GG_BASE || "") + "/assets/data/places.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((places) => {
+        if (!places) return;
+        const dist = {};
+        for (const k in places) dist[k] = hav(MTL, places[k]);
+        rows.forEach((tr) => {
+          const p = MERGE[tr.dataset.place] || tr.dataset.place;
+          if (dist[p] !== undefined) tr.dataset.dist = Math.round(dist[p]);
+        });
+        d.disabled = false;
+        update();
+      })
+      .catch(() => {});
+  }
   update();
 })();
