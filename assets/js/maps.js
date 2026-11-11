@@ -23,9 +23,18 @@
     return map;
   }
 
-  function pin(map, latlon, html) {
+  var TIER_COLORS = { solid: "#1e7d46", likely: "#2f6fb2", possible: "#e09f00", none: "#c0392b", proposed: "#b8860b" };
+  var TIER_LABEL = { solid: "Solid", likely: "Likely", possible: "Possible", none: "Not eliminated", proposed: "Proposed" };
+  var STRENGTH = { none: 0, possible: 1, likely: 2, proposed: 3, solid: 4 };
+  function weakestTier(list) {
+    var pool = list.filter(function (b) { return b.tier !== "proposed"; });
+    if (!pool.length) return "proposed";
+    return pool.reduce(function (a, b) { return STRENGTH[b.tier] < STRENGTH[a] ? b.tier : a; }, pool[0].tier);
+  }
+
+  function pin(map, latlon, html, color) {
     return L.circleMarker(latlon, {
-      radius: 6, color: "#7a4a12", weight: 1.5, fillColor: "#e8a33d", fillOpacity: 0.9
+      radius: 6, color: "#4a3208", weight: 1.5, fillColor: color || "#e8a33d", fillOpacity: 0.9
     }).addTo(map).bindPopup(html);
   }
 
@@ -33,6 +42,7 @@
   var candEl = document.getElementById("cand-map");
   if (candEl) {
     var cid = candEl.getAttribute("data-cid");
+    var ctier = candEl.getAttribute("data-tier");
     Promise.all([fetchJSON(base + "/assets/data/places.json"), fetchJSON(base + "/assets/data/records.json")])
       .then(function (res) {
         var places = res[0], records = res[1];
@@ -51,9 +61,15 @@
           var lines = byPlace[p].map(function (r) {
             return r.type + (r.date ? " — " + r.date : "");
           });
-          pin(map, places[p], "<strong>" + p + "</strong><br>" + lines.join("<br>"));
+          pin(map, places[p], "<strong>" + p + "</strong><br>" + lines.join("<br>"), TIER_COLORS[ctier]);
           bounds.push(places[p]);
         });
+        if (places["Châteauguay"]) {
+          L.marker(places["Châteauguay"], {
+            icon: L.divIcon({ className: "map-star-wrap", html: '<span class="map-star">★</span>', iconSize: [26, 26], iconAnchor: [13, 13] }),
+            keyboard: false
+          }).addTo(layer).bindPopup("<strong>Châteauguay</strong> — Saint-Joachim parish. The proposed candidate, François Gendron (C127), was baptized here on 6 September 1823.");
+        }
         if (bounds.length === 1) map.setView(bounds[0], 9);
         else map.fitBounds(bounds, { padding: [24, 24] });
       });
@@ -79,7 +95,7 @@
         var shown = 0;
         window.GG_BAPTISMS.forEach(function (b) {
           if (onlyFr && !b.fr) return;
-          if (cat !== "all" && b.cat !== cat) return;
+          if (cat !== "all" && b.tier !== cat) return;
           var p = canon(b.place);
           if (!places[p]) return;
           (byPlace[p] = byPlace[p] || []).push(b);
@@ -90,16 +106,22 @@
         Object.keys(byPlace).forEach(function (p) {
           var list = byPlace[p];
           var links = list.slice(0, 10).map(function (b) {
-            return '<a href="' + b.url + '">' + b.id + " · " + b.name + "</a>";
+            return '<a href="' + b.url + '">' + b.id + " · " + b.name + "</a> · " + (TIER_LABEL[b.tier] || b.tier);
           }).join("<br>");
           if (list.length > 10) links += "<br>… and " + (list.length - 10) + " more (see the table)";
           L.circleMarker(places[p], {
-            radius: Math.min(6 + list.length, 16), color: "#7a4a12", weight: 1.5,
-            fillColor: "#e8a33d", fillOpacity: 0.75
+            radius: Math.min(6 + list.length, 16), color: "#4a3208", weight: 1.5,
+            fillColor: TIER_COLORS[weakestTier(list)], fillOpacity: 0.8
           }).addTo(layer).bindPopup("<strong>" + p + "</strong> — " + list.length +
             (list.length === 1 ? " candidate" : " candidates") + "<br>" + links);
           bounds.push(places[p]);
         });
+        if (places["Châteauguay"]) {
+          L.marker(places["Châteauguay"], {
+            icon: L.divIcon({ className: "map-star-wrap", html: '<span class="map-star">★</span>', iconSize: [26, 26], iconAnchor: [13, 13] }),
+            keyboard: false
+          }).addTo(layer).bindPopup("<strong>Châteauguay</strong> — Saint-Joachim parish. The proposed candidate, François Gendron (C127), was baptized here on 6 September 1823.");
+        }
         if (bounds.length === 1) map.setView(bounds[0], 9);
         else if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
         if (note) {

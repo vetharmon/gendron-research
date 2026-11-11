@@ -19,3 +19,20 @@
 .side-photo img { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); display: block; }
 .side-photo figcaption { font-size: 0.8rem; color: var(--ink-2); margin-top: 0.45rem; line-height: 1.45; }
 .side-photo .credit { color: var(--muted); font-size: 0.74rem; }
+
+/* Assessment tiers */
+.status.solid { background: #e2f2e7; color: #1e7d46; }
+.status.likely { background: #e3edf8; color: #2f6fb2; }
+.status.possible { background: #fdf0d3; color: #9a6b00; }
+.status.none { background: #fae8e8; color: #c0392b; }
+.map-legend .lg { display: inline-block; margin-right: 0.9rem; white-space: nowrap; }
+.map-legend .lg i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 0.3rem; border: 1px solid #4a3208; }
+.map-legend .star { color: #b8860b; font-weight: 700; }
+.map-star-wrap { background: none; border: none; }
+.map-star { color: #d4a017; font-size: 26px; line-height: 26px; text-shadow: 0 0 3px #fff, 0 0 6px #fff; }
+/* Review form */
+.review-form label { display: block; font-size: 0.82rem; font-weight: 600; margin: 0.7rem 0 0.2rem; }
+.review-form select, .review-form textarea { width: 100%; box-sizing: border-box; margin-top: 0.25rem; padding: 0.45rem 0.55rem; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); color: var(--ink); font: inherit; font-weight: 400; }
+.review-actions { display: flex; gap: 0.5rem; margin-top: 0.8rem; flex-wrap: wrap; }
+.review-actions button { padding: 0.5rem 0.9rem; border-radius: 999px; border: 1px solid var(--line); background: var(--accent); color: #fff; font: inherit; font-size: 0.85rem; font-weight: 600; cursor: pointer; }
+.review-actions .rv-copy { background: transparent; color: var(--ink); }

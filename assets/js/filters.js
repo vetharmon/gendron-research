@@ -7,14 +7,18 @@
     empty = document.getElementById("empty"),
     sum = {
       total: document.getElementById("sum-total"),
-      excluded: document.getElementById("sum-excluded"),
-      alternatives: document.getElementById("sum-alternatives"),
+      solid: document.getElementById("sum-solid"),
+      likely: document.getElementById("sum-likely"),
+      possible: document.getElementById("sum-possible"),
+      open: document.getElementById("sum-open"),
       proposed: document.getElementById("sum-proposed")
     },
     all = sum.total ? {
       total: sum.total.textContent,
-      excluded: sum.excluded.textContent,
-      alternatives: sum.alternatives.textContent,
+      solid: sum.solid.textContent,
+      likely: sum.likely.textContent,
+      possible: sum.possible.textContent,
+      open: sum.open.textContent,
       proposed: sum.proposed.textContent
     } : null;
   // Accent- and apostrophe-insensitive matching: "Francois" finds "François",
@@ -24,22 +28,25 @@
   function stats() {
     if (!all) return;
     if (f.checked) {
-      let t = 0, e = 0, a = 0, p = 0;
+      const c = { total: 0, solid: 0, likely: 0, possible: 0, open: 0, proposed: 0 };
       for (const tr of rows) {
         if (tr.dataset.francois !== "true") continue;
-        t++;
-        if (tr.dataset.category === "excluded") e++;
-        else if (tr.dataset.category === "proposed") p++;
-        else if (tr.dataset.category === "qualified" || tr.dataset.category === "unresolved") a++;
+        c.total++;
+        if (tr.dataset.tier === "none") c.open++;
+        else if (c[tr.dataset.tier] !== undefined) c[tr.dataset.tier]++;
       }
-      sum.total.textContent = t;
-      sum.excluded.textContent = e;
-      sum.alternatives.textContent = a;
-      sum.proposed.textContent = p;
+      sum.total.textContent = c.total;
+      sum.solid.textContent = c.solid;
+      sum.likely.textContent = c.likely;
+      sum.possible.textContent = c.possible;
+      sum.open.textContent = c.open;
+      sum.proposed.textContent = c.proposed;
     } else {
       sum.total.textContent = all.total;
-      sum.excluded.textContent = all.excluded;
-      sum.alternatives.textContent = all.alternatives;
+      sum.solid.textContent = all.solid;
+      sum.likely.textContent = all.likely;
+      sum.possible.textContent = all.possible;
+      sum.open.textContent = all.open;
       sum.proposed.textContent = all.proposed;
     }
   }
@@ -48,7 +55,7 @@
     let n = 0;
     for (const tr of rows) {
       const show = (!query || tr.dataset.nsearch.includes(query)) &&
-        (s.value === "all" || tr.dataset.category === s.value) &&
+        (s.value === "all" || tr.dataset.tier === s.value) &&
         (!f.checked || tr.dataset.francois === "true");
       tr.hidden = !show;
       if (show) n++;
