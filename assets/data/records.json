@@ -3028,6 +3028,16 @@
    "type": "Baptism",
    "date": "1828-12-11",
    "place": "Montmagny"
+  },
+  {
+   "type": "1871 census",
+   "date": "1871",
+   "place": "St-Fabien, Rimouski"
+  },
+  {
+   "type": "1881 census",
+   "date": "1881",
+   "place": "Lac-au-Saumon, Rimouski"
   }
  ],
  "C244": [
