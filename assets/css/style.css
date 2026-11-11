@@ -4,3 +4,12 @@
 .map-wide{height:440px}
 .map-panel .hint{margin-top:8px}
 .leaflet-popup-content{font-size:13px;line-height:1.45}
+.proposed-banner{border:1px solid var(--edge);border-left:4px solid #b07d2b;background:#fdf6e9;border-radius:8px;padding:12px 14px;margin:14px 0 4px;font-size:15px}
+.prose table{border-collapse:collapse;margin:12px 0;font-size:14px}
+.prose th,.prose td{border:1px solid var(--edge);padding:5px 10px;text-align:left}
+.proposed-case .place{font-weight:600}
+.searchlog{margin-top:18px}
+.searchlog-list{margin:8px 0 0;padding-left:18px}
+.searchlog-list li{margin:5px 0}
+.logpage .logentry{margin:0 0 14px}
+.logpage .logentry ul{margin:4px 0 0;padding-left:18px}

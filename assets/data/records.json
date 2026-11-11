@@ -44,7 +44,7 @@
  ],
  "C005": [
   {
-   "type": "PRDH-IGD family record 244226](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/244226)",
+   "type": "PRDH-IGD family record 244226",
    "date": "",
    "place": "Roxton Falls"
   },
@@ -92,7 +92,7 @@
  ],
  "C009": [
   {
-   "type": "PRDH-IGD family record 220306](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/220306)",
+   "type": "PRDH-IGD family record 220306",
    "date": "",
    "place": "St-Pierre-les-Becquets"
   },
@@ -109,7 +109,7 @@
  ],
  "C010": [
   {
-   "type": "FamilySearch index record](https://www.familysearch.org/ark:/61903/1:1:X4Q3-GGQN?lang=en)",
+   "type": "FamilySearch index record",
    "date": "",
    "place": "Beauharnois"
   },
@@ -193,7 +193,7 @@
  ],
  "C017": [
   {
-   "type": "PRDH-IGD family record 222711](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/222711)",
+   "type": "PRDH-IGD family record 222711",
    "date": "",
    "place": "Qu\u00e9bec"
   },
@@ -270,7 +270,7 @@
  ],
  "C023": [
   {
-   "type": "PRDH-IGD family 253794](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/253794)",
+   "type": "PRDH-IGD family 253794",
    "date": "",
    "place": "St-Damase"
   },
@@ -287,7 +287,7 @@
  ],
  "C024": [
   {
-   "type": "PRDH-IGD family 229114](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/229114)",
+   "type": "PRDH-IGD family 229114",
    "date": "",
    "place": "Sainte-M\u00e9lanie"
   },
@@ -316,7 +316,7 @@
  ],
  "C026": [
   {
-   "type": "PRDH-IGD family 205124](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/205124)",
+   "type": "PRDH-IGD family 205124",
    "date": "",
    "place": "St-Hugues"
   },
@@ -464,7 +464,7 @@
  ],
  "C040": [
   {
-   "type": "PRDH-IGD family 237022](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/237022)",
+   "type": "PRDH-IGD family 237022",
    "date": "",
    "place": "Sainte-Martine"
   },
@@ -1046,7 +1046,7 @@
    "place": "Burlington, Vermont"
   },
   {
-   "type": "Diocese of Burlington archives](https://www.vermontcatholic.org/about/chancery/archives/)",
+   "type": "Diocese of Burlington archives",
    "date": "",
    "place": "Burlington, Vermont"
   },
@@ -1236,7 +1236,7 @@
  ],
  "C101": [
   {
-   "type": "PRDH-IGD family record 251969](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/251969)",
+   "type": "PRDH-IGD family record 251969",
    "date": "",
    "place": "St-Damase"
   },
@@ -1606,6 +1606,26 @@
    "type": "Baptism",
    "date": "1823-09-06",
    "place": "Ch\u00e2teauguay"
+  },
+  {
+   "type": "1850 census",
+   "date": "1850",
+   "place": "St. Clair County, Missouri"
+  },
+  {
+   "type": "1860 census",
+   "date": "1860",
+   "place": "Polk County, Missouri"
+  },
+  {
+   "type": "1880 census",
+   "date": "1880",
+   "place": "Dallas County, Missouri"
+  },
+  {
+   "type": "Death",
+   "date": "1886-04-13",
+   "place": "Hickory County, Missouri"
   }
  ],
  "C128": [
@@ -2404,7 +2424,7 @@
  ],
  "C190": [
   {
-   "type": "PRDH-IGD family record 253663](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/253663)",
+   "type": "PRDH-IGD family record 253663",
    "date": "",
    "place": "Baie-des-Sables"
   },
@@ -2505,7 +2525,7 @@
  ],
  "C198": [
   {
-   "type": "PRDH-IGD family record 159519](https://www.prdh-igd.com/Membership/fr/PRDH/Famille/159519)",
+   "type": "PRDH-IGD family record 159519",
    "date": "",
    "place": "Beauharnois"
   },

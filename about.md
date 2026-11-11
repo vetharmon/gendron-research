@@ -7,9 +7,9 @@ permalink: /about/
 
 This site documents the historical identification research into Franklin Jondro of Missouri and the proposed connection to François Gendron baptized 6 September 1823 at Châteauguay, Québec.
 
-The register contains **281 stable rows**, including **206 recorded exclusions**, **73 unexcluded alternative identities**, **one proposed identity (C127)**, and **one indexing error (C270)**. The underlying register was consolidated 10 November 2026.
+The register contains **281 stable rows**, including **210 recorded exclusions**, **69 unexcluded alternative identities**, **one proposed identity (C127)**, and **one indexing error (C270)**. The underlying register was consolidated 10 November 2026.
 
-A recorded exclusion is a research assessment, not independent recertification of every scan. Qualified leads are deliberately **not** counted as exclusions. The proposed identity remains a hypothesis pending the evidence bridging Québec to Missouri.
+A recorded exclusion is a research assessment, not independent recertification of every scan. Qualified leads are generally **not** counted as exclusions. The four qualified François candidates are the exception: they are counted as eliminated, with the uncertainty in each stated on its page and in the register. The proposed identity remains a hypothesis pending the evidence bridging Québec to Missouri.
 
 ## Archives and licensing
 
