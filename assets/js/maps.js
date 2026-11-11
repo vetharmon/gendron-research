@@ -80,7 +80,7 @@
       var map = makeMap(dashEl);
       var layer = L.layerGroup().addTo(map);
       var toggle = document.getElementById("francois");
-      var statusSel = document.getElementById("status");
+      var tierBoxes = document.querySelectorAll('input[name="tier"]');
       var distEl = document.getElementById("dist");
       var MTL = [45.5017, -73.5673];
       function hav(a, b) {
@@ -92,14 +92,16 @@
       var note = document.getElementById("map-note");
       function draw() {
         var onlyFr = !!(toggle && toggle.checked);
-        var cat = statusSel ? statusSel.value : "all";
+        var tiers = {};
+        tierBoxes.forEach(function (b) { if (b.checked) tiers[b.value] = true; });
+        var allTiers = Object.keys(tiers).length === tierBoxes.length;
         var byPlace = {};
         var shown = 0;
         var maxKm = (distEl && !distEl.disabled) ? +distEl.value : null;
         var unlimited = (maxKm === null || maxKm >= +distEl.max);
         window.GG_BAPTISMS.forEach(function (b) {
           if (onlyFr && !b.fr) return;
-          if (cat !== "all" && b.tier !== cat) return;
+          if (!tiers[b.tier]) return;
           if (!unlimited) {
             var bp = canon(b.place);
             if (!places[bp] || hav(MTL, places[bp]) > maxKm) return;
@@ -136,14 +138,14 @@
           var parts = [];
           if (onlyFr) parts.push("François only");
           if (!unlimited) parts.push("within " + maxKm + " km of Montréal");
-          if (cat !== "all" && statusSel) parts.push(statusSel.options[statusSel.selectedIndex].text);
+          if (!allTiers) parts.push(Object.keys(tiers).length + " of 5 assessment levels");
           note.hidden = parts.length === 0;
           if (parts.length) note.textContent = "Map filtered — " + parts.join(" · ") + ": " + shown + (shown === 1 ? " candidate" : " candidates") + ".";
         }
       }
       draw();
       if (toggle) toggle.addEventListener("change", draw);
-      if (statusSel) statusSel.addEventListener("change", draw);
+      tierBoxes.forEach(function (b) { b.addEventListener("change", draw); });
       if (distEl) distEl.addEventListener("input", draw);
     });
   }

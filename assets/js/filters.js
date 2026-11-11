@@ -1,6 +1,6 @@
 (() => {
   const q = document.getElementById("search"),
-    s = document.getElementById("status"),
+    t = [...document.querySelectorAll('input[name="tier"]')],
     f = document.getElementById("francois"),
     d = document.getElementById("dist"),
     dout = document.getElementById("dist-out"),
@@ -53,12 +53,13 @@
     }
   }
   function update() {
+    const tiers = new Set(t.filter((b) => b.checked).map((b) => b.value));
     if (d && dout) dout.textContent = (d.disabled || +d.value >= +d.max) ? "all" : "\u2264 " + d.value + " km";
     const query = norm(q.value.trim());
     let n = 0;
     for (const tr of rows) {
       const show = (!query || tr.dataset.nsearch.includes(query)) &&
-        (s.value === "all" || tr.dataset.tier === s.value) &&
+        tiers.has(tr.dataset.tier) &&
         (!f.checked || tr.dataset.francois === "true") &&
         (!d || d.disabled || +d.value >= +d.max || (tr.dataset.dist !== undefined && +tr.dataset.dist <= +d.value));
       tr.hidden = !show;
@@ -68,7 +69,7 @@
     empty.hidden = n !== 0;
     stats();
   }
-  [q, s, f, d].forEach((el) => { if (el) el.addEventListener("input", update); });
+  [q, f, d, ...t].forEach((el) => { if (el) el.addEventListener("input", update); });
   // Distance of each baptism place from Montréal, from the same coordinates
   // the maps use. Until the data arrives the slider stays disabled and
   // nothing is filtered by distance.
