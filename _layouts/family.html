@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<a class="back" href="{{ '/families/' | relative_url }}">← All family dossiers</a>
+<article class="case">
+<div class="eyebrow">Family dossier · Last verified {{ page.verified }}</div>
+<h1>{{ page.title }}</h1>
+<p class="place">{{ page.place }}</p>
+<span class="status">{{ page.status }}</span>
+<div class="case-grid">
+<section class="panel prose">{{ content }}</section>
+<aside>
+<section class="panel outcome"><h2>Why this dossier exists</h2><p class="outcome-text">Our own summary of records already consulted for this family, kept on the site so the underlying databases (PRDH, LAFRANCE, LAC, FamilySearch) are not re-queried for the same facts. Check here first.</p></section>
+<section class="panel"><h2>Dossier details</h2><dl>
+<dt>Couple</dt><dd>{{ page.couple }}</dd>
+<dt>Marriage</dt><dd>{{ page.marriage }}</dd>
+{% if page.prdh_union %}<dt>PRDH union</dt><dd>{{ page.prdh_union }}</dd>{% endif %}
+<dt>Last verified</dt><dd>{{ page.verified }}</dd>
+{% if page.related %}<dt>Related candidates</dt><dd>{{ page.related }}</dd>{% endif %}
+</dl></section>
+</aside>
+</div>
+</article>

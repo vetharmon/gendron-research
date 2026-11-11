@@ -1,0 +1,17 @@
+---
+layout: default
+title: Family dossiers
+permalink: /families/
+---
+<a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
+<article class="case">
+<h1>Family dossiers</h1>
+<p class="place">Reconstructed families behind the candidates — our own summaries, with source IDs and the date each fact was last verified.</p>
+<section class="panel prose">
+<p>These dossiers exist so that nobody — human or AI — has to re-query PRDH, LAFRANCE, Library and Archives Canada, or FamilySearch for facts already established. Each one states what was consulted, what it showed, and what remains unresolved. They are summaries in our own words, not copies of any database's pages.</p>
+<ul>
+{% for f in site.families %}<li><a href="{{ f.url | relative_url }}"><strong>{{ f.title }}</strong></a> — {{ f.status }}<br><span class="hint">{{ f.summary }}</span></li>
+{% endfor %}
+</ul>
+</section>
+</article>

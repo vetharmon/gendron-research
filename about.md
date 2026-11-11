@@ -30,3 +30,7 @@ The evidence entries on candidate pages are **readable source abstracts**, prepa
 ## Research method
 
 Every candidate retains its original C-series ID so the pages can be reconciled with the master elimination register. Evidence is assessed through childhood death records, adult marriages and continuing families, census records, and source-parent matching. A record that cannot currently be found is not treated as proof of emigration or death.
+
+## Family dossiers
+
+Reconstructed families behind the candidates — our own verified summaries, kept so the underlying databases are not re-queried for the same facts — are collected under [Family dossiers](/gendron-research/families/).
