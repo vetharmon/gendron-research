@@ -8,5 +8,8 @@ collections:
   candidates:
     output: true
     permalink: /candidates/:name/
+  families:
+    output: true
+    permalink: /families/:name/
 exclude:
   - README.md
