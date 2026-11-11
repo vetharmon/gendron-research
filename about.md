@@ -15,6 +15,8 @@ A recorded exclusion is a research assessment, not independent recertification o
 
 No register images are hosted or reproduced here. Source links lead to providers including BAnQ, FamilySearch, PRDH-IGD and Généalogie Québec, where recorded in the research notes. Some services require sign-in or subscription; URLs have not all been live tested. The filenames shown on candidate pages reference a private evidence archive and are not downloadable images.
 
+Parish photographs shown in a candidate's sidebar are modern or historical photographs of the church of his baptism (or, for Berthierville, an aerial view of the town), drawn from Wikimedia Commons and individually checked against the parish they are captioned for before inclusion; each carries its photographer's credit and licence on the page. No photograph of any candidate himself is known to survive — these men were baptized in 1816–1830, before portrait photography reached rural Québec — so the church where the surviving record was made stands in for the man.
+
 ## Citation caution
 
 The present source pages are working research notes. Verify the historical act, its location and the image before relying upon it in an official submission. The earliest records shown are indexed baptism dates unless otherwise stated.

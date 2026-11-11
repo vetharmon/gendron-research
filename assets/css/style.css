@@ -184,3 +184,9 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
   .hero{padding:48px 0 32px}
   .browsehead{flex-direction:column;align-items:flex-start}
 }
+
+/* Parish photographs (sidebar figure, added with _data/images.json) */
+.side-photo { margin: 0; }
+.side-photo img { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); display: block; }
+.side-photo figcaption { font-size: 0.8rem; color: var(--ink-2); margin-top: 0.45rem; line-height: 1.45; }
+.side-photo .credit { color: var(--muted); font-size: 0.74rem; }
