@@ -1,0 +1,15 @@
+---
+layout: default
+title: Research log
+permalink: /research-log/
+---
+<a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
+<article class="case logpage"><div class="eyebrow">RESEARCH LOG</div><h1>What has been searched</h1>
+<p class="place">The uneliminated candidates — what resources have been searched for each, and what the searches found.</p>
+<p>This page is the project's working log for the candidates who have <strong>not</strong> been eliminated: the unresolved and the qualified. Each entry lists the resources searched and the outcome, as of the 10 November 2026 consolidation. It is updated as the research continues — a candidate leaves this page when a searched record settles him, one way or the other. The same log appears at the foot of each candidate's own page.</p>
+{% assign unres = site.candidates | where: 'category', 'unresolved' | sort: 'date_record' %}{% assign qual = site.candidates | where: 'category', 'qualified' | sort: 'date_record' %}
+<h2>Unresolved ({{ unres.size }})</h2>
+{% for c in unres %}<div class="logentry"><a href="{{ c.url | relative_url }}"><strong>{{ c.url | remove: '/candidates/' | remove: '/' | upcase }} · {{ c.title }}</strong></a> <span class="hint">{{ c.date_record }} · {{ c.place }}</span><ul>{% for s in c.search_log %}<li><strong>{{ s.resource }}</strong> — {{ s.outcome }}</li>{% endfor %}</ul></div>{% endfor %}
+<h2>Qualified ({{ qual.size }})</h2>
+{% for c in qual %}<div class="logentry"><a href="{{ c.url | relative_url }}"><strong>{{ c.url | remove: '/candidates/' | remove: '/' | upcase }} · {{ c.title }}</strong></a> <span class="hint">{{ c.date_record }} · {{ c.place }}</span><ul>{% for s in c.search_log %}<li><strong>{{ s.resource }}</strong> — {{ s.outcome }}</li>{% endfor %}</ul></div>{% endfor %}
+</article>
