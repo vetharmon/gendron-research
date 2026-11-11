@@ -207,3 +207,8 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .review-actions { display: flex; gap: 0.5rem; margin-top: 0.8rem; flex-wrap: wrap; }
 .review-actions button { padding: 0.5rem 0.9rem; border-radius: 999px; border: 1px solid var(--line); background: var(--accent); color: #fff; font: inherit; font-size: 0.85rem; font-weight: 600; cursor: pointer; }
 .review-actions .rv-copy { background: transparent; color: var(--ink); }
+
+/* Site logo (roundel in the header, badge in the hero) */
+.brand-mark { width: 34px; height: 34px; border-radius: 50%; vertical-align: -10px; margin-right: 10px; }
+.hero-badge { width: 168px; height: 168px; float: right; margin: 0.2rem 0 1rem 1.5rem; }
+@media (max-width: 640px) { .hero-badge { float: none; display: block; margin: 0 auto 1rem; width: 132px; height: 132px; } }
