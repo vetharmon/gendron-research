@@ -11,7 +11,7 @@
   <circle cx="21" cy="120" r="2.6" fill="#c9a227"/>
   <circle cx="219" cy="120" r="2.6" fill="#c9a227"/>
   <text font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="16.5" letter-spacing="3.5" fill="#1e3a5f">
-    <textPath href="#arcTop" startOffset="50%" text-anchor="middle">FRANÇOIS GENDRON</textPath>
+    <textPath href="#arcTop" startOffset="50%" text-anchor="middle">FRANÇOIS JANDRON</textPath>
   </text>
   <text font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="16.5" letter-spacing="3.5" fill="#1e3a5f">
     <textPath href="#arcBottom" startOffset="50%" text-anchor="middle">FRANKLIN JONDRO</textPath>
