@@ -20,7 +20,7 @@
     {% endfor %}
   </ul>
   {% endif %}
-  {% assign prdh_links = site.data.prdh_links[page.id] %}
+  {% assign prdh_links = site.data.prdh_links[short_id] %}
   {% if prdh_links.size > 0 %}
   <h3>PRDH-IGD</h3>
   <p class="hint">Links open PRDH-IGD. A subscription may be required, and opening a record may use a hit.</p>
