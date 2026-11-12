@@ -2,8 +2,8 @@
 
 Jekyll/GitHub Pages site documenting 281 Gendron/Gendreau candidate records as of 10 November 2026. Source images are **not hosted in this repository**; the candidate pages link externally to the record providers where direct URLs were preserved in the research register.
 
-- 206 recorded exclusions (research assessments)
-- 73 unexcluded alternatives (50 unresolved, 23 qualified)
+- 212 recorded exclusions (research assessments)
+- 67 unexcluded alternatives (48 unresolved, 19 qualified)
 - C127 proposed identity; C270 index error
 - 30 François-name entries, available with the **François only** checkbox
 
