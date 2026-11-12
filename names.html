@@ -1,0 +1,62 @@
+---
+layout: default
+title: First names by distance
+permalink: /names/
+---
+<a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
+<article class="case">
+<h1>First names</h1>
+<p class="place">Instances of each first name among the 281 baptismal candidates, filtered by how far the baptism parish lies from Montréal.</p>
+
+<div class="filters">
+  <label>Maximum distance from Montréal: <span id="names-km-label">all</span>
+    <input type="range" id="names-dist" min="25" max="575" step="25" value="575">
+  </label>
+  <label>Assessment
+    <select id="names-tier">
+      <option value="all">All assessments</option>
+      <option value="solid">Solid elimination</option>
+      <option value="likely">Likely elimination</option>
+      <option value="possible">Possible elimination</option>
+      <option value="none">Not eliminated</option>
+      <option value="proposed">Proposed identity</option>
+    </select>
+  </label>
+</div>
+<p class="hint" id="names-summary"></p>
+
+<section class="panel prose">
+<h2>First names</h2>
+<table>
+  <thead><tr><th>First name (as recorded)</th><th>Instances</th><th>Parishes</th></tr></thead>
+  <tbody id="names-body"></tbody>
+</table>
+
+<h2>Baptism parishes</h2>
+<table>
+  <thead><tr><th>Parish</th><th>Distance from Montréal (km)</th><th>Candidates</th></tr></thead>
+  <tbody id="names-places-body"></tbody>
+</table>
+
+<h2>Candidates</h2>
+<p class="hint">Every candidate matching the distance and assessment above. Narrow it to one first name to work a single name at a time — for example, the not-eliminated men named François within reach of Montréal.</p>
+<div class="filters">
+  <label>First name
+    <select id="names-name"><option value="all">All first names</option></select>
+  </label>
+</div>
+<table>
+  <thead><tr><th>Candidate</th><th>Baptism parish</th><th>Distance (km)</th><th>Assessment</th></tr></thead>
+  <tbody id="names-candidates-body"></tbody>
+</table>
+
+<p class="hint">Distances are straight-line (great-circle) distances from downtown Montréal to the parish-town coordinates used by the register's map. They are not road distances. Assessments are the register's elimination tiers.</p>
+</section>
+</article>
+
+<script>
+window.GG_NAMES = [
+{% for c in site.candidates %}{"t": {{ c.title | jsonify }}, "p": {{ c.place | jsonify }}, "tier": {{ c.tier | jsonify }}, "u": {{ c.url | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}];
+</script>
+<script src="{{ '/assets/js/names.js' | relative_url }}"></script>
