@@ -232,3 +232,12 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .top{flex-wrap:wrap}
 .top nav{flex-wrap:wrap;gap:12px 20px;max-width:100%}
 @media(max-width:760px){.top .brand{font-size:22px}.top .brand small{display:block;margin-left:0}.top nav{gap:8px 16px}}
+
+/* Dashboard row: map left, filters right, register below */
+.dash-row{display:flex;gap:24px;align-items:flex-start;margin:28px 0 8px}
+.dash-row .mapsec{flex:1 1 auto;min-width:0;margin:0}
+.dash-side{flex:0 0 292px}
+.dash-side .filters{flex-direction:column;align-items:stretch;gap:14px;margin-bottom:0}
+.dash-side .filters label{min-width:0}
+.dash-side .filters input[type="range"]{width:100%}
+@media (max-width:920px){.dash-row{flex-direction:column}.dash-side{flex:none;width:100%}}
