@@ -13,3 +13,5 @@ collections:
     permalink: /families/:name/
 exclude:
   - README.md
+  - scripts
+  - docs
