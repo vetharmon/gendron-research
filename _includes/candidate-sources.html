@@ -1,0 +1,33 @@
+<section class="panel candidate-parents" aria-labelledby="parents-title">
+  <h2 id="parents-title">Parents</h2>
+  {% if page.parents %}
+  <p>{{ page.parents | escape }}</p>
+  {% if page.parents_note %}<p class="hint">{{ page.parents_note | escape }}</p>{% endif %}
+  {% else %}
+  <p class="hint">Not yet recorded in this research summary.</p>
+  {% endif %}
+</section>
+<section class="panel candidate-sources" aria-labelledby="sources-title">
+  <h2 id="sources-title">Source links</h2>
+  {% if page.sources.size > 0 %}
+  <ul class="source-list">
+    {% assign source_urls = '' | split: ',' %}
+    {% for source in page.sources %}
+    {% unless source.url contains 'prdh-igd.com/' or source_urls contains source.url %}
+    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}</li>
+    {% assign source_urls = source_urls | push: source.url %}
+    {% endunless %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% assign prdh_links = site.data.prdh_links[page.id] %}
+  {% if prdh_links.size > 0 %}
+  <h3>PRDH-IGD</h3>
+  <p class="hint">Links open PRDH-IGD. A subscription may be required, and opening a record may use a hit.</p>
+  <ul class="source-list">
+    {% for source in prdh_links %}
+    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.note %}<small>{{ source.note | escape }}</small>{% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>

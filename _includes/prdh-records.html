@@ -1,7 +1,0 @@
-<section class="panel prdh-records" id="prdh-records" data-prdh-candidate="{{ short_id }}" data-prdh-url="{{ '/assets/data/prdh-research-cards.json' | relative_url }}">
-  <div class="prdh-heading"><div><div class="eyebrow">THE RESEARCH FILE</div><h2>PRDH research cards</h2></div><a href="{{ '/prdh-index/' | relative_url }}">Browse the index →</a></div>
-  <p class="hint">Our own formatted abstracts of saved records. Database information and uncertain readings are identified on each card; original registers remain the sources to verify.</p>
-  <div class="prdh-card-list" aria-live="polite"><p class="prdh-loading">Loading saved cards…</p></div>
-  <noscript><p>Enable JavaScript to display the cards, or <a href="{{ '/assets/data/prdh-research-cards.json' | relative_url }}">read the structured research file</a>.</p></noscript>
-</section>
-<script defer src="{{ '/assets/js/prdh-cards.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

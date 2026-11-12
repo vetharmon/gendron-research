@@ -12,4 +12,6 @@ The site is built from the consolidated project audit and is not an independent 
 ## Publish
 In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/(root)`. Then the site should publish at https://vetharmon.github.io/gendron-research/.
 
-No locally archived images, scans, or photographs are included.
+Candidate sidebars show parents’ names where recorded and direct source links. PRDH references are stored in `_data/prdh_links.json` as labels, URLs and uncertainty notes only; reconstructed cards and their bulk data are not published. A retired-index notice preserves old bookmarks.
+
+The family Bible gallery includes the cover and six historical pages. No affidavit or paid-provider register scans are hosted.
