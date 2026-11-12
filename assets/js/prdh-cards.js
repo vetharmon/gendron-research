@@ -57,7 +57,19 @@
   }
   const root=document.querySelector('[data-prdh-candidate], [data-prdh-index]');
   if (!root) return;
-  fetch(root.dataset.prdhUrl).then(r=>{if(!r.ok)throw new Error('Could not load the saved record file.');return r.json();}).then(data=>root.hasAttribute('data-prdh-index')?indexView(data,root):candidateView(data,root)).catch(()=>{
+  const header=document.querySelector('.top');
+  if (header) {
+    const offset=()=>document.documentElement.style.setProperty('--prdh-scroll-offset',`${Math.ceil(header.getBoundingClientRect().height)+24}px`);
+    offset();
+    if (typeof ResizeObserver !== 'undefined') new ResizeObserver(offset).observe(header);
+    else window.addEventListener('resize',offset);
+  }
+  fetch(root.dataset.prdhUrl).then(r=>{if(!r.ok)throw new Error('Could not load the saved record file.');return r.json();}).then(data=>{
+    if (root.hasAttribute('data-prdh-index')) indexView(data,root);
+    else candidateView(data,root);
+    // Saved-card anchors only exist after the record file has loaded.
+    if (location.hash.startsWith('#prdh-')) document.getElementById(location.hash.slice(1))?.scrollIntoView();
+  }).catch(()=>{
     const dest=root.querySelector('.prdh-card-list, [data-prdh-list]');dest.textContent='The saved cards could not be loaded. Reload this page to try again.';
   });
 })();
