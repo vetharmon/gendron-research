@@ -11,7 +11,7 @@
     solid: "Solid elimination",
     likely: "Likely elimination",
     possible: "Possible elimination",
-    none: "Not eliminated",
+    none: "Needs work",
     proposed: "Proposed identity"
   };
   forms.forEach(function (form) {

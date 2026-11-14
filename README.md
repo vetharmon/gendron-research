@@ -4,7 +4,7 @@ Jekyll/GitHub Pages site documenting 281 Gendron/Gendreau candidate records as o
 
 - 212 eliminated entries (including the C270 duplicate index entry)
 - 22 likely eliminated; 3 possible eliminations
-- 43 possible candidates
+- 43 candidates needing work
 - C127 proposed identity
 - 30 François-name entries, available with the **François only** checkbox
 
