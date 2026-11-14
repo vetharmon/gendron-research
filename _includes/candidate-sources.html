@@ -4,7 +4,7 @@
   <p>{{ page.parents | escape }}</p>
   {% if page.parents_note %}<p class="hint">{{ page.parents_note | escape }}</p>{% endif %}
   {% else %}
-  <p class="hint">Not yet recorded in this research summary.</p>
+  <p class="hint">Not recorded.</p>
   {% endif %}
 </section>
 <section class="panel candidate-sources" aria-labelledby="sources-title">
@@ -23,7 +23,7 @@
   {% assign prdh_links = site.data.prdh_links[short_id] %}
   {% if prdh_links.size > 0 %}
   <h3>PRDH-IGD</h3>
-  <p class="hint">Links open PRDH-IGD. A subscription may be required, and opening a record may use a hit.</p>
+  <p class="hint">Subscription required; opening records may use credits.</p>
   <ul class="source-list">
     {% for source in prdh_links %}
     <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.note %}<small>{{ source.note | escape }}</small>{% endif %}</li>

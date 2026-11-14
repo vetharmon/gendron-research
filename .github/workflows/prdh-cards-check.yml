@@ -1,5 +1,7 @@
-name: Check PRDH cards branch
+name: Check Jekyll site
 on:
+  pull_request:
+    branches: [main]
   push:
     branches: [feature/prdh-research-cards]
   workflow_dispatch:

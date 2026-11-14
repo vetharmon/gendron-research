@@ -37,6 +37,6 @@ François Régis is the couple's **only** son named François. His own PRDH indi
 
 The family appears together at St-Clément in the census called 1851 (enumerated January 1852), Schedule A p. 61 (LAC image e002296498): Jean Baptiste, 54, cultivateur; Claire, 50; Régis, 23, voyageur; Judith, 19; Jérémie, 16; Célanire, 10; and two lines read imperfectly (a Joseph, about 21, and a younger child). Michel, married in 1848, heads the next household on the page. The household composition matches the baptized children above.
 
-## Cautions
+## Other indexed children
 
 LAFRANCE baptism searches also surface an Antoine (bap. 1822, m. 1847 Charlotte Giroux), a Marie Angélique (bap. 1830), and an Amable attributed to a Jean Baptiste Gendron at St-Clément. None of them is in the PRDH family above; a second couple of the same father's name may exist in the parish. They are **not** merged into this dossier.

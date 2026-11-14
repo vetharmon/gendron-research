@@ -18,7 +18,7 @@
   const placesBody = document.getElementById("names-places-body");
   const nameEl = document.getElementById("names-name");
   const candBody = document.getElementById("names-candidates-body");
-  const TIER_LABEL = { solid: "Solid elimination", likely: "Likely elimination", possible: "Possible elimination", none: "Not eliminated", proposed: "Proposed identity" };
+  const TIER_LABEL = { solid: "Eliminated", likely: "Likely eliminated", possible: "Possible elimination", none: "Possible", proposed: "Proposed identity" };
   if (nameEl) {
     const counts = new Map();
     for (const r of rows) counts.set(r.given, (counts.get(r.given) || 0) + 1);

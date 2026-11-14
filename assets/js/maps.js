@@ -24,7 +24,7 @@
   }
 
   var TIER_COLORS = { solid: "#1e7d46", likely: "#2f6fb2", possible: "#e09f00", none: "#c0392b", proposed: "#b8860b" };
-  var TIER_LABEL = { solid: "Solid", likely: "Likely", possible: "Possible", none: "Not eliminated", proposed: "Proposed" };
+  var TIER_LABEL = { solid: "Eliminated", likely: "Likely eliminated", possible: "Possible", none: "Possible", proposed: "Proposed" };
   var STRENGTH = { none: 0, possible: 1, likely: 2, proposed: 3, solid: 4 };
   function weakestTier(list) {
     var pool = list.filter(function (b) { return b.tier !== "proposed"; });
