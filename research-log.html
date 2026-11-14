@@ -6,10 +6,64 @@ permalink: /research-log/
 <a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
 <article class="case logpage"><div class="eyebrow">RESEARCH LOG</div><h1>What has been searched</h1>
 <p class="place">Resources searched and records found.</p>
-<p>Search results for candidates whose later lives are still under investigation.</p>
-{% assign unres = site.candidates | where: 'category', 'unresolved' | sort: 'date_record' %}{% assign qual = site.candidates | where: 'category', 'qualified' | sort: 'date_record' %}
-<h2>14 November 2026 — C252 restored; Ontario lead for C039</h2><p><a href="{{ '/candidates/c252/' | relative_url }}">C252, Prudent Gendron</a>: restored the saved elimination after rechecking the baptism and 1871 and 1901 census extracts. The 1901 birth date matches 6 April 1829; he was alive after Franklin’s death. This restores the 13 November finding. <a href="{{ '/candidates/c039/' | relative_url }}">C039, Michel-Archange Gendron</a>: an Ontario family lead was recorded; no connection to his baptismal parents has been established.</p><h2>11 November 2026 — parents, source links and family Bible</h2><p>Candidate pages show parents’ names where recorded and direct source links, including PRDH-IGD references. Reconstructed PRDH cards are no longer published on this site. The <a href="{{ '/family-bible/' | relative_url }}">Johndrow family Bible gallery</a> presents the six historical pages and exterior photograph shared in June 2026.</p><h2>Needs work ({{ unres.size }})</h2>
-{% for c in unres %}<div class="logentry"><a href="{{ c.url | relative_url }}"><strong>{{ c.url | remove: '/candidates/' | remove: '/' | upcase }} · {{ c.title }}</strong></a> <span class="hint">{{ c.date_record }} · {{ c.place }}</span><ul>{% for s in c.search_log %}<li><strong>{{ s.resource }}</strong> — {{ s.outcome }}</li>{% endfor %}</ul></div>{% endfor %}
-<h2>Candidates with later-record leads ({{ qual.size }})</h2>
-{% for c in qual %}<div class="logentry"><a href="{{ c.url | relative_url }}"><strong>{{ c.url | remove: '/candidates/' | remove: '/' | upcase }} · {{ c.title }}</strong></a> <span class="hint">{{ c.date_record }} · {{ c.place }}</span><ul>{% for s in c.search_log %}<li><strong>{{ s.resource }}</strong> — {{ s.outcome }}</li>{% endfor %}</ul></div>{% endfor %}
+<p>Search results for candidates whose later lives are still under investigation. This page is fed from the shared research log workbook — only entries marked for publication appear here.</p>
+<h2>14 November 2026 — C252 restored; Ontario lead for C039</h2><p><a href="{{ '/candidates/c252/' | relative_url }}">C252, Prudent Gendron</a>: restored the saved elimination after rechecking the baptism and 1871 and 1901 census extracts. The 1901 birth date matches 6 April 1829; he was alive after Franklin’s death. This restores the 13 November finding. <a href="{{ '/candidates/c039/' | relative_url }}">C039, Michel-Archange Gendron</a>: an Ontario family lead was recorded; no connection to his baptismal parents has been established.</p><h2>11 November 2026 — parents, source links and family Bible</h2><p>Candidate pages show parents’ names where recorded and direct source links, including PRDH-IGD references. Reconstructed PRDH cards are no longer published on this site. The <a href="{{ '/family-bible/' | relative_url }}">Johndrow family Bible gallery</a> presents the six historical pages and exterior photograph shared in June 2026.</p>
+<h2>Needs work (<span id="count-none">…</span>)</h2>
+<div id="log-none"></div>
+<h2>Candidates with later-record leads (<span id="count-leads">…</span>)</h2>
+<div id="log-leads"></div>
+<h2>Eliminated — searches recorded (<span id="count-solid">…</span>)</h2>
+<div id="log-solid"></div>
+<p class="hint" id="log-generated"></p>
 </article>
+<script>
+fetch('{{ "/assets/data/research_log.json" | relative_url }}')
+  .then(function (r) { return r.json(); })
+  .then(function (doc) {
+    var groups = { none: {}, leads: {}, solid: {} };
+    var order = { none: [], leads: [], solid: [] };
+    doc.entries.forEach(function (e) {
+      var g = e.tier === 'solid' ? 'solid' : (e.tier === 'none' ? 'none' : 'leads');
+      if (!groups[g][e.candidate]) { groups[g][e.candidate] = { meta: e, items: [] }; order[g].push(e.candidate); }
+      groups[g][e.candidate].items.push(e);
+    });
+    function render(target, g) {
+      var box = document.getElementById(target);
+      order[g].forEach(function (cid) {
+        var c = groups[g][cid];
+        var div = document.createElement('div');
+        div.className = 'logentry';
+        var a = document.createElement('a');
+        a.href = '{{ "/candidates/" | relative_url }}' + cid.toLowerCase() + '/';
+        var strong = document.createElement('strong');
+        strong.textContent = cid + ' · ' + c.meta.name;
+        a.appendChild(strong);
+        div.appendChild(a);
+        var hint = document.createElement('span');
+        hint.className = 'hint';
+        hint.textContent = ' ' + c.meta.baptism + ' · ' + c.meta.place;
+        div.appendChild(hint);
+        var ul = document.createElement('ul');
+        c.items.forEach(function (e) {
+          var li = document.createElement('li');
+          var s = document.createElement('strong');
+          s.textContent = e.source;
+          li.appendChild(s);
+          var text = ' — ' + (e.action ? e.action + ' — ' : '') + e.outcome;
+          li.appendChild(document.createTextNode(text));
+          ul.appendChild(li);
+        });
+        div.appendChild(ul);
+        box.appendChild(div);
+      });
+      return order[g].length;
+    }
+    document.getElementById('count-none').textContent = render('log-none', 'none');
+    document.getElementById('count-leads').textContent = render('log-leads', 'leads');
+    document.getElementById('count-solid').textContent = render('log-solid', 'solid');
+    document.getElementById('log-generated').textContent = 'Log export generated ' + doc.generated + ' — ' + doc.count + ' published entries.';
+  })
+  .catch(function () {
+    document.getElementById('log-generated').textContent = 'The research log could not be loaded.';
+  });
+</script>
