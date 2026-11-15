@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14",
- "count": 204,
+ "generated": "2026-11-15",
+ "count": 211,
  "entries": [
   {
    "date": "",
@@ -192,7 +192,7 @@
    "outcome": "Baptism located — act 2523572, Sorel (St-Pierre), 1817-09-17.",
    "baptism": "1817-09-17",
    "place": "Sorel (St-Pierre)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -204,7 +204,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1817-09-17",
    "place": "Sorel (St-Pierre)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -216,7 +216,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1817-09-17",
    "place": "Sorel (St-Pierre)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -960,7 +960,7 @@
    "outcome": "Baptism located — act 2736955, Contrecoeur (Ste-Trinité), 1824-11-28.",
    "baptism": "1824-11-28",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -972,7 +972,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1824-11-28",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -984,7 +984,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1824-11-28",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -1908,7 +1908,7 @@
    "outcome": "Baptism located — act 4371608, St-Damase (St-Hyacinthe), 1829-02-03.",
    "baptism": "1829-02-03",
    "place": "St-Damase (St-Hyacinthe)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -1920,7 +1920,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1829-02-03",
    "place": "St-Damase (St-Hyacinthe)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -2076,7 +2076,7 @@
    "outcome": "Baptism located — act 4080568, Montmagny (St-Thomas), 1830-11-04.",
    "baptism": "1830-11-04",
    "place": "Montmagny (St-Thomas)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2088,7 +2088,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1830-11-04",
    "place": "Montmagny (St-Thomas)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2100,7 +2100,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1830-11-04",
    "place": "Montmagny (St-Thomas)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2449,6 +2449,90 @@
    "baptism": "1829-04-07",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
    "tier": "solid"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C120",
+   "name": "Louis GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "Original baptism read and downloaded on 15 November 2026. Parents are François Gendreau and Geneviève Pagé. FamilySearch tree M3VS-YYN links him to François Gendreau and Geneviève Bocage and calls him Louis Jerdo. This is an unverified family-tree connection; the Pagé/Bocage difference needs a record bridge. The attached 1850 census for the proposed father lists Francis Gendron, 55, with Samuel Gendron, 21, Matilda, 21, and Mary Louisa, four months, at Plattsburgh. It does not place Louis in that household. No later record identified for C120.",
+   "baptism": "1823-05-29",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "Original baptism read and downloaded on 15 November 2026. Born the previous day; father a cultivateur of the parish and absent at the baptism. The parental names match C178 Thomas. LAFRANCE indexes the mother's burial at St-Hugues on 31 August 1837 (4378457) and the father's remarriage there on 10 January 1843 (13499521). These follow-up acts have not been read in the original. No adult record for Joseph or Thomas was identified in the parental-couple search.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "Original baptism B154 read and downloaded on 15 November 2026. Born and baptized that day; father a cultivateur of the place. The parents match C094 Pierre, C114 Louis and C136 Jean Baptiste. LAFRANCE indexes the mother's burial on 16 August 1826 (3003179), father's remarriage on 12 February 1833 (13401051), and sister Élisabeth's marriage on 28 October 1845 (13368786). These follow-up acts have not been read in the original. No later record identified for C183.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C211",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "Original baptism B390 read and downloaded on 15 November 2026. Born and baptized that day; father a cultivateur. LAFRANCE spells the mother Dusseault. The parental-couple search follows the family to St-Damase and St-Pie. Three burial indexes checked belong to other children: Élophe, age 5 (4245407, 13 December 1837); Pierre Zéphyrin, age 7½ (4245422, 16 January 1838); Ambroise, age 6 (4246209, 12 October 1846). They do not eliminate C211. No later record identified for C211.",
+   "baptism": "1827-10-01",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C247",
+   "name": "Jean Baptiste GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read baptism, brother Noël’s baptism and Goshen census; compare Vermont namesakes",
+   "outcome": "Original baptism B7 read and downloaded on 15 November 2026. Born the previous day; father a journalier residing at St-Césaire and absent at the baptism. LAFRANCE indexes the parents' marriage on 10 June 1828 at St-Damase (13553714). NosOrigines 2038067 and 2038066 place a John Johndro/Marguerite Godin couple in Leicester, Vermont, in 1870. That census identification has not been verified. Original Vermont death card XFVK-1Z9 / 939V-SKBL-J read and downloaded: John Johndro, Canadian-born farmer, age 33 years 11 months, died 30 December 1863; town Weybridge. Parents are blank. The search-results location Johnson is incorrect for the town on the card. The connection to C247 remains unproved. Original 1850 Goshen census read and downloaded: 10 September, dwelling 49, family 53, page 30; John Jondereau, 48; Lagott, 43; John, 21; Vitalia, 19; Christmas, 17; Sophia, 10; Maria, 5; Lacoon, 3; Mason, 1. John, 21, is a Canadian-born laborer. No relationships or mother's maiden name stated. Original baptism of Noël Gendron, 25 December 1831, St-Damase (4371979), read and downloaded; born that day to Jean Baptiste Gendron and Marguerite Godin. Noël could explain Christmas in the Goshen household, although the census age is about one year low. Assessment: Possible elimination. The candidate's name, age and Canadian birth, older John, and possible Noël/Christmas sibling support this identification. The woman's name Lagott is unconnected to Marguerite Godin and relationships remain unproved. Another John Jondro, 22, lived with Diana, 16, at Brandon in 1850. The Weybridge 1863 death remains an independent lead.",
+   "baptism": "1829-02-03",
+   "place": "St-Damase (St-Hyacinthe)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C178",
+   "name": "Thomas GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "C143 Joseph’s original baptism identifies the same parents, Jacques Gendron and Geneviève Goulette. LAFRANCE indexes the mother’s burial at St-Hugues on 31 August 1837 and the father’s remarriage there on 10 January 1843. Those original acts remain to be inspected; follow both sons in the St-Hugues household.",
+   "baptism": "1826-03-07",
+   "place": "Berthier-sur-Mer (Notre-Dame-de-l'Assomption)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original parish registers; LAFRANCE; FamilySearch",
+   "action": "Read original baptism or related family evidence; follow parental-couple records",
+   "outcome": "The public-tree lead for Jean Baptiste Gendron, husband of Marie Louise Chagnon, belongs to C152, born in 1824. His original marriage is dated 11 June 1850, despite the February date in the index. It is not evidence for C266 Joseph. No later Joseph record was established in the parental-couple search.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "none"
   }
  ]
 }
