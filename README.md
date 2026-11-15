@@ -2,9 +2,9 @@
 
 Jekyll/GitHub Pages site documenting 281 Gendron/Gendreau candidate records as of 14 November 2026. Source images are **not hosted in this repository**; the candidate pages link externally to the record providers where direct URLs were preserved in the research register.
 
-- 212 eliminated entries (including the C270 duplicate index entry)
-- 22 likely eliminated; 3 possible eliminations
-- 43 candidates needing work
+- 280 distinct candidates and one duplicate index entry (C270, cross-referencing C200)
+- 213 eliminated; 24 likely eliminated; 4 possible eliminations
+- 38 candidates needing work
 - C127 proposed identity
 - 30 François-name entries, available with the **François only** checkbox
 
@@ -16,3 +16,6 @@ In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/(
 Candidate sidebars show parents’ names where recorded and direct source links. PRDH references are stored in `_data/prdh_links.json` as labels, URLs and uncertainty notes only; reconstructed cards and their bulk data are not published. A retired-index notice preserves old bookmarks.
 
 The family Bible gallery includes the cover and six historical pages. No affidavit or paid-provider register scans are hosted.
+
+
+The Google workbook and candidate pages are reconciled manually; candidate edits in the workbook do not automatically update the site. The research-log exporter publishes only rows explicitly marked TRUE. About-page and homepage counts are calculated from candidate metadata.
