@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-15",
- "count": 211,
+ "count": 228,
  "entries": [
   {
    "date": "",
@@ -564,7 +564,7 @@
    "outcome": "Baptism located — act 2618781, St-Constant (La Prairie), 1821-10-09.",
    "baptism": "1821-10-09",
    "place": "St-Constant (La Prairie)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -576,7 +576,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1821-10-09",
    "place": "St-Constant (La Prairie)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -588,7 +588,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1821-10-09",
    "place": "St-Constant (La Prairie)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -1056,7 +1056,7 @@
    "outcome": "Baptism located — act 4253516, Beauharnois (St-Clément), 1825-06-10.",
    "baptism": "1825-06-10",
    "place": "Beauharnois (St-Clément)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -1068,7 +1068,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1825-06-10",
    "place": "Beauharnois (St-Clément)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -1080,7 +1080,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1825-06-10",
    "place": "Beauharnois (St-Clément)",
-   "tier": "none"
+   "tier": "possible"
   },
   {
    "date": "",
@@ -1332,7 +1332,7 @@
    "outcome": "Baptism located — act 3359890, St-Vallier (St-Philippe-et-St-Jacques), 1826-12-16.",
    "baptism": "1826-12-16",
    "place": "St-Vallier (St-Philippe-et-St-Jacques)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -1344,7 +1344,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1826-12-16",
    "place": "St-Vallier (St-Philippe-et-St-Jacques)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -1356,7 +1356,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1826-12-16",
    "place": "St-Vallier (St-Philippe-et-St-Jacques)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -1884,7 +1884,7 @@
    "outcome": "Baptism located — act 4549352, Batiscan (St-François-Xavier), 1829-01-31.",
    "baptism": "1829-01-31",
    "place": "Batiscan (St-François-Xavier)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -1896,7 +1896,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1829-01-31",
    "place": "Batiscan (St-François-Xavier)",
-   "tier": "none"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -2533,6 +2533,210 @@
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C246",
+   "name": "Alexis GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original 1855 marriage and 1901 census",
+   "action": "Upgrade none to solid",
+   "outcome": "Identified as Eusèbe Gendron, husband of Sophie Vermette: the 1855 marriage names the same parents and the original 1901 census gives the exact birth date, 30 January 1829. Census page21 household168 lines23–25. Originals read. No alias record; identification by parents, exact date, locality and continuing marriage.",
+   "baptism": "1829-01-31",
+   "place": "Batiscan (St-François-Xavier)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C274",
+   "name": "Raymond GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/13637744",
+   "action": "Inspected outstanding 1872 sibling marriage",
+   "outcome": "15 November 2026: Original Hilaire Gendron–Henriette Comptois marriage, St-Jean-de-Matha, 22 April 1872, M11, LAFRANCE 13637744, visually inspected. Hilaire is a merchant of St-Michel-des-Saints; parents Joseph Gendron and Marguerite Allaire reside at St-Hugues. Raymond is not named. Family context only; no elimination.",
+   "baptism": "1830-08-13",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C212",
+   "name": "Narcisse GENDRON",
+   "researcher": "ChatGPT",
+   "source": "FamilySearch 1851 census, film 004108321 image 421, St-Urbain p. 17",
+   "action": "Rechecked original and corrected transcription",
+   "outcome": "Ignace Gendron, married cultivator aged 70, is not yet linked to C212’s father. Withdraw the claimed Narcisse Gendron, 51 and adjacent Gendron family transcription. Agricultural N. Gendron remains unidentified, not excluded. No grade change.",
+   "baptism": "1827-10-10",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/membership/LAFRANCE/img/Tag/d1p_01711053.jpg",
+   "action": "Inspect original burial; reject namesake",
+   "outcome": "Original inspected 15 November 2026: Beauharnois (St-Clément), 1874, folio 31, S82, image d1p_01711053.jpg. George Gendron was buried 29 August 1874, having died the day before yesterday (27 August), aged nine months, legitimate son of François Gendron, cultivator, and Alice Brisebois. Father François attended and signed. This is an infant namesake, not C220 (born 1828 to Joseph Gendron and Marie-Anne Guy).",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C164",
+   "name": "Charles GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/4258503",
+   "action": "Verify father’s burial and redirect family follow-up",
+   "outcome": "François Gendron, husband of Josephte Bougie, died 11 August 1844 aged 54 and was buried 13 August at Beauharnois, S43, folio 22. Original image d1p_01700885.jpg inspected. Paul Gendron’s 17 September 1844 marriage index (13401048) names the same parents and marks François deceased; marriage original not inspected. These establish family context, not Charles’s later whereabouts. Father François died 11 August 1844 (original burial verified). Follow widowed Josephte Bougie, brother Paul/ Josephte Brossoit and brother François/Françoise Hébert. NosOrigines reports Josephte died 28 July 1867 at Beauharnois; inspect original for relatives/witnesses. No later record of Charles established. Compiled family source: https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Bougie_Josephte&pid=1213949",
+   "baptism": "1825-06-10",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C164",
+   "name": "Charles GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/6103932",
+   "action": "Add possible elimination; identity remains unproved",
+   "outcome": "Original baptism of Joseph Emery Gendron, 15 December 1861, Beauharnois, B191, folio 50, d1p_01710407.jpg, inspected. Godfather Charles Gendron signed; godmother Marcelline Allard did not. Father’s name is written Firmin, mother Françoise Hébert; the existing C070 reconstruction attributes this child to François Gendron (C164’s brother) and Françoise Hébert. No relationship, age or parents are supplied for Charles. Possible identification only; not a confirmed later sighting of C164.",
+   "baptism": "1825-06-10",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C111",
+   "name": "Charles GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/2370421",
+   "action": "Original-register follow-up",
+   "outcome": "Original burial S8, 22 February 1823, act 2370421, d1p_01700148.jpg, inspected 15 November 2026. Charles was six months old, son of Jean Baptiste Gendron and Claire Chatigny, deceased the previous day. Not C111. C111’s baptism on the facing page names Toussaint Gendron and Claire Rolin.",
+   "baptism": "1823-02-21",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C164",
+   "name": "Charles GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/6104366",
+   "action": "Original-register follow-up",
+   "outcome": "Original burial of brother Paul Gendron, 6 September 1854, Beauharnois, S129, act 6104366, d1p_01710023.jpg, inspected 15 November 2026. Charles is not named among the witnesses. No additional identification of C164.",
+   "baptism": "1825-06-10",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C164",
+   "name": "Charles GENDRON",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/membership/LAFRANCE/img/Tag/d1p_01710707.jpg",
+   "action": "Family follow-up",
+   "outcome": "Original burial of Josephte Bougie, Beauharnois (St-Clément), 30 July 1867, S62, folio 28 verso, d1p_01710707.jpg, inspected 15 November 2026. The act names her as the wife of François Gendron, journalier, and says she died the day before yesterday (28 July). Witnesses François Gendron and François Primeau did not sign. Neither witness is assigned a relationship; Charles is not named. Mother’s death date is now verified; no additional identification of C164.",
+   "baptism": "1825-06-10",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C015",
+   "name": "Hubert GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/img/acte/6174935",
+   "action": "Family follow-up",
+   "outcome": "Original marriage of Édouard Gendreau and Éléonore Bélanger, Saint-Basile (Madawaska), 8 January 1849, M9, d1p_31380325.jpg, inspected 15 November 2026. Édouard resides in the parish and is an adult son of deceased Pierre Gendreau and deceased Marie Gamache, of the parish of Cap, Lower Canada. Hubert is not named among the witnesses. The parental names and compiled family tree suggest Édouard as Hubert’s brother, but this remains a family lead rather than a later record of Hubert. Follow the family in Madawaska and Aroostook County.",
+   "baptism": "1816-10-02",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C015",
+   "name": "Hubert GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Upper St. John census transcriptions",
+   "action": "Census follow-up and wording audit",
+   "outcome": "Upper St. John census transcription checked 15 November 2026: the 1860 Township 17, Range 9 entry for Dubert Gendreau is a 12-year-old born in Maine (page 489, line 28, dwelling 357, family 354), not Hubert born in 1816. The original census image has not been inspected. The St-François parish census, catalogued as 1858 but probably taken in December 1857, lists Gendreau households under Paschal, André, Euger and Zadé; it does not name every household member. Neither check identifies Hubert or establishes his absence from the region.",
+   "baptism": "1816-10-02",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C189",
+   "name": "Remi Gabriel GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "LAFRANCE indexes and original registers",
+   "action": "Verify baptism and trace parental family",
+   "outcome": "Original baptism inspected: born 30 September 1826, baptized 2 October 1826, B118, d1p_02250718.jpg; legitimate son of Jean Baptiste Gendreau, cultivator of the parish, and Euphrosine Courtemanche. Searching the parental couple without the mother’s given name expanded the LAFRANCE results from 3 to 19, including records naming Marie Courtemanche. Potential family follow-up: Émilie Gendreau/Michael Hennessey, Montréal 20 February 1844 (index, act 13412145); Jean Baptiste Gendron/Mary Laughlin, Montréal 7 July 1851 (original M218, act 13400962, d1p_11810587.jpg), naming Jean Baptiste Gendron and deceased Marie Courtemanche. The 1851 witnesses are Jean Baptiste Gendron, father, Michael Hennessy and Bridget Walsh; Rémi is not named. Marie Courtemanche’s burial, Montréal 8 January 1846 (original S56, act 3324155, d1p_11800608.jpg), records death 6 January, age 52, wife of Jean Baptiste Gendron, labourer; Rémi is not named. These are family research leads, not later records of Rémi. No status change.",
+   "baptism": "1826-10-02",
+   "place": "Iberville (St-Athanase-de-Bleury)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C042",
+   "name": "Paul GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Louis Normandeau, Terrier municipal de Saint-Étienne-de-Beauharnois (2024), PDF pp. 834–835",
+   "action": "Locate notarial follow-up for Paul Gendron",
+   "outcome": "Lots 214–215 cite a lease to Charles Goyette, 25 October 1858, J.-G. Longpré minute 1927, and sale to Louis Faubert père, 9 October 1866, V.-A. Lemoyne de Martigny minute 5453 (RFQ CFB RB 6369). The summaries give no parents, age or spouse. Unassigned Paul; original deeds not inspected. Needs work unchanged. https://vplus-documents.s3.ca-central-1.amazonaws.com/saint-etienne-de-beauharnois/_actualites/fichiers/Livre%20complet.pdf",
+   "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "ChatGPT",
+   "source": "NosOrigines Adolphe Gendron, profile 1621531",
+   "action": "Test the Adolphe Gendron–Marie-Eleonore Massicotte marriage lead",
+   "outcome": "Compiled profile assigns the 20 June 1853 Sainte-Geneviève-de-Batiscan marriage to Adolphe born 13 December 1827, parents Joseph Gendron and Suzanne Lahaie, citing M-6, image 9. Those parents differ from C129's Louis Gendron/Magdeleine Lafrance. Do not attach this marriage to C129. Original not inspected; no status change. https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Adolphe&pid=1621531",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C281",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "NosOrigines Pierre Gendron, profile 1196931",
+   "action": "Check parental household and sibling follow-up",
+   "outcome": "Compiled family lists Pierre born 17 December 1830 under Pierre Gendron/Marie-Louise Fontaine, but supplies no later event for him. Brother Joseph, born 25 May 1832, married Emelie Bessette and reportedly died 9 March 1900. The listed 1837 deaths concern Charles and Narcisse, not Pierre. Family lead only; no status change. https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Pierre&pid=1196931",
+   "baptism": "1830-12-17",
+   "place": "Sorel (St-Pierre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C192",
+   "name": "Narcisse GENDRON",
+   "researcher": "Chat",
+   "source": "Ancestry 1851 census index; LAC original e002297829",
+   "action": "Read original St-Michel census and correlate with baptism and brother Ferdinand’s marriage",
+   "outcome": "Original census read on 15 November 2026: St-Michel, Bellechasse, Schedule A, stamped p. 55, handwritten p. 28, lines 1–8, reel C-1114, image e002297829. Ferdinand Gendron, 28, cultivateur; Victoire Barras, 23, wife; Ferdinand, 5; Victoire, 1; Narcisse Gendron, 24, serviteur; François Gendron, 19; Joseph Gendron, 17; Catherine Denis, 52, rentière, widow. Narcisse is unmarried and his birthplace repeats St-Michel. Catherine’s name and age match his mother, and Ferdinand and Victoire match the couple documented in Ferdinand’s 1847 marriage. The combined family identification establishes C192 in Québec after Franklin had settled with a wife and child in Missouri. Upgraded from needs work to solid elimination. The census does not state kinship; the relationships are established by the baptism and marriage records.",
+   "baptism": "1826-12-16",
+   "place": "St-Vallier (St-Philippe-et-St-Jacques)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C119",
+   "name": "Ferdinand GENDRON",
+   "researcher": "Chat",
+   "source": "LAC original 1851 St-Michel census, p. 55, lines 1–8",
+   "action": "Confirm Ferdinand Gendron and Victoire Barras as the identifying family for C192",
+   "outcome": "Ferdinand, 28; wife Victoire Barras, 23; children Ferdinand, 5, and Victoire, 1; Narcisse, 24, line 5; Catherine Denis, 52, widow, line 8. Original read and downloaded. Existing solid elimination unchanged.",
+   "baptism": "1823-05-09",
+   "place": "La Durantaye (St-Michel)",
+   "tier": "solid"
   }
  ]
 }
