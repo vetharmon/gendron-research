@@ -111,6 +111,7 @@
       var map = makeMap(dashEl);
       var layer = L.layerGroup().addTo(map);
       var toggle = document.getElementById("francois");
+      var winToggle = document.getElementById("window");
       var tierBoxes = document.querySelectorAll('input[name="tier"]');
       var distEl = document.getElementById("dist");
       var MTL = [45.5017, -73.5673];
@@ -123,6 +124,7 @@
       var note = document.getElementById("map-note");
       function draw() {
         var onlyFr = !!(toggle && toggle.checked);
+        var onlyWin = !!(winToggle && winToggle.checked);
         var tiers = {};
         tierBoxes.forEach(function (b) { if (b.checked) tiers[b.value] = true; });
         var allTiers = Object.keys(tiers).length === tierBoxes.length;
@@ -132,6 +134,7 @@
         var unlimited = (maxKm === null || maxKm >= +distEl.max);
         window.GG_BAPTISMS.forEach(function (b) {
           if (onlyFr && !b.fr) return;
+          if (onlyWin && !(b.yr >= 1822 && b.yr <= 1828)) return;
           if (!tiers[b.tier]) return;
           if (!unlimited) {
             var bp = canon(b.place);
@@ -165,6 +168,7 @@
         if (note) {
           var parts = [];
           if (onlyFr) parts.push("François only");
+          if (onlyWin) parts.push("baptized 1822–1828");
           if (!unlimited) parts.push("within " + maxKm + " km of Montréal");
           if (!allTiers) parts.push(Object.keys(tiers).length + " of 5 assessment levels");
           note.hidden = parts.length === 0;
@@ -173,6 +177,7 @@
       }
       draw();
       if (toggle) toggle.addEventListener("change", draw);
+      if (winToggle) winToggle.addEventListener("change", draw);
       tierBoxes.forEach(function (b) { b.addEventListener("change", draw); });
       if (distEl) distEl.addEventListener("input", draw);
     });
