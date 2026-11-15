@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-15",
- "count": 228,
+ "count": 230,
  "entries": [
   {
    "date": "",
@@ -2737,6 +2737,30 @@
    "baptism": "1823-05-09",
    "place": "La Durantaye (St-Michel)",
    "tier": "solid"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C178",
+   "name": "Thomas GENDRON",
+   "researcher": "Chat",
+   "source": "MyHeritage Quebec prison register index",
+   "action": "Read 1848 Thomas Gendron record",
+   "outcome": "Unassigned lead: Thomas Gendron, age 22, born Canada, imprisoned 24 April 1848 and discharged 28 April after paying a fine. Index describes him as single and unable to read or write. Reference: Centre d’archives de Québec, E17 (1960-01-036/1573), prison register 1848–1855, volume 5, folio 10. No parents or specific birthplace are supplied. The original register has not been inspected and the prisoner is not identified with C178. Needs work unchanged.",
+   "baptism": "1826-03-07",
+   "place": "Berthier-sur-Mer (Notre-Dame-de-l'Assomption)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-15",
+   "candidate": "C015",
+   "name": "Hubert GENDREAU",
+   "researcher": "Chat",
+   "source": "MyHeritage Lang family tree and source tab",
+   "action": "Trace reported death before 9 July 1866",
+   "outcome": "Lang’s tree identifies Hubert with Pierre Gendreau and Marie Catherine Gamache and reports death before 9 July 1866 at St Francis, Maine. Its single displayed citation is Ancestry Family Trees, without a death act. Other ranked trees repeat the same limit but give varying birth dates. The reported death is a lead, not evidence sufficient to eliminate C015. Needs work unchanged.",
+   "baptism": "1816-10-02",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "none"
   }
  ]
 }
