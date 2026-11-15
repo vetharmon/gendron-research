@@ -1,16 +1,47 @@
 ---
 layout: default
-title: Family records
+title: Families
 permalink: /families/
 ---
+{% assign candidates = site.candidates | where_exp: 'c', "c.category != 'index-error'" | sort: 'date_record' %}
+{% assign families = candidates | group_by: 'parents' | sort: 'name' %}
+{% assign family_count = 0 %}
+{% for family in families %}{% if family.name != '' and family.items.size > 1 %}{% assign family_count = family_count | plus: 1 %}{% endif %}{% endfor %}
 <a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
 <article class="case">
-<h1>Family records</h1>
-<p class="place">Parents, children, and source references for families in the candidate register.</p>
-<section class="panel prose">
+<h1>Families</h1>
+<p class="place">{{ family_count }} parent pairs have more than one candidate in the register. Open a family to compare their records.</p>
+<p>Groups use the parent names recorded on the candidate pages. Different spellings appear separately.</p>
+{% for family in families %}
+{% if family.name != '' and family.items.size > 1 %}
+<details class="panel prose">
+<summary><strong>{{ family.name | escape }}</strong> · {{ family.items.size }} candidates</summary>
+<div class="table-scroll">
+<table>
+<thead><tr><th>Candidate</th><th>Baptism</th><th>Parish</th><th>Assessment</th></tr></thead>
+<tbody>
+{% for candidate in family.items %}
+<tr>
+<td><a href="{{ candidate.url | relative_url }}">{{ candidate.id | escape }} · {{ candidate.title | escape }}</a></td>
+<td>{{ candidate.date_record | escape }}</td>
+<td>{{ candidate.place | escape }}</td>
+<td><span class="status {{ candidate.tier | escape }}">{% case candidate.tier %}{% when 'solid' %}Eliminated{% when 'likely' %}Likely eliminated{% when 'possible' %}Possible elimination{% when 'none' %}Needs work{% when 'proposed' %}Proposed identity{% else %}{{ candidate.status | escape }}{% endcase %}</span></td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+{% if family.name == 'Jean Baptiste Gendron and Claire Chatigny' %}<p><a href="{{ '/families/gendron-chatigny-st-clement/' | relative_url }}">Family reconstruction and census household</a></p>{% endif %}
+</details>
+{% endif %}
+{% endfor %}
 
+<section class="panel prose">
+<h2>Family research notes</h2>
+<p>These dossiers document the family and a separate census household examined during the search for François Régis Gendron (C226).</p>
 <ul>
-{% for f in site.families %}<li><a href="{{ f.url | relative_url }}"><strong>{{ f.title }}</strong></a> — {{ f.status }}<br><span class="hint">{{ f.summary }}</span></li>
+{% for family in site.families %}
+<li><a href="{{ family.url | relative_url }}"><strong>{{ family.title | escape }}</strong></a><br>{{ family.status | escape }}</li>
 {% endfor %}
 </ul>
 </section>
