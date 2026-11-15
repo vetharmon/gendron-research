@@ -1,6 +1,6 @@
 // Maps for the Gendron / Gendreau Research Atlas.
 // Candidate pages: one pin per place named in that candidate's records.
-// Dashboard: one pin per baptism place, sized by how many candidates share it.
+// Dashboard: one pie pin per baptism place — slices show the assessment mix, size grows with the count.
 // If Leaflet or the data files fail to load, the pages simply show no map.
 (function () {
   if (!window.L) return;
@@ -25,11 +25,42 @@
 
   var TIER_COLORS = { solid: "#1e7d46", likely: "#2f6fb2", possible: "#e09f00", none: "#c0392b", proposed: "#b8860b" };
   var TIER_LABEL = { solid: "Eliminated", likely: "Likely eliminated", possible: "Possible elimination", none: "Needs work", proposed: "Proposed" };
-  var STRENGTH = { none: 0, possible: 1, likely: 2, proposed: 3, solid: 4 };
-  function weakestTier(list) {
-    var pool = list.filter(function (b) { return b.tier !== "proposed"; });
-    if (!pool.length) return "proposed";
-    return pool.reduce(function (a, b) { return STRENGTH[b.tier] < STRENGTH[a] ? b.tier : a; }, pool[0].tier);
+  var TIER_ORDER = ["solid", "likely", "possible", "none", "proposed"];
+  function tierCounts(list) {
+    var counts = {};
+    list.forEach(function (b) { if (TIER_COLORS[b.tier]) counts[b.tier] = (counts[b.tier] || 0) + 1; });
+    return counts;
+  }
+  function tierBreakdown(list) {
+    var counts = tierCounts(list);
+    return TIER_ORDER.filter(function (t) { return counts[t]; }).map(function (t) {
+      return counts[t] + " " + (TIER_LABEL[t] || t).toLowerCase();
+    }).join(" \u00b7 ");
+  }
+  function pieIcon(list) {
+    var counts = tierCounts(list);
+    var total = TIER_ORDER.reduce(function (sum, t) { return sum + (counts[t] || 0); }, 0) || list.length;
+    var d = Math.max(20, Math.min(40, Math.round(17 + 3 * Math.sqrt(list.length))));
+    var r = d / 2, rr = r - 1, parts = [];
+    var present = TIER_ORDER.filter(function (t) { return counts[t]; });
+    if (present.length === 1) {
+      parts.push('<circle cx="' + r + '" cy="' + r + '" r="' + rr + '" fill="' + TIER_COLORS[present[0]] + '"/>');
+    } else {
+      var a0 = -Math.PI / 2;
+      present.forEach(function (t) {
+        var a1 = a0 + (counts[t] / total) * Math.PI * 2;
+        var x0 = r + rr * Math.cos(a0), y0 = r + rr * Math.sin(a0);
+        var x1 = r + rr * Math.cos(a1), y1 = r + rr * Math.sin(a1);
+        var large = (a1 - a0) > Math.PI ? 1 : 0;
+        parts.push('<path d="M' + r + ' ' + r + ' L' + x0.toFixed(1) + ' ' + y0.toFixed(1) +
+          ' A' + rr + ' ' + rr + ' 0 ' + large + ' 1 ' + x1.toFixed(1) + ' ' + y1.toFixed(1) +
+          ' Z" fill="' + TIER_COLORS[t] + '"/>');
+        a0 = a1;
+      });
+    }
+    parts.push('<circle cx="' + r + '" cy="' + r + '" r="' + rr + '" fill="none" stroke="#4a3208" stroke-width="1.5"/>');
+    var svg = '<svg width="' + d + '" height="' + d + '" viewBox="0 0 ' + d + ' ' + d + '">' + parts.join("") + "</svg>";
+    return L.divIcon({ className: "pie-pin", html: svg, iconSize: [d, d], iconAnchor: [r, r] });
   }
 
   function pin(map, latlon, html, color) {
@@ -119,11 +150,8 @@
             return '<a href="' + b.url + '">' + b.id + " · " + b.name + "</a> · " + (TIER_LABEL[b.tier] || b.tier);
           }).join("<br>");
           if (list.length > 10) links += "<br>… and " + (list.length - 10) + " more (see the table)";
-          L.circleMarker(places[p], {
-            radius: Math.min(6 + list.length, 16), color: "#4a3208", weight: 1.5,
-            fillColor: TIER_COLORS[weakestTier(list)], fillOpacity: 0.8
-          }).addTo(layer).bindPopup("<strong>" + p + "</strong> — " + list.length +
-            (list.length === 1 ? " candidate" : " candidates") + "<br>" + links);
+          L.marker(places[p], { icon: pieIcon(list) }).addTo(layer).bindPopup("<strong>" + p + "</strong> — " + list.length +
+            (list.length === 1 ? " candidate" : " candidates") + "<br>" + tierBreakdown(list) + "<br>" + links);
           bounds.push(places[p]);
         });
         if (places["Châteauguay"]) {
