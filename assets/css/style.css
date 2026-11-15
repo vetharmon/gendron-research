@@ -202,6 +202,7 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .map-legend .lg i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 0.3rem; border: 1px solid #4a3208; }
 .map-legend .star { color: #b8860b; font-weight: 700; }
 .map-star-wrap { background: none; border: none; }
+.pie-pin { background: none; border: none; }
 .map-star { color: #d4a017; font-size: 26px; line-height: 26px; text-shadow: 0 0 3px #fff, 0 0 6px #fff; }
 /* Review form */
 .review-form label { display: block; font-size: 0.82rem; font-weight: 600; margin: 0.7rem 0 0.2rem; }

@@ -17,7 +17,7 @@ The register covers Gendron and Gendreau baptismal entries from 1816–1830. Eac
 - **Needs work:** research has not yet established a later identity or an elimination.
 - **Proposed identity:** C127, the 1823 Châteauguay François. No located record directly connects his baptism to Franklin's Missouri life.
 
-The register contains **281 entries: 213 eliminated, 24 likely eliminated, 2 possible eliminations, 40 candidates needing work, one proposed identity, and one duplicate entry (C270, of C200) excluded from the counts**.
+The register contains **281 entries: 213 eliminated, 24 likely eliminated, 3 possible eliminations, 39 candidates needing work, one proposed identity, and one duplicate entry (C270, of C200) excluded from the counts**.
 
 ## Sources and method
 
