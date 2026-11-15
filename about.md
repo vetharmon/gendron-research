@@ -11,7 +11,7 @@ The register covers Gendron and Gendreau baptismal entries from 1816–1830. Eac
 
 ## Assessments
 
-- **Eliminated:** a childhood death or a separate adult identity distinguishes the candidate from Franklin. Duplicate index entries are not counted as eliminations.
+- **Eliminated:** a childhood death or a separate adult identity distinguishes the candidate from Franklin. C154 is excluded because original records identify the family as Gautron dit Larochelle; his later life remains unknown. Duplicate index entries are not counted as eliminations.
 - **Likely eliminated:** the later record is a probable match, with a specific identification question still to resolve.
 - **Possible elimination:** a later record is under review; the candidate remains possible.
 - **Needs work:** research has not yet established a later identity or an elimination.
