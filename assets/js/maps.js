@@ -40,7 +40,7 @@
   function pieIcon(list) {
     var counts = tierCounts(list);
     var total = TIER_ORDER.reduce(function (sum, t) { return sum + (counts[t] || 0); }, 0) || list.length;
-    var d = Math.max(20, Math.min(40, Math.round(17 + 3 * Math.sqrt(list.length))));
+    var d = Math.max(16, Math.min(48, 15 + list.length));
     var r = d / 2, rr = r - 1, parts = [];
     var present = TIER_ORDER.filter(function (t) { return counts[t]; });
     if (present.length === 1) {
