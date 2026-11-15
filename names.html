@@ -3,10 +3,11 @@ layout: default
 title: First names by distance
 permalink: /names/
 ---
+{% assign counted_candidates = site.candidates | where_exp: 'c', "c.category != 'index-error'" %}
 <a class="back" href="{{ '/' | relative_url }}">← All candidates</a>
 <article class="case">
 <h1>First names</h1>
-<p class="place">Instances of each first name among the 281 baptismal candidates, filtered by how far the baptism parish lies from Montréal.</p>
+<p class="place">Instances of each first name among the {{ counted_candidates | size }} distinct candidates, filtered by how far the baptism parish lies from Montréal.</p>
 
 <div class="filters">
   <label>Maximum distance from Montréal: <span id="names-km-label">all</span>
@@ -56,7 +57,7 @@ permalink: /names/
 
 <script>
 window.GG_NAMES = [
-{% for c in site.candidates %}{"t": {{ c.title | jsonify }}, "p": {{ c.place | jsonify }}, "tier": {{ c.tier | jsonify }}, "u": {{ c.url | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% for c in counted_candidates %}{"t": {{ c.title | jsonify }}, "p": {{ c.place | jsonify }}, "tier": {{ c.tier | jsonify }}, "u": {{ c.url | jsonify }}}{% unless forloop.last %},{% endunless %}
 {% endfor %}];
 </script>
 <script src="{{ '/assets/js/names.js' | relative_url }}"></script>
