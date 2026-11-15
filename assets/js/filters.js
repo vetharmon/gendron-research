@@ -2,6 +2,7 @@
   const q = document.getElementById("search"),
     t = [...document.querySelectorAll('input[name="tier"]')],
     f = document.getElementById("francois"),
+    w = document.getElementById("window"),
     d = document.getElementById("dist"),
     dout = document.getElementById("dist-out"),
     rows = [...document.querySelectorAll("#results tr")],
@@ -27,12 +28,14 @@
   // "Chateauguay" finds "Châteauguay".
   const norm = (x) => x.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/’/g, "'").toLocaleLowerCase();
   rows.forEach((tr) => { tr.dataset.nsearch = norm(tr.dataset.search || ""); });
+  const inWin = (tr) => { const y = +tr.dataset.year; return y >= 1822 && y <= 1828; };
   function stats() {
     if (!all) return;
-    if (f.checked) {
+    if (f.checked || w.checked) {
       const c = { total: 0, solid: 0, likely: 0, possible: 0, open: 0, proposed: 0 };
       for (const tr of rows) {
-        if (tr.dataset.francois !== "true") continue;
+        if (f.checked && tr.dataset.francois !== "true") continue;
+        if (w.checked && !inWin(tr)) continue;
         c.total++;
         if (tr.dataset.tier === "none") c.open++;
         else if (c[tr.dataset.tier] !== undefined) c[tr.dataset.tier]++;
@@ -61,6 +64,7 @@
       const show = (!query || tr.dataset.nsearch.includes(query)) &&
         tiers.has(tr.dataset.tier) &&
         (!f.checked || tr.dataset.francois === "true") &&
+        (!w.checked || inWin(tr)) &&
         (!d || d.disabled || +d.value >= +d.max || (tr.dataset.dist !== undefined && +tr.dataset.dist <= +d.value));
       tr.hidden = !show;
       if (show) n++;
@@ -69,7 +73,7 @@
     empty.hidden = n !== 0;
     stats();
   }
-  [q, f, d, ...t].forEach((el) => { if (el) el.addEventListener("input", update); });
+  [q, f, w, d, ...t].forEach((el) => { if (el) el.addEventListener("input", update); });
   // Distance of each baptism place from Montréal, from the same coordinates
   // the maps use. Until the data arrives the slider stays disabled and
   // nothing is filtered by distance.
