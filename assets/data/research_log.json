@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-16",
- "count": 250,
+ "count": 260,
  "entries": [
   {
    "date": "",
@@ -3001,6 +3001,126 @@
    "baptism": "1822-03-05",
    "place": "Châteauguay",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C057",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry ten-tree comparison and Manitoba original",
+   "action": "One-more elimination follow-up",
+   "outcome": "Expanded all ten grouped Pierre Gendron tree previews. They repeat birth 17/18 November 1819 and variants Allen, Hallaire and Allaire for Catherine, but no later event. The 4 November 1857 Beauharnois marriage index names mother Therese Tessier, not Catherine. Read the Manitoba original indexed as a 16 August 1865 baptism: the act actually records 10 September 1865, at Port du Brulé, Pierre aged three, son of Pierre Gendron and Catherine Lafaté. This child is not C057; the record does not identify his father with C057. Needs work unchanged.",
+   "baptism": "1819-11-18",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C006",
+   "name": "Jean Baptiste GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Ancestry thirty-tree comparison and 1875 burial index",
+   "action": "One-more elimination follow-up",
+   "outcome": "Compared all thirty grouped Jean Baptiste Gendreau tree previews for birth 25 April 1816. Most expose no later event. One combines that birth with an impossible 1805 marriage and is not adopted. A separate burial index lists Jean Baptiste Gendreau, 60, husband of Marie Emond, died 10 September 1875 and buried 13 September at St-Francois, Ile-d’Orleans. Original not inspected; no parentage link established. Needs work unchanged.",
+   "baptism": "1816-04-26",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C178",
+   "name": "Thomas GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry parent-filtered search",
+   "action": "One-more elimination follow-up",
+   "outcome": "Searched Thomas Gendron, birth 1826, father Jacques and mother Genevieve Goulet. The first record page includes the known baptism and unassigned Minnesota naturalization entries. The first tree page did not expose an exact candidate match; no naturalization original inspected and no new identification established. Needs work unchanged.",
+   "baptism": "1826-03-07",
+   "place": "Berthier-sur-Mer (Notre-Dame-de-l'Assomption)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C110",
+   "name": "Olivier GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry parent-filtered tree search",
+   "action": "One-more elimination follow-up",
+   "outcome": "The first tree-results page includes Olivier Gendron, birth June 1822, father Thomas, in the Benoit-Deschamps tree, consistent with the existing baptism reading. No later event is exposed. Other adult Olivier entries name different parents or remain unassigned. Needs work unchanged.",
+   "baptism": "1823-02-12",
+   "place": "St-Régis (St-François-Régis)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry original Montreal marriage and burials",
+   "action": "One-more elimination follow-up",
+   "outcome": "Read original Notre-Dame Montreal records: George Gendron married Virginie Audet dit Lapointe on 3 February 1865, M36, as widower of Julie Moore; no parents named. Julia Moore, wife of George Gendron, died at Hotel-Dieu 30 September 1864, aged 28, and was buried 5 October. George, husband of Virginie Audet, died 29 March 1877, aged 50, buried 2 April, no.1498. His age fits C220 but no parentage bridge or first marriage was found. A separate GQ 1848 burial search result was blocked before identifying details; not adopted. Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Ancestry Vermont-family follow-up",
+   "action": "One-more elimination follow-up",
+   "outcome": "Searched Marie Eugenie Gendron, birth 1850, and Cyrille Gendreau, birth 1821, with Marie Anne Viens. No original Burlington baptism was identified in the returned first pages. The known Sorel marriage appears, but the Vermont connection remains unverified at original-record level. Likely eliminated unchanged.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry four-tree comparison",
+   "action": "One-more elimination follow-up",
+   "outcome": "Expanded all four grouped Louis Gendron previews. Three repeat 2 April 1827 without a later event; the accessible public family uses Francois Gendron and Marguerite Ladouceur dit Lamadeleine. The fourth is born 10 December 1828 at Contrecoeur to Jean Baptiste Gendron and Marie Francoise Gervais and is a different candidate. Needs work unchanged.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C211",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry parent-filtered tree search",
+   "action": "One-more elimination follow-up",
+   "outcome": "Searched Pierre Gendron, birth 1827, father Pierre and mother Marie Dussault. No exact 1 October 1827 candidate was identified in the first twenty tree groups. This is a limited search, not evidence of absence or death. Needs work unchanged.",
+   "baptism": "1827-10-01",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C281",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry parent-filtered tree search",
+   "action": "One-more elimination follow-up",
+   "outcome": "Searched Pierre Gendron, birth 1830, father Pierre and mother Louise Fontaine. The record search returned the known 17 December 1830 baptism. No exact candidate was identified in the first twenty tree groups. No later record established; Needs work unchanged.",
+   "baptism": "1830-12-17",
+   "place": "Sorel (St-Pierre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Ancestry grouped-tree preview and source-page attempt",
+   "action": "One-more elimination follow-up",
+   "outcome": "Compared the first ten of eighty-nine grouped Joseph Gendreau previews. Several associate the exact 24 January 1823 birth with Celina Lavimodiere, the 1863 marriage, and death 4 October 1898 at Ste-Madeleine. These tree claims do not resolve Lisette/Louise Allard. Opening a sourced public profile stalled and browser recovery timed out; no new original was inspected. Likely eliminated unchanged.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "likely"
   }
  ]
 }
