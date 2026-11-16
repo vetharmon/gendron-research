@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-16",
- "count": 260,
+ "count": 263,
  "entries": [
   {
    "date": "",
@@ -3120,6 +3120,42 @@
    "outcome": "Compared the first ten of eighty-nine grouped Joseph Gendreau previews. Several associate the exact 24 January 1823 birth with Celina Lavimodiere, the 1863 marriage, and death 4 October 1898 at Ste-Madeleine. These tree claims do not resolve Lisette/Louise Allard. Opening a sourced public profile stalled and browser recovery timed out; no new original was inspected. Likely eliminated unchanged.",
    "baptism": "1823-01-25",
    "place": "La Présentation (St-Hyacinthe)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C042",
+   "name": "Paul GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Public Beauharnois land-history follow-up",
+   "action": "Public-source continuation",
+   "outcome": "Normandeau’s 2024 land history, PDF p.834 (lot 214, printed p.12), cites Paul Gendron leasing to Charles Goyette on 25 October 1858 (J.-G. Longpre, minute 1927) and selling to Louis Faubert on 9 October 1866 (Lemoyne de Martigny, minute 5453). No parents or spouse are given in the summary; these remain unassigned leads. A separate Paul, son of Paul and husband of Francoise Tessier, appears on PDF p.914 and is not C042. The published pages were visually checked; original deeds remain unread. Needs work unchanged.",
+   "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Public-source follow-up and Ancestry access limit",
+   "action": "Public-source continuation",
+   "outcome": "Public exact-spouse searches did not locate George’s first marriage to Julie/Julia Moore or identify his parents. The available cloud browser returned Ancestry’s explicit automated-traffic prohibition; no challenge or alternate Ancestry route was attempted. The connected-browser tool was unavailable. The Montreal man remains unassigned; Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C237",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Public maternal-name lead and archived-image access",
+   "action": "Public-source continuation",
+   "outcome": "A NosOrigines pedigree for Alice Gendron, ID 513419, calls the ancestral wife Marie-Anne-Elisabeth Dupont (1802–1848), paired with Francois Gendron (1795–1852). This derivative name lead does not explain Isabelle Dussault in the 1828 burial. The two archived C237 images were located, but the image read supplied no viewable pixels and materialization failed authentication. No fresh original reading or upgrade was made. Likely eliminated unchanged.",
+   "baptism": "1828-09-12",
+   "place": "Contrecoeur (Ste-Trinité)",
    "tier": "likely"
   }
  ]
