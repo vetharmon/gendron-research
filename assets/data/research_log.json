@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-16",
- "count": 244,
+ "count": 250,
  "entries": [
   {
    "date": "",
@@ -2829,7 +2829,7 @@
    "researcher": "ChatGPT",
    "source": "Ancestry original registers, census and notarial repertory",
    "action": "Family continuation; likely elimination",
-   "outcome": "16 November 2026 — Ancestry tree-led original record review: Gunnis tree supplied an 1848 notarial repertory and 1861 Barford census lead. Original 1827 baptism read: Louis Octave, born the previous day, son of Jean Baptiste Gendron, menuisier, and Archange Poulin. Original 1826 parents’ marriage read: Jean Baptiste, son of deceased Michel Gendron and Elizabeth Normand, and Archange Poulin, daughter of Jean Baptiste Poulin and Marie Lucie Charron. Original 1834 remarriage names Jean Baptiste as widower of Lucie Poulin, marrying Lucie Dudevoir; the Lucie/Archange difference is retained. Notarial repertory: 20 April 1848, Jean-Baptiste Maranda no. 1291, quittance et ratification by Louis Octave Gendron to Jean Baptiste Gendron; full minute not inspected, kinship not stated in the repertory. Original 1861 census, Barford, Stanstead, p. 21, C-1323, lines 40–50: Jean Bte Jondro 62, Lucy 46, Alfred 21, Edward 19, difficult given name indexed Itan 34 unmarried, John B 26, Peter 17, Virginia 15, Mary 13, Julan 10, Delia 3 born USA. Original Alfred marriage, Compton 1 August 1864, confirms parents Jean Baptiste Gendron and Lucie Dudevoir of Barford. Candidate moved to likely elimination on combined family/age evidence; not solid. The tree’s 1871 McNider Octave 45 is married to Vitaline and listed near Prudent Gendron/Henriette Chamard; not adopted as C199. Its 1881 continuation was not inspected.",
+   "outcome": "16 November 2026 — Ancestry tree-led original record review: Gunnis tree supplied an 1848 notarial repertory and 1861 Barford census lead. Original 1827 baptism read: Louis Octave, born the previous day, son of Jean Baptiste Gendron, menuisier, and Archange Poulin. Original 1826 parents’ marriage read: Jean Baptiste, son of deceased Michel Gendron and Elizabeth Normand, and Archange Poulin, daughter of Joseph Poulin and Marie Louise Chicoine. Original 1834 remarriage names Jean Baptiste as widower of Lucie Poulin, marrying Lucie Dudevoir; the Lucie/Archange difference is retained. Notarial repertory: 20 April 1848, Jean-Baptiste Maranda no. 1291, quittance et ratification by Louis Octave Gendron to Jean Baptiste Gendron; full minute not inspected, kinship not stated in the repertory. Original 1861 census, Barford, Stanstead, p. 21, C-1323, lines 40–50: Jean Bte Jondro 62, Lucy 46, Alfred 21, Edward 19, difficult given name indexed Itan 34 unmarried, John B 26, Peter 17, Virginia 15, Mary 13, Julan 10, Delia 3 born USA. Original Alfred marriage, Compton 1 August 1864, confirms parents Jean Baptiste Gendron and Lucie Dudevoir of Barford. Candidate moved to likely elimination on combined family/age evidence; not solid. The tree’s 1871 McNider Octave 45 is married to Vitaline and listed near Prudent Gendron/Henriette Chamard; not adopted as C199. Its 1881 continuation was not inspected.",
    "baptism": "1827-04-20",
    "place": "St-Ours (Immaculée-Conception)",
    "tier": "likely"
@@ -2928,6 +2928,78 @@
    "outcome": "Search Joseph Gendron, birth 1829, father Francois, mother Marianne Dupont did not yield a securely matching C266 in the first twenty displayed tree groups. A different result supplied the separate C264 Ontario lead. This was a first-page search, not an exhaustive negative finding. No status change.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ontario death original and Châteauguay census comparison",
+   "action": "Original-record and family follow-up",
+   "outcome": "Read original Ontario death registration 015312, John Joseph Gendron, 28 June 1906, Frontenac, age 75, married farmer, born Province of Quebec; registered 29 June 1906. The form does not name parents or spouse. Ancestry suggests the Kennebec Joseph/Mary Ann Clark census trail and a church index naming this couple as parents of William Joseph; the suggestion is not an identity proof. Original 1861 St-Joachim-de-Châteauguay census p.82, line 17, reel C-1274, viewer 50/359, lists unmarried Joseph Gendron, 31, near Antoine Gendron, 42, Adelaide Hebert, 34, Pelery/Pélagie Gendron, 26, and Louis Gendron, 68. This does not establish Antoine Gendron/Marie Anne Lefebvre as Joseph’s parents. Exact-name Drouin search Joseph Gendron, father Antoine, mother surname Lefebvre, without a birth year, returned the 1829 baptism only; no younger same-parent Joseph was verified. Name reuse is not used as elimination evidence. Suggested Yamachiche baptism 7 May 1830 names Francois Gendron/Marie Pellerin and is a separate record, not an established identification of the Ontario man. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C199",
+   "name": "Louis Octave GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original maternal burial and marriage transcription correction",
+   "action": "Original-record and family follow-up",
+   "outcome": "Re-read original 11 April 1826 Verchères marriage, M19: Archange Poulin is daughter of deceased Joseph Poulin and Marie Louise Chicoine. Corrected the earlier mistaken reading Jean Baptiste Poulin/Marie Lucie Charron in the candidate record, public log and notes. Read original St-Ours burial 21 March 1831: Lucie Poulin, 24, wife of Jean Baptiste Gendron, menuisier of this parish, died two days earlier. This matches the husband’s name, occupation and parish in Louis Octave’s baptism and the expected maternal age, but it does not explicitly call her Archange. The 1861 census given name was re-examined at higher magnification and remains retained as a difficult reading, indexed Itan. Re-read 1848 repertory: quittance et ratification by sieur Ls Octave Gendron to sieur Jean Bte Gendron; it does not state father–son. Read 1855 Southbridge census index for John B Gendron 55/Lucy 39 and children John B20, Melvinia 19, Delina 17, Alfred 15, Edward 14, Peter 13, Verginia 11, Lucy 9, Jule 6; Louis Octave is not in that indexed household. Original 1855 image not inspected. Likely elimination unchanged.",
+   "baptism": "1827-04-20",
+   "place": "St-Ours (Immaculée-Conception)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Father’s second family and original 1861 census",
+   "action": "Original-record and family follow-up",
+   "outcome": "Ancestry tree for Andre Pierre Gendron supplies Emérence Marie Bélanger as his 1833 second wife, with children Zoé, Louise, Joseph, Alexis, Phélonise, Éléonore and Malvina. Located a widowed woman indexed Emmanuel Bélonger, corrected Emérance/Emérantienne Bélanger, age 49, at St-Hyacinthe in 1861. Original p.349, reel C-1320, viewer 336/386, line 14 and following, read: the widow followed by Zoé 24, Louise 22, Joseph 20, Alexis 17, Phélonise 14, Éléonore 12, Malvina 7, then another Gendron aged 25 whose given name was not confidently read. The matching younger family supports the stepfamily lead; no entry was securely identified as Pierre C183. Father and stepmother name searches in 1851 supplied no securely matching household in the returned results. No status change.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry first-page tree search",
+   "action": "Original-record and family follow-up",
+   "outcome": "Searched Joseph Gendron, birth 1824, father Jacques, mother Genevieve Goulet. A two-tree group for birth 21 August 1824 at St-François-de-la-Rivière-du-Sud appeared, with the visible representative private and no later event exposed. Group not expanded; no new adult record or status change.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C057",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry first-page tree search and maternal-name variant",
+   "action": "Original-record and family follow-up",
+   "outcome": "Search Pierre Gendron, birth 1819, father Pierre, mother Catherine Halaire returned an exact 18 November 1819 birth in a ten-tree group. The visible public preview uses mother Catherine Allen and father Pierre Gendron; its location is St-Joachim-de-Montmorency rather than Châteauguay. Group not expanded. Halaire/Allen is a search lead, not a verified equivalence, and no later record was established. Needs work unchanged.",
+   "baptism": "1819-11-18",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry grouped Bélonie tree comparison",
+   "action": "Original-record and family follow-up",
+   "outcome": "Compared all six grouped Belonie/Beloni Gendron tree previews. Five repeat the 5 March 1822 child or expose no later event; public parent names include Nicolas Gendron and Suzanne Augé/Auger. The sixth has birth 1821, residence 1891 Rimouski and father Prudent Gendron, the namesake family already excluded from C097. No new later identity or status change.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
    "tier": "none"
   }
  ]
