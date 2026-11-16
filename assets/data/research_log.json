@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-16",
- "count": 263,
+ "count": 264,
  "entries": [
   {
    "date": "",
@@ -3157,6 +3157,18 @@
    "baptism": "1828-09-12",
    "place": "Contrecoeur (Ste-Trinité)",
    "tier": "likely"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C120",
+   "name": "Louis GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Public Jerdo family reconstruction check",
+   "action": "Check marriage summaries and Vermont compilation",
+   "outcome": "Public MesAieux index lists Francois Gendreau and Genevieve Bocage marrying at Berthierville in 1816, and a Genevieve Bocage marrying Pierre Durand at Sainte-Elisabeth in 1832. These summary listings do not establish that the women are the same person or connect Bocage to the Page named in Louis’s baptism. The 1832 original is a test of the proposed family reconstruction, including the supposed father alive at Plattsburgh in 1850. PB031, PDF page 26 (printed XXVI), repeats the known Cyrille/Marie Anne Viens family; it does not name Louis. Public searches under Louis/Lewis Jerdo, Gerdo and Jardo found no identifying adult record. Needs work unchanged.",
+   "baptism": "1823-05-29",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "none"
   }
  ]
 }
