@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15",
- "count": 231,
+ "generated": "2026-11-16",
+ "count": 236,
  "entries": [
   {
    "date": "",
@@ -2773,6 +2773,66 @@
    "baptism": "1818-05-25",
    "place": "Châteauguay",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C034",
+   "name": "Amand GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry tree and attached Massachusetts marriage",
+   "action": "Ancestry follow-up",
+   "outcome": "Tree lists Almont Gendron, born 1 February 1818, parents Jean Baptiste Francois Gendron and Marguerite Lamagdeleine, with a daughter Marie A born about 1858. Attached source 2511/1062345516 identifies father only as A E Gendron and mother Marie A at daughter Marie A’s 3 April 1888 Winchester marriage to Francis S Richardson; original image and index inspected. No independent link from this father to the 1818 baptism. Needs work retained. Tree: https://www.ancestry.com/family-tree/person/tree/211381788/person/242779136740/facts",
+   "baptism": "1818-02-02",
+   "place": "Île-Perrot (Ste-Jeanne-de-Chantal)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C184",
+   "name": "Theophile GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Ancestry broad name-and-parent search",
+   "action": "Ancestry follow-up",
+   "outcome": "Search Theophile Gendreau, birth 1826, father Jacques, mother Genevieve. Massachusetts marriage index 2511/1054338927 gives Theophile Gendreau, spouse Marie C Gendreau, child Theophile Roy; original not inspected and no link to C184. Ontario 1875 and other returned leads overlap namesakes already rejected. No status change.",
+   "baptism": "1826-05-21",
+   "place": "Iberville (St-Athanase-de-Bleury)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C189",
+   "name": "Remi Gabriel GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Ancestry tree search",
+   "action": "Ancestry follow-up",
+   "outcome": "Searched Remi Gabriel Gendreau, birth 1826, father Jean Baptiste, mother Euphrosine. A Remi Gendron/Philomene Beaulac tree hit lacks parents and sources in search preview; this overlaps the namesake lead already recorded in Priority Candidates. No original or later identity established; no status change.",
+   "baptism": "1826-10-02",
+   "place": "Iberville (St-Athanase-de-Bleury)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C274",
+   "name": "Raymond GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry grouped tree comparison",
+   "action": "Ancestry follow-up",
+   "outcome": "Compared all nine grouped Raymond Gendron tree previews, birth 13 August 1830. Accessible previews repeat Joseph Gendron and Marguerite Allair/Allaire/Allain; none supplies a definite later event, spouse or death date. Private previews do not expose family details. No status change.",
+   "baptism": "1830-08-13",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C199",
+   "name": "Louis Octave GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Ancestry original registers, census and notarial repertory",
+   "action": "Family continuation; likely elimination",
+   "outcome": "16 November 2026 — Ancestry tree-led original record review: Gunnis tree supplied an 1848 notarial repertory and 1861 Barford census lead. Original 1827 baptism read: Louis Octave, born the previous day, son of Jean Baptiste Gendron, menuisier, and Archange Poulin. Original 1826 parents’ marriage read: Jean Baptiste, son of deceased Michel Gendron and Elizabeth Normand, and Archange Poulin, daughter of Jean Baptiste Poulin and Marie Lucie Charron. Original 1834 remarriage names Jean Baptiste as widower of Lucie Poulin, marrying Lucie Dudevoir; the Lucie/Archange difference is retained. Notarial repertory: 20 April 1848, Jean-Baptiste Maranda no. 1291, quittance et ratification by Louis Octave Gendron to Jean Baptiste Gendron; full minute not inspected, kinship not stated in the repertory. Original 1861 census, Barford, Stanstead, p. 21, C-1323, lines 40–50: Jean Bte Jondro 62, Lucy 46, Alfred 21, Edward 19, difficult given name indexed Itan 34 unmarried, John B 26, Peter 17, Virginia 15, Mary 13, Julan 10, Delia 3 born USA. Original Alfred marriage, Compton 1 August 1864, confirms parents Jean Baptiste Gendron and Lucie Dudevoir of Barford. Candidate moved to likely elimination on combined family/age evidence; not solid. The tree’s 1871 McNider Octave 45 is married to Vitaline and listed near Prudent Gendron/Henriette Chamard; not adopted as C199. Its 1881 continuation was not inspected.",
+   "baptism": "1827-04-20",
+   "place": "St-Ours (Immaculée-Conception)",
+   "tier": "likely"
   }
  ]
 }

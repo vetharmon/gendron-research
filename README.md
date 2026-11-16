@@ -3,8 +3,8 @@
 Jekyll/GitHub Pages site documenting 281 Gendron/Gendreau candidate records as of 16 November 2026. Source images are **not hosted in this repository**; the candidate pages link externally to the record providers where direct URLs were preserved in the research register.
 
 - 280 distinct candidates and one duplicate index entry (C270, cross-referencing C200)
-- 219 eliminated (including C154, a corrected surname); 23 likely eliminated; 8 possible eliminations
-- 29 candidates needing work
+- 219 eliminated (including C154, a corrected surname); 24 likely eliminated; 8 possible eliminations
+- 28 candidates needing work
 - C127 proposed identity
 - 30 François-name entries, available with the **François only** checkbox
 
