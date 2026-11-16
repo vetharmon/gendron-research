@@ -13,7 +13,7 @@ The register covers Gendron and Gendreau baptismal entries from 1816–1830. Eac
 
 - **Eliminated:** a childhood death or a separate adult identity distinguishes the candidate from Franklin. C154 is excluded because original records identify the family as Gautron dit Larochelle; his later life remains unknown. Duplicate index entries are not counted as eliminations.
 - **Likely eliminated:** the later record is a probable match, with a specific identification question still to resolve.
-- **Possible elimination:** a later record is under review; the candidate remains possible.
+- **Possible elimination:** a specific record or family clue may support an elimination, but its identification or significance remains unresolved. This includes unassigned adult records and possible childhood deaths suggested by name reuse. The candidate remains possible.
 - **Needs work:** research has not yet established a later identity or an elimination.
 - **Proposed identity:** C127, the 1823 Châteauguay François. No located record directly connects his baptism to Franklin's Missouri life.
 
@@ -29,3 +29,5 @@ Document descriptions are summaries. Quotations are identified in the text. Sour
 Register and census scans remain with their providers. The [family Bible gallery]({{ '/family-bible/' | relative_url }}) contains photographs from the family collection. Parish photographs are credited individually.
 
 [Family records]({{ '/families/' | relative_url }}) collect related households and their sources. The [research log]({{ '/research-log/' | relative_url }}) records searches for candidates still under investigation.
+
+[Audit of Needs work and Possible candidates — 16 November 2026](https://github.com/vetharmon/gendron-research/blob/main/research-notes/2026-11-16-needs-work-possible-audit.md) reviews the evidence gaps and next record targets for all 36 candidates.
