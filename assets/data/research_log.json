@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16",
- "count": 284,
+ "generated": "2026-11-18",
+ "count": 291,
  "entries": [
   {
    "date": "",
@@ -732,7 +732,7 @@
    "outcome": "Baptism located — act 2789504, La Présentation (St-Hyacinthe), 1823-01-25.",
    "baptism": "1823-01-25",
    "place": "La Présentation (St-Hyacinthe)",
-   "tier": "likely"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -744,7 +744,7 @@
    "outcome": "Probably the Joseph Gendreau who married Marie Celina Lavimodiere at St-Hyacinthe on 2 February 1863 — if so, connected to Canadian records until at least 2 February 1863. His mother's given name differs between the records (Lisette vs Louise).",
    "baptism": "1823-01-25",
    "place": "La Présentation (St-Hyacinthe)",
-   "tier": "likely"
+   "tier": "solid"
   },
   {
    "date": "",
@@ -3180,7 +3180,7 @@
    "outcome": "Compared the first ten of eighty-nine grouped Joseph Gendreau previews. Several associate the exact 24 January 1823 birth with Celina Lavimodiere, the 1863 marriage, and death 4 October 1898 at Ste-Madeleine. These tree claims do not resolve Lisette/Louise Allard. Opening a sourced public profile stalled and browser recovery timed out; no new original was inspected. Likely eliminated unchanged.",
    "baptism": "1823-01-25",
    "place": "La Présentation (St-Hyacinthe)",
-   "tier": "likely"
+   "tier": "solid"
   },
   {
    "date": "2026-11-16",
@@ -3409,6 +3409,90 @@
    "baptism": "1816-06-29",
    "place": "Châteauguay",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-16",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "LAFRANCE original registers and couple index",
+   "action": "Family linkage and retrieval follow-up",
+   "outcome": "LAFRANCE Laurent Gendreau/Allard couple search, all roles, 1800–1918, returned 28 acts from the 1802 marriage to the 1863 Joseph marriage. The 1823 baptism is the only returned row naming mother Lisette; other rows use Marie Louise, Louise or Marie. This index pattern supports further family reconstruction but is not an independent alias statement. Re-read original baptism 2789504, d1p_03520354.jpg, lower-left B7: Joseph born previous day, Laurent Jeandreau and Lisette Allard; father described as cultivateur, of St-Damase. Re-read original 1863 marriage 13570248 and continuation d1p_03911207/08: groom son of deceased Laurent Gendreau and deceased Louise Allard; witnesses Joseph Lavimodiere and Laurent Gendreau, with no relationship specified there. Read original Godefroy Gendreau marriage 13400810 and continuation d1p_4011379/80, St-Pie 2 February 1852: parents Laurent Gendreau and deceased Marie Louise Allard; Pierre Gendreau is called the groom’s brother, not Joseph. This is C194 family context and does not directly resolve C109 identity. Index 2472273 is Marie Louise, born 24/baptized 25 August 1803. No upgrade.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "Chat",
+   "source": "Ancestry Drouin original — Ste-Madeleine, 1885, B10, p.10",
+   "action": "Read original Marie Delvina baptism behind the previously logged compilation lead",
+   "outcome": "Marie Delvina was born 12 March and baptized 17 March 1885, daughter of Joseph Gendreau and Célina Lavimodière. Godfather Godefroy Gendreau of Roxton Falls signs G. Gendreau; godmother Édesse Gendreau, whose residence appears to read St-Barnabé. No kinship is stated. This establishes the sponsor evidence at original-record level; it is used with the separately inspected Godefroy remarriage and Édesse marriage in the correlated identification.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "Chat",
+   "source": "Ancestry Drouin original — Ste-Madeleine, 1898, S14, pp.28–29",
+   "action": "Read original Joseph burial behind the previously logged compilation lead",
+   "outcome": "Joseph Gendreau, cultivateur and husband of Célina Lavimodière, was buried 6 October 1898, having died 4 October, age 76. Witnesses include Louis Gendreau, Godfroy Gendreau (signed G. Gendreau), and Christophe Lavimodière; no relationships are stated. The age is within one year of the 1823 birth, and Godfroy’s association recurs. Supports the combined solid-elimination conclusion.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "Chat",
+   "source": "Ancestry Drouin original — St-Hyacinthe, 1859, S54",
+   "action": "Inspect Laurent Gendreau burial for a named son or other family relationship",
+   "outcome": "Buried 8 September 1859, died 6 September, recorded age 81, husband of Marguerite Morin. Witnesses Édouard Gendreau and Hilaire Mathieu sign; no relationship is stated and Joseph is not named. No direct father–son bridge found in this act.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C194",
+   "name": "Godefroy GENDREAU",
+   "researcher": "Chat",
+   "source": "Ancestry Drouin original — St-Valérien-de-Milton, 1885, M6, leaf 13v",
+   "action": "Read original remarriage and identify the Roxton blacksmith through his first wife",
+   "outcome": "Godfroid Gendreau, forgeron of St-Jean-Baptiste-de-Roxton and widower of Éléonore Denonville, married Osithe Beaudry, widow of Chrysostome Viens, on 23 June 1885. The date is June, correcting the compiled May date. The act explicitly identifies nephew Désiré Chaput and niece Marie Chaput; groom signs G. Gendreau. His former wife connects this groom to the established 1852 marriage and extends C194’s documented Québec life to 1885. His place and signature also support comparison with the Roxton Falls sponsor in Joseph and Célina’s family. Existing solid elimination retained.",
+   "baptism": "1827-01-08",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "Chat",
+   "source": "Ancestry Drouin original — St-Hyacinthe, 1831, M34",
+   "action": "Read Édesse Gendreau and Thomas Chaput marriage for parental family",
+   "outcome": "On 26 July 1831 Édesse Gendreau, minor daughter of Laurent Gendreau, cultivateur, and Marie Louise Allard of this parish, married Thomas Chaput. Laurent Gendreau and Étienne Gendreau are explicitly her father and brother. This places the 1885 godmother’s name in the same family as C194. The 1885 act does not name her spouse or expressly state the relationship to Joseph.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-18",
+   "candidate": "C109",
+   "name": "Joseph GENDREAU",
+   "researcher": "Chat",
+   "source": "Existing C248 originals, NosOrigines marriage estimate, and C109 family evidence",
+   "action": "Exclude the younger namesake and reassess the combined identification",
+   "outcome": "C248’s previously verified 1829 baptism and 1831 burial establish that Joseph Antoine Julien, son of Laurent Gendreau and Marie Louise Allard, died aged two and a half. The compiled 1828 birth is not backed by a separate cited baptism; the original 1863 marriage gives no numerical age. With matching paternal identity and maternal surname, compatible locality and burial age, and the original Godefroy/Édesse associations, C109 is upgraded from likely to solid elimination. Lisette remains the baptism reading; no explicit Lisette/Louise alias is claimed.",
+   "baptism": "1823-01-25",
+   "place": "La Présentation (St-Hyacinthe)",
+   "tier": "solid"
   }
  ]
 }
