@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 344,
+ "count": 346,
  "entries": [
   {
    "date": "",
@@ -4126,6 +4126,30 @@
    "source": "21 November 2026 — original Alexander Gendron census comparison",
    "action": "Publish the qualified original-record findings and exact next identity test.",
    "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, line 39, records Alexander Gendron, farmer, 27 next birthday, Canada East, Roman Catholic. Michel 29, Vanda 21 and Moses 1 occur at lines 29–31, separated by Wing and Robins entries. This is a specific comparison for the Alex. Gendron marriage witness, not proof of a shared household or brotherhood. No parents are supplied; the age differs from the 1820 baptism. The witness, census man and candidate remain distinct pending a bridge. Needs work unchanged.",
+   "baptism": "1820-06-22",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original Châteauguay census and corrected household transcription",
+   "action": "Publish the source-backed correction and identity limits.",
+   "outcome": "Read the original 1851 personal census, page 41, lines 13–23, e093/e002302806. Antoine Gendron, journalier, 40, and Catherine Tranquille, explicitly his wife, 26, are followed by J Bte 18, Louis 16, Pierre 14, Joseph 12, Octave 10, Gédéon 8, Malvina 6, Domitille 4 and Adelle 2. Ages are at next birthday. The original corrects the earlier Lucie reading to Louis, male; the last five younger entries were omitted from the short index note. Only the wife relationship is explicit. The census does not establish the younger entries’ parents or connect the twelve-year-old Joseph to the 1829 candidate. No death inference from absence or name reuse; Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C065",
+   "name": "Alexandre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — HBCA biography and original account distinguish the western lead",
+   "action": "Publish the source-backed correction and identity limits.",
+   "outcome": "The official HBCA biography gives St-Michel, Yamaska, service from 1832 and age 25 in 1835 and 1836. Its cited B.239/g/31 original was then recovered: 1851–1852 accounts, manuscript page 77, account folio 172, PDF image 166, records Gendron Alexis, Yamaska, Miller, district Ft Colvile, contract expiry 1852; age is blank. This directly documents the western account, but supplies no parents or link to C065, the Bastard census man or the marriage witness. The earlier ages and service history remain statements of the archival compilation; those other cited originals were not inspected. Keep the identities distinct; Needs work unchanged.",
    "baptism": "1820-06-22",
    "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
    "tier": "none"
