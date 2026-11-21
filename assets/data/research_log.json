@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 356,
+ "count": 361,
  "entries": [
   {
    "date": "",
@@ -4272,6 +4272,66 @@
    "outcome": "Recovered three typed archival transcriptions from St-Joachim, Châteauguay. The 18 November 1819 baptism records Pierre born yesterday, parents Pierre Gendron/Catherine Hélaine, sponsors Guillaume Hélaine/Suzanne Gendron. The 16 February 1819 marriage gives Pierre’s parents deceased Joseph Gendron/Agathe Faubert and Catherine Halaine’s parents Guillaume Halaine/deceased Marguerite Duquet; Joseph and Nicolas Gendron are expressly the groom’s brothers. The 25 March 1824 burial records Catherine Alaire, wife of Pierre Jandron, aged 24, dead two days earlier. These derivative family records supply concrete relatives and dates, not a later record of the child or proof of an Allen alias. Needs work unchanged.",
    "baptism": "1819-11-18",
    "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C015",
+   "name": "Hubert GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — Saint-Basile certified maternal-burial copy",
+   "action": "Publish verified family evidence and precise remaining identity tests.",
+   "outcome": "Located and independently read the certified manuscript copy of Saint-Basile S19, page 865: Marie Gamache buried 21 August 1829, died 26 July, aged 45, wife of Pierre Jeandrault, cultivateur of the parish. The 1906 certificate establishes copied-register provenance. The copy gives distinct July death and August burial dates; Hubert is not named. This is parental-family evidence, not a later Hubert record. Needs work unchanged.",
+   "baptism": "1816-10-02",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C057",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — Catherine’s baptism and probable paternal burial",
+   "action": "Publish verified family evidence and precise remaining identity tests.",
+   "outcome": "Read two further typed Châteauguay transcriptions: Catherine born and baptized 20 February 1822 to Pierre Gendron/Catherine Halaire, sponsors Antoine Fobert/Marguerite Halaire; and Pierre Gendron buried 29 February 1828, died 27 February, age 28, husband of deceased Catherine Fallen. The latter is a probable father comparison with a surname and age conflict, not an accepted death for C057 or his father. Estate or guardianship evidence could name surviving children; no later Pierre identity or grade change.",
+   "baptism": "1819-11-18",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — typed baptism and parental marriage",
+   "action": "Publish verified family evidence and precise remaining identity tests.",
+   "outcome": "The typed 5 March 1822 baptism names Bélonie, Nicolas Gendron/Suzanne Augé and sponsors Gaspard Augé/Catherine Gendron. The typed 21 July 1817 marriage names Nicolas’s parents Jean-Baptiste Gendron/Josephte Roussel and Suzanne’s parents Gaspard Auger/Suzanne Poineau, with four witnesses and no stated witness kinship. These derivative family anchors and exact sibling-marriage targets do not identify a later Benoni. The 1851 census and Fitchburg comparisons remain unassigned; Needs work unchanged.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — official 1831 inventory locator and maternal-name comparison",
+   "action": "Publish verified family evidence and precise remaining identity tests.",
+   "outcome": "BAnQ’s official inventory index identifies Pierre Gendron and deceased Marie-Louise Daniel of Saint-Hyacinthe, act 9 May 1831, CN602,S16, greffe de Louis Brunelle. The original inventory, heirs and children remain unread, so C183’s survival is not inferred. Re-read C114’s 1823 baptism confirms Marie Louise Daniel; C094’s 1822 baptism gives Marie Daniel. Élisabeth’s already-indexed 1845 marriage is now targeted by spouse Jean-Baptiste Cloutier. Needs work unchanged.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C274",
+   "name": "Raymond GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — saved B34 original and exact family-retrieval routes",
+   "action": "Publish verified family evidence and precise remaining identity tests.",
+   "outcome": "Recovered and independently read Raymond’s saved original B34: born and baptized 13 August 1830, Joseph Gendron, cultivateur / Marguerite Allair; sponsors Joseph Lachance and Olive Gendron, no kinship stated. The original confirms the established 13 August birth and baptism date. Publisher-catalogue reels 1032 and 379 now locate three still-unread family burials; the existing Marguerite/Charles Tremblay marriage lead is precisely dated 28 October 1856. No later Raymond identity or grade change.",
+   "baptism": "1830-08-13",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
    "tier": "none"
   }
  ]
