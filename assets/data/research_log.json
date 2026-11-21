@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 366,
+ "count": 369,
  "entries": [
   {
    "date": "",
@@ -4392,6 +4392,42 @@
    "outcome": "Typed C-2893 image 502, volume 10 page 3687, records Adéline baptized 30 May 1849, born the previous day, daughter of Pierre Rufiange, voyageur, and Marie Anne Gendron. Sponsors André Hébert and Sophie Champeau dite Laneuville have no stated kinship. No maternal parents or marriage date are given, so the 1845 Magdeleine/Marie Anne identity remains unresolved; Adéline is not identified as the compiled Mélina. Image 520 dates Thomas Raymond’s copy to 17 March 1926 and bears a signed collation statement. No later C097 event or classification change.",
    "baptism": "1822-03-05",
    "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C123",
+   "name": "Joseph Leon GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original remarriage residence and entry-number corrections",
+   "action": "Correct the family evidence from independently re-read saved original marriages.",
+   "outcome": "Re-read the complete saved 4 April 1853 Saint-Hugues marriage, act 13499522. The margin reads M17, correcting M19; Joseph Gendron, cultivateur and widower of Geneviève Magnan, is domiciled Saint-David, correcting Saint-Denis. Witnesses explicitly include Joseph Gendron, father, and Hilaire Gendron, brother of the groom. Pierre Noël also signs. No Raymond is named. These corrections preserve the established spouse link and elimination.",
+   "baptism": "1823-07-27",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C249",
+   "name": "Pierre Noel GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original marriage residence correction",
+   "action": "Correct the family evidence from independently re-read saved original marriages.",
+   "outcome": "Re-read both pages of the 20 November 1854 Saint-Aimé/Massueville marriage, M26, folios 39 recto–verso, act 13401071. Pierre Noël Gendron is a marchand domiciled Saint-Marcel; his parents Joseph Gendron, bourgeois, and Marguerite Allaire are of Saint-Hugues. Corrected the previous Saint-François residence claim; the baptismal birthplace is unchanged. The witness sentence names Jean-Baptiste Proulx and Joseph Gendron without stating kinship; Hilaire Gendron signs. No Raymond is named. Existing elimination unchanged.",
+   "baptism": "1829-02-10",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C274",
+   "name": "Raymond GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — collateral marriages and corrected family residences",
+   "action": "Correct the family evidence from independently re-read saved original marriages.",
+   "outcome": "The complete saved C123 marriage of 4 April 1853 reads M17 and Saint-David; it names Joseph Gendron as father and Hilaire as the groom’s brother, with Pierre Noël also signing. The complete C249 marriage of 20 November 1854 places Pierre Noël at Saint-Marcel and his parents Joseph/Marguerite Allaire at Saint-Hugues; Hilaire signs. Neither act names Raymond. The saved 19 February 1849 C123 image ends before the witnesses, so no complete witness negative is claimed for that act. No later Raymond identity or elimination established.",
+   "baptism": "1830-08-13",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
    "tier": "none"
   }
  ]
