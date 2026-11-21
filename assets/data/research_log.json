@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 361,
+ "count": 364,
  "entries": [
   {
    "date": "",
@@ -4332,6 +4332,42 @@
    "outcome": "Recovered and independently read Raymond’s saved original B34: born and baptized 13 August 1830, Joseph Gendron, cultivateur / Marguerite Allair; sponsors Joseph Lachance and Olive Gendron, no kinship stated. The original confirms the established 13 August birth and baptism date. Publisher-catalogue reels 1032 and 379 now locate three still-unread family burials; the existing Marguerite/Charles Tremblay marriage lead is precisely dated 28 October 1856. No later Raymond identity or grade change.",
    "baptism": "1830-08-13",
    "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — 1845 Rufiange marriage transcription",
+   "action": "Publish the inspected records, source distinctions and precise next identity tests.",
+   "outcome": "Read the typed 4 August 1845 Châteauguay marriage, C-2893 image 378, page 3564. The bride is Magdeleine Gendron, adult daughter of Nicolas Gendron, voyageur, and Suzanne Augé; the compiled lead calls her Marie-Anne. Named witnesses Charles Duquet and Louis Lepage have no stated kinship. Bélonie/Benoni is not named. Preserve the name discrepancy and compare the handwritten act; this family record does not establish a later event for C097. Needs work unchanged.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — Stevens Point directory originals",
+   "action": "Publish the inspected records, source distinctions and precise next identity tests.",
+   "outcome": "Read the 1889–1890 directory, printed page 60: Jandrou Joseph, laborer, and Jandrou Louis, plasterer, at separate Portage Street locators. The surname ends in u; the OCR Jandron reading is corrected. Neither entry states age, spouse, parents or relationship. The inspected Jandrou/Jandron alphabetical position in the 1892–1893 directory, printed page 38, contains no matching entry; that limited result establishes no death or move. No link to C143 or the census households is proved. Needs work unchanged.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — exact estate and parish catalogue references",
+   "action": "Publish the inspected finding aids, catalogue references and precise next identity tests.",
+   "outcome": "Archiv-Histo’s detailed Parchemin table lists Louis Brunelle, 1805–1837, 4,328 minutes, complet, while its general homepage describes 1626–1809. This is a possible route to the 9 May 1831 inventory notice, not a verified notice or minute number. Drouin film 390 covers the dates of Élisabeth’s 1845 marriage and the father’s 1833 remarriage, with missing 1833 folios noted. The notarial inventory and both parish acts remain unread. No child-specific evidence or grade change.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
    "tier": "none"
   }
  ]
