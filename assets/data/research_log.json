@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 340,
+ "count": 344,
  "entries": [
   {
    "date": "",
@@ -4080,6 +4080,54 @@
    "outcome": "The museum's independent online index to its 1858–1869 returns was found and page 76 visually inspected. Joseph Shandrow, 26, and Mary A. Clark, 17, both residing at Kennebec, married 28 February 1860. The groom's birthplace is Montreal and parents Andrew and Mary; the bride's birthplace is Sheffield and parents George and Hannah. The registration-number cell is blank; [967], [908] belong to the following Stevenson entry. This is a modern index formatted from a 1996 index, not the original return. The name pair and residences strongly correlate with the Ontario family, but do not establish C264. Retain Andrew exactly: it differs from Antoine, and the age and birthplace also need reconciliation. Retrieve the complete A2018.034 return for this couple and date before deciding the identity. The county returns are outside the separate 1862–1869 indexed volume described in the Ontario guide, but have their own online index. No identification or exclusion; Needs work unchanged.",
    "baptism": "1829-11-07",
    "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C017",
+   "name": "Antoine Elisee GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original child baptism and Winchester comparison",
+   "action": "Publish the qualified original-record findings and exact next identity test.",
+   "outcome": "Original St-Roch B694, 9 August 1861, names Joseph Éleusippe as son of Antoine Élisée Gendron, menuisier, and Marie Anne Vézina. The 1880 Winchester household and the 1942 Joseph E. obituary strongly correlate with this family; the obituary reports Québec City birth, arrival in 1866 aged five, and an 1890 marriage to Florence Avis Holbrook. Compiled twin and Malvina baptisms supply exact next targets. The American records still name no parents; no completed migration identification. C017 remains solid on his established Québec records.",
+   "baptism": "1817-02-03",
+   "place": "Neuville (St-François-de-Sales)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C034",
+   "name": "Amand GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — C017 alternate family and Joseph E. obituary",
+   "action": "Publish the qualified original-record findings and exact next identity test.",
+   "outcome": "C017 has the exact Joseph Éleusippe baptism, 9 August 1861 at Québec St-Roch, naming Antoine Élisée Gendron and Marie Anne Vézina. This original and the compiled 1846 twins and 1850 Malvina make C017 a strong alternative to the Winchester attachment. Joseph E. Gendron’s original 1942 obituary reports Québec City birth, an 1866 move aged five, marriage to Florence Avis Holbrook in 1890, and death on 3 November 1942 aged 81. It gives no parents. Retrieve the exact marriage or death for a Vézina bridge; the American family remains unassigned to C034. Needs work unchanged.",
+   "baptism": "1818-02-02",
+   "place": "Île-Perrot (Ste-Jeanne-de-Chantal)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C039",
+   "name": "Michel Archange GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original Bastard personal census",
+   "action": "Publish the qualified original-record findings and exact next identity test.",
+   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, e095/e002356142: Michel Gendron, shoemaker, 29 next birthday, Canada East, Roman Catholic; Vanda 21 and Moses 1 follow him. Alexander Gendron, farmer, 27 next birthday, Canada East, Roman Catholic, is at line 39 after intervening entries. The Michel/Vanda/Bastard combination strongly correlates with the Manson marriage transcription, but the census names no parents or relationship to Alexander. Ages differ from the 1818/1820 candidates; no identification or age-only exclusion. Possible elimination unchanged.",
+   "baptism": "1818-04-04",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C065",
+   "name": "Alexandre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original Alexander Gendron census comparison",
+   "action": "Publish the qualified original-record findings and exact next identity test.",
+   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, line 39, records Alexander Gendron, farmer, 27 next birthday, Canada East, Roman Catholic. Michel 29, Vanda 21 and Moses 1 occur at lines 29–31, separated by Wing and Robins entries. This is a specific comparison for the Alex. Gendron marriage witness, not proof of a shared household or brotherhood. No parents are supplied; the age differs from the 1820 baptism. The witness, census man and candidate remain distinct pending a bridge. Needs work unchanged.",
+   "baptism": "1820-06-22",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
    "tier": "none"
   }
  ]
