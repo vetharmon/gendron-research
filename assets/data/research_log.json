@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 364,
+ "count": 366,
  "entries": [
   {
    "date": "",
@@ -4368,6 +4368,30 @@
    "outcome": "Archiv-Histo’s detailed Parchemin table lists Louis Brunelle, 1805–1837, 4,328 minutes, complet, while its general homepage describes 1626–1809. This is a possible route to the 9 May 1831 inventory notice, not a verified notice or minute number. Drouin film 390 covers the dates of Élisabeth’s 1845 marriage and the father’s 1833 remarriage, with missing 1833 folios noted. The notarial inventory and both parish acts remain unread. No child-specific evidence or grade change.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C010",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — 1834 maternal-burial comparison",
+   "action": "Publish the inspected typed records, unresolved identity differences and precise next record checks.",
+   "outcome": "The two-page typed burial, C-2889 images 698–699, calls the deceased Marguerite Gendron, wife of Ignace Gendron: buried 28 August 1834, died the previous day, aged fifty. Witnesses François Haynault and Norbert Clément have no stated kinship. The compiled locator calls her Josephte. Preserve the given-name conflict and compare the handwritten act before assigning this death to Pierre’s mother. The record does not extend Pierre’s known life beyond his 1836 marriage. Needs work unchanged.",
+   "baptism": "1816-06-29",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — 1849 Rufiange baptism and copy provenance",
+   "action": "Publish the inspected typed records, unresolved identity differences and precise next record checks.",
+   "outcome": "Typed C-2893 image 502, volume 10 page 3687, records Adéline baptized 30 May 1849, born the previous day, daughter of Pierre Rufiange, voyageur, and Marie Anne Gendron. Sponsors André Hébert and Sophie Champeau dite Laneuville have no stated kinship. No maternal parents or marriage date are given, so the 1845 Magdeleine/Marie Anne identity remains unresolved; Adéline is not identified as the compiled Mélina. Image 520 dates Thomas Raymond’s copy to 17 March 1926 and bears a signed collation statement. No later C097 event or classification change.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
    "tier": "none"
   }
  ]
