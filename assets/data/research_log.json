@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 350,
+ "count": 356,
  "entries": [
   {
    "date": "",
@@ -4200,6 +4200,78 @@
    "outcome": "Compared the two existing 1871 index leads against documented namesakes already in the register. C245, born 23 January 1829 at Ste-Anne, married Anastasie Caille/Cadier in 1851 and has parents François Gendron/Adélaïde Vallée. C275, born 30 August 1830 at Marieville, married Marie Adeline Bonvouloir at Ste-Brigide in 1861 and has parents Joseph Gendron/Marie Commeau. These are specific competing identities to test, not assignments of the unread census households. No new original, candidate identification or exclusion; Needs work unchanged.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C224",
+   "name": "Louis GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — saved baptism and marriage reinspection",
+   "action": "Publish verified source readings and distinguish remaining identity questions.",
+   "outcome": "The original B7 baptism, 18 February 1828, names Louis, born yesterday, son of Louis Gendron, cultivateur, and Josephte Milburge. Milburge supersedes the earlier Millange transcription. Sponsors: Dieudonné Boucher and Théotiste Nault. The 8 January 1855 M1 marriage names deceased Louis Gendron and deceased Emilie Boucher; groom-side witnesses are Alfred Gendron and Dieu Donné Boucher, with no relationships stated. The maternal identity and any connection to C129 remain unproved. Likely eliminated unchanged.",
+   "baptism": "1828-02-18",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C189",
+   "name": "Remi Gabriel GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — maternal names compared in saved family originals",
+   "action": "Publish verified source readings and distinguish remaining identity questions.",
+   "outcome": "The established C025 infant pair documents Marie Euphrosine Courtemanche in the 10 August 1817 St-Denis baptism and Marie Courtemanche in the 4 April 1818 St-Ours burial. C107’s 2 December 1822 baptism names Marie Courtemanche and expressly places father Jean Baptiste Gendreau at St-Ours. These saved originals support searching the parental family under Marie and Euphrosine, but do not establish the Montréal Hennessey/Laughlin family as Rémi’s family. C107’s Magdeleine burial name remains unresolved; the 1816 parental marriage original remains unread. Needs work unchanged.",
+   "baptism": "1826-10-02",
+   "place": "Iberville (St-Athanase-de-Bleury)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C107",
+   "name": "Joseph GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — residence and maternal-name reinspection",
+   "action": "Publish verified source readings and distinguish remaining identity questions.",
+   "outcome": "Saved original B157, 2 December 1822, names Jean Baptiste Gendreau, cultivateur at St-Ours, and Marie Courtemanche. The saved 8 May 1827 burial still plainly names Magdeleine Courtemanche. C025’s Marie Euphrosine/Marie pair supports short-name usage in the earlier family but does not resolve Magdeleine. Likely eliminated unchanged.",
+   "baptism": "1822-12-02",
+   "place": "St-Denis-sur-Richelieu (St-Denis)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — exact family targets and C224 comparison",
+   "action": "Publish verified source readings and distinguish remaining identity questions.",
+   "outcome": "The exact family targets are the reported 1 May 1827 St-Pierre-les-Becquets remarriage M16, act 13401010, and Marie Gendron/Gaspard Demers marriage M9, 24 April 1838, act 13377976; both originals remain unread. C224’s re-read 1828 baptism records Josephte Milburge and sponsors Dieudonné Boucher/Théotiste Nault. Its possible 1855 marriage names deceased Emilie Boucher and witnesses Alfred Gendron/Dieu Donné Boucher. No half-sibling relationship, maternal alias, or Joseph Adolphe sighting is established. Needs work unchanged.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C110",
+   "name": "Olivier GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — accessible baptism copy and namesake reconciliation",
+   "action": "Publish verified source readings and distinguish remaining identity questions.",
+   "outcome": "Located and independently read the LAC manuscript transcription of Olivier’s 12 February 1823 St-Régis baptism, B17, C-3025 image 626, manuscript p. 240. Olivier was eight months old; parents Thomas Gendron, journalier of Ogdensburg, and Isabelle Texier. Sponsors Louis Robidoux and Catherine Robidoux; no sponsor kinship or child birthplace stated. The volume explicitly identifies itself as copied; this is a derivative transcription of the baptism, not an autograph register or a later event. A separate typed transcription at Châteauguay, 19 September 1803, names Thomas Jeandron/Elisabeth Tessier and their parents, but supplies no Olivier or Ogdensburg connection. The previously resolved Berthier navigator has different parents; Warwick and the reported 1831 Thomas-Olivier burial remain unassigned. Needs work unchanged.",
+   "baptism": "1823-02-12",
+   "place": "St-Régis (St-François-Régis)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C057",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — typed archival baptism and parental-family transcriptions",
+   "action": "Publish the located family transcriptions and precise next identity tests.",
+   "outcome": "Recovered three typed archival transcriptions from St-Joachim, Châteauguay. The 18 November 1819 baptism records Pierre born yesterday, parents Pierre Gendron/Catherine Hélaine, sponsors Guillaume Hélaine/Suzanne Gendron. The 16 February 1819 marriage gives Pierre’s parents deceased Joseph Gendron/Agathe Faubert and Catherine Halaine’s parents Guillaume Halaine/deceased Marguerite Duquet; Joseph and Nicolas Gendron are expressly the groom’s brothers. The 25 March 1824 burial records Catherine Alaire, wife of Pierre Jandron, aged 24, dead two days earlier. These derivative family records supply concrete relatives and dates, not a later record of the child or proof of an Allen alias. Needs work unchanged.",
+   "baptism": "1819-11-18",
+   "place": "Châteauguay",
    "tier": "none"
   }
  ]
