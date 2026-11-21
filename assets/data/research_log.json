@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 328,
+ "count": 333,
  "entries": [
   {
    "date": "",
@@ -3937,6 +3937,66 @@
    "baptism": "",
    "place": "",
    "tier": ""
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C006",
+   "name": "Jean Baptiste GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Existing original-reading reports and public candidate page",
+   "action": "Reconcile the documented 1840 appearance and completed Massachusetts index search across the candidate record.",
+   "outcome": "The previously recorded original reading establishes Jean Baptiste as a named brother-witness at Domitille Gendreau and Michel Dubuc’s Chambly marriage on 6 October 1840 (act 13497575; DGS 005468746, image 728). He is not named in the separately read 1838 marriage. Corrected older unread/in-progress prose, the source registry and candidate outcome; this reconciliation is not a new discovery. No C006 match was identified in the completed 1850, 1860 and 1870 Massachusetts index search using ten surname variants and Canadian births in 1810–1822. Latest identified appearance remains 6 October 1840; Needs work unchanged.",
+   "baptism": "1816-04-26",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Original 1850, 1860 and 1870 United States censuses, NARA microfilm at Internet Archive",
+   "action": "Inspect and compare the Wisconsin households previously known through census indexes.",
+   "outcome": "Originals inspected. In 1850 at Stevens Point: Joseph (indexed Jandrall, age 26; alternative transcription 24) and Lisett, 30, born Wisconsin; a two-person household. In 1860 at Town of Texas: Joseph Johndron, 35, and Lisette, 42, both Canada; Joseph, 12, Louis, 9, and Elisabetha, 7, all Wisconsin. In 1870 at Bergen: Joseph Jondrau, 41, Canada; Luize, 53, Lewis, 17, and Mary, 4, all Wisconsin. These schedules state no relationships or Joseph’s parents. The adult woman’s differing name and birthplace, the ages and household membership require a family-record bridge before treating the households as continuous. No connection to Jacques Gendron and Geneviève Goulette; Needs work unchanged.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "1880 United States census original — Bergen, Wisconsin",
+   "action": "Browse the complete ten-page Bergen section for the provisional Wisconsin household.",
+   "outcome": "Visually inspected ED 81, NARA T9 roll 1433, manuscript pages 10–19, archival 285A–289B, Internet Archive leaves n578–n587. No recognizable continuation of Joseph/Lisett or Joseph/Luize/Lewis/Mary was found within this section. This is a Bergen-only search; no death, departure or wider absence is inferred. Next seek a parent-naming marriage or death for Louis/Lewis, born about 1851–1853, or Elisabetha/Elizabeth, born about 1853, before extending the census browse. Needs work unchanged.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Public family biographies with exact record citations; Archives of Ontario finding aid",
+   "action": "Identify an early parish and verify marriage-register coverage for the unassigned Ontario family.",
+   "outcome": "Recovered a precise tree-cited target: John Joseph Shandreaux baptism, 21 February 1864, at Assumption, Erinsville (FS 6ZJF-95Y2), reported son of Joseph and Mary Ann Clark. Underlying index detail and original are unread; this is a retrieval lead, not an accepted C264 event. Read parents, residence and sponsors, then the same early parish register for the parents’ marriage or Margaret’s baptism. The official guide lists the indexed Lennox/Addington register as 1862–1869 (RG 80-27-2, volume 32, MS 248 reel 10), with separate 1858–1869 returns at the county museum and archives outside the published index. Those returns remain unsearched; a pre-1862 marriage is not excluded. No bridge to Antoine Gendron and Marie Anne Lefebvre; the birth discrepancy and Needs work assessment remain.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C042",
+   "name": "Paul GENDRON",
+   "researcher": "ChatGPT",
+   "source": "BAnQ Advitam official notarial catalogue and container lists",
+   "action": "Locate original containers for the 1858 lease and 1866 sale already cited in the Beauharnois land history.",
+   "outcome": "Official catalogue inspected: Longpré minute 1927, the 25 October 1858 lease, falls in CN607,S35, container 410, acquisition 1988-12-055, minutes 1432–1972, March 1857–November 1858. Lemoyne de Martigny minute 5453, the 9 October 1866 sale, falls in CN607,S13, container 85, the same acquisition, minutes 4801–5500, February 1865–November 1866. Dates and parties remain from the published land history; catalogue ranges supply precise retrieval locations. Digital finding-aid links reached a CAPTCHA; neither original deed was inspected. Seek a spouse, parents, residence or title chain identifying Paul. No identity or grade change.",
+   "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
   }
  ]
 }
