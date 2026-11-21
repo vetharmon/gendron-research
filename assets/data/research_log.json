@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 346,
+ "count": 350,
  "entries": [
   {
    "date": "",
@@ -4152,6 +4152,54 @@
    "outcome": "The official HBCA biography gives St-Michel, Yamaska, service from 1832 and age 25 in 1835 and 1836. Its cited B.239/g/31 original was then recovered: 1851–1852 accounts, manuscript page 77, account folio 172, PDF image 166, records Gendron Alexis, Yamaska, Miller, district Ft Colvile, contract expiry 1852; age is blank. This directly documents the western account, but supplies no parents or link to C065, the Bastard census man or the marriage witness. The earlier ages and service history remain statements of the archival compilation; those other cited originals were not inspected. Keep the identities distinct; Needs work unchanged.",
    "baptism": "1820-06-22",
    "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C049",
+   "name": "Pierre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — two saved-original date corrections",
+   "action": "Publish the verified event-date corrections.",
+   "outcome": "Three independent readings of the saved originals correct Pierre Gendron/Angélique Boyer’s Beauharnois M30 marriage to 16 November 1847, rather than 26 November, and Félix’s B181 birth to 20 November 1859, the same day as his baptism, rather than 19 November. Marriage parents Joseph Gendron/deceased Marie Anne Guy and later child parents Pierre/Angélique remain unchanged. Preserve the old marriage filename as a locator. Pierre’s solid elimination is unchanged.",
+   "baptism": "1819-06-01",
+   "place": "Châteauguay",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — named witnesses in brother Pierre’s original records",
+   "action": "Publish the bounded sibling-family check.",
+   "outcome": "Re-read brother C049 Pierre’s saved originals. Beauharnois M30 is dated 16 November 1847, correcting 26 November; Pierre, forgeron, is the adult son of Joseph Gendron and deceased Marie Anne Guy. Witnesses are Joseph Gendron (groom’s father), Barthélemi Sénécal (relationship unstated), and Faustin Boyer twice (bride’s father and brother). Félix’s B181 baptism records both birth and baptism on 20 November 1859, correcting a 19 November birth; parents Pierre Gendron/Angélique Boyer, sponsors Antoine Boyer and Angèle with uncertain surname. Neither entry names George. Family-context checks do not establish George’s absence or connect the Montréal adult; Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — explicit competing identities for 1871 census leads",
+   "action": "Publish the family distinctions and unresolved census assignment.",
+   "outcome": "Compared the two existing 1871 index leads against documented namesakes already in the register. C245, born 23 January 1829 at Ste-Anne, married Anastasie Caille/Cadier in 1851 and has parents François Gendron/Adélaïde Vallée. C275, born 30 August 1830 at Marieville, married Marie Adeline Bonvouloir at Ste-Brigide in 1861 and has parents Joseph Gendron/Marie Commeau. These are specific competing identities to test, not assignments of the unread census households. No new original, candidate identification or exclusion; Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — explicit competing identities for 1871 census leads",
+   "action": "Publish the family distinctions and unresolved census assignment.",
+   "outcome": "Compared the two existing 1871 index leads against documented namesakes already in the register. C245, born 23 January 1829 at Ste-Anne, married Anastasie Caille/Cadier in 1851 and has parents François Gendron/Adélaïde Vallée. C275, born 30 August 1830 at Marieville, married Marie Adeline Bonvouloir at Ste-Brigide in 1861 and has parents Joseph Gendron/Marie Commeau. These are specific competing identities to test, not assignments of the unread census households. No new original, candidate identification or exclusion; Needs work unchanged.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
    "tier": "none"
   }
  ]
