@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-21",
- "count": 333,
+ "count": 340,
  "entries": [
   {
    "date": "",
@@ -3995,6 +3995,90 @@
    "action": "Locate original containers for the 1858 lease and 1866 sale already cited in the Beauharnois land history.",
    "outcome": "Official catalogue inspected: Longpré minute 1927, the 25 October 1858 lease, falls in CN607,S35, container 410, acquisition 1988-12-055, minutes 1432–1972, March 1857–November 1858. Lemoyne de Martigny minute 5453, the 9 October 1866 sale, falls in CN607,S13, container 85, the same acquisition, minutes 4801–5500, February 1865–November 1866. Dates and parties remain from the published land history; catalogue ranges supply precise retrieval locations. Digital finding-aid links reached a CAPTCHA; neither original deed was inspected. Seek a spouse, parents, residence or title chain identifying Paul. No identity or grade change.",
    "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C034",
+   "name": "Amand GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — original Winchester census, directory and sibling obituaries",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "New public originals identify the Richardson sibling group: Marie Alvina Richardson née Gendron died 6 October 1932; brothers Joseph E of Winchester and Charles of Olean, and sister Mrs Joseph Moffett. The 1880 Winchester household strongly correlates the siblings and records their father as Antoine, 63, wife Marie A, 59, with twins Charles E/Marie E 32, Marie Elvina 28 and Joseph Eleusippe 17. Antoine is not automatically Amand; no parentage bridge to the 1818 baptism. Preserve conflicting ages and do not assign Mrs Moffett a given name. Prioritize exact 1932 death and sibling vital records for parents and origin. Needs work unchanged.",
+   "baptism": "1818-02-02",
+   "place": "Île-Perrot (Ste-Jeanne-de-Chantal)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C039",
+   "name": "Michel Archange GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — county museum transcription of Reverend Charles Manson's marriages",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "Page 1 of the museum's modern typed transcription records Michael Gendron and Vanda Judson marrying on 22 January 1851, with Bastard in the residence column and witnesses Anson J Brown and Alex. Gendron. The entry was visually inspected; the underlying manuscript was not. It supplies no parents or relationship between groom and witness. Keep Vanda and Alex. exactly as transcribed. This is a new lead for comparison with the Ontario Michael/Amanda family and C065, not an identification of either brother. Bastard is residence, not a proved ceremony location. Retrieve the underlying register before drawing a family connection; Possible elimination unchanged.",
+   "baptism": "1818-04-04",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C065",
+   "name": "Alexandre GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — county museum Manson marriage transcription, Alex. Gendron witness",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "Visually inspected page 1 of the museum's modern typed marriage transcription. Michael Gendron and Vanda Judson married 22 January 1851; witnesses Anson J Brown and Alex. Gendron. Bastard is recorded as the couple's residence, not a proved ceremony location. The underlying manuscript is unread, and the transcription gives no parents or relationship between Alex. and Michael. The witness is a new lead for C065, alongside the groom comparison for his brother C039, but neither identification is established. Preserve the abbreviated Alex. and the bride's Vanda exactly. Retrieve the underlying entry; Needs work unchanged.",
+   "baptism": "1820-06-22",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C120",
+   "name": "Louis GENDREAU",
+   "researcher": "ChatGPT",
+   "source": "Cross-candidate census reconciliation — 21 November 2026",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "The St-Pierre-les-Becquets Louis/Adélaïde lead corresponds to the C201 family already distinguished in C199: 11 August 1851 Deschaillons marriage, act 13401009, parents Charles Gendron and Marie Gagnon. Retire the duplicate lead for C120. Existing-record audit, not a new original inspection; Needs work unchanged.",
+   "baptism": "1823-05-29",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Cross-candidate family comparison — 21 November 2026",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "The competing Joseph/Reine marriage is already documented under C157: 15 July 1861 St-Pierre-les-Becquets, act 13400992, parents Charles Gendron and Marie Gagnon. Correct the stale claim that this marriage bridge is unread; the remaining task is the 1871 census continuity check. No new original inspection and no C129 identification.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "ChatGPT",
+   "source": "Hospital admissions and prior-spouse finding aids — 21 November 2026",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "Located the CHRS Hôtel-Dieu admissions dataset for 1840–1921 and RHSJ patient-register holdings for Julia Moore’s admission before 30 September 1864. A compilation gives Virginie Audet/Amable Bonneville’s earlier marriage on 24 March 1863. Individual records remain unread; no parentage bridge or grade change.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-21",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "ChatGPT",
+   "source": "21 November 2026 — county museum marriage index, superseding the earlier county-coverage search",
+   "action": "Publish a qualified summary of the completed evidence check and revised next target.",
+   "outcome": "The museum's independent online index to its 1858–1869 returns was found and page 76 visually inspected. Joseph Shandrow, 26, and Mary A. Clark, 17, both residing at Kennebec, married 28 February 1860. The groom's birthplace is Montreal and parents Andrew and Mary; the bride's birthplace is Sheffield and parents George and Hannah. The registration-number cell is blank; [967], [908] belong to the following Stevenson entry. This is a modern index formatted from a 1996 index, not the original return. The name pair and residences strongly correlate with the Ontario family, but do not establish C264. Retain Andrew exactly: it differs from Antoine, and the age and birthplace also need reconciliation. Retrieve the complete A2018.034 return for this couple and date before deciding the identity. The county returns are outside the separate 1862–1869 indexed volume described in the Ontario guide, but have their own online index. No identification or exclusion; Needs work unchanged.",
+   "baptism": "1829-11-07",
    "place": "Châteauguay",
    "tier": "none"
   }
