@@ -14,7 +14,7 @@
     {% assign source_urls = '' | split: ',' %}
     {% for source in page.sources %}
     {% unless source.url contains 'prdh-igd.com/' or source_urls contains source.url %}
-    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}</li>
+    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}{% if source.transcription %}<div class="transcription"><span class="transcription-label">Transcription</span><p>{{ source.transcription }}</p></div>{% endif %}</li>
     {% assign source_urls = source_urls | push: source.url %}
     {% endunless %}
     {% endfor %}

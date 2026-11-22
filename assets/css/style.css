@@ -229,6 +229,9 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .candidate-parents .hint{margin-top:12px}
 .candidate-sources h3{font-size:14px;margin:24px 0 12px}
 .candidate-sources .source-list{font-size:14px}
+.transcription{margin-top:6px;padding:8px 10px;border-left:3px solid var(--edge);font-size:13px}
+.transcription-label{display:block;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:4px}
+.transcription p{margin:0;white-space:pre-line}
 .candidate-sources a:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .top{flex-wrap:wrap}
 .top nav{flex-wrap:wrap;gap:12px 20px;max-width:100%}
