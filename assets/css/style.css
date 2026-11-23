@@ -232,6 +232,45 @@ footer{border-top:1px solid var(--edge);margin-top:70px;padding-top:28px;padding
 .transcription{margin-top:6px;padding:8px 10px;border-left:3px solid var(--edge);font-size:13px}
 .transcription-label{display:block;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:4px}
 .transcription p{margin:0;white-space:pre-line}
+
+/* One document, its copies, and a parallel English translation. */
+.case-actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.case-actions>a{font-size:14px;font-weight:600;text-decoration:none}
+.candidate-biography ul{padding-left:22px}
+.candidate-biography li{margin:0 0 16px;line-height:1.8}
+.candidate-biography li:last-child{margin-bottom:0}
+.candidate-biography li a{font-size:.88em;font-weight:600;text-underline-offset:3px}
+.document-section-heading{margin:24px 0 20px}
+.document-section-heading h2{font-family:"Fraunces",Georgia,serif;font-size:32px;margin:0 0 6px}
+.document-section-heading p{font-size:14px;color:var(--muted);margin:0;max-width:78ch}
+.document-card,.evidence-notes h2,.searchlog,.outcome{scroll-margin-top:150px}
+.document-card h3{font-family:"Fraunces",Georgia,serif;font-size:25px;line-height:1.35;margin:0 0 16px}
+.document-copies{list-style:none;display:flex;flex-wrap:wrap;gap:12px 24px;padding:0 0 18px;margin:0 0 20px;border-bottom:1px solid var(--edge-soft)}
+.document-copies li{flex:1 1 210px;min-width:0;font-size:13.5px;line-height:1.5}
+.document-copies a{font-weight:600;text-underline-offset:3px}
+.document-access{display:block;font-size:11.5px;color:var(--muted);margin-top:4px}
+.document-basis{display:inline-block;color:var(--accent-ink);font-size:11px;font-weight:600;margin-top:5px}
+.document-texts{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px}
+.document-texts-single{grid-template-columns:minmax(0,1fr)}
+.document-texts .document-text{min-width:0;margin:0;padding:0;border:0;font-size:15px;line-height:1.8}
+.document-text h4,.document-text .transcription-label{font-family:"Inter",sans-serif;font-size:11px;line-height:1.4;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+.document-text p{margin:0;white-space:pre-line}
+.document-translation{border-left:1px solid var(--edge-soft)!important;padding-left:28px!important}
+.document-note{font-size:13px;line-height:1.65;color:var(--muted);border-top:1px solid var(--edge-soft);margin:20px 0 0;padding-top:16px}
+.candidate-context{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:22px;margin-top:24px}
+.candidate-context .panel{margin-bottom:0}
+.evidence-notes{margin-top:28px}
+@media(max-width:760px){
+  .document-texts{grid-template-columns:minmax(0,1fr);gap:24px}
+  .document-translation{border-left:0!important;border-top:1px solid var(--edge-soft)!important;padding:20px 0 0!important}
+  .document-copies{gap:14px}
+  .document-copies li{flex-basis:100%}
+  .document-card{padding:22px}
+  .document-card h3{font-size:23px}
+  .document-texts .document-text{font-size:15px}
+  .candidate-context{grid-template-columns:minmax(0,1fr)}
+  .document-card,.evidence-notes h2,.searchlog,.outcome{scroll-margin-top:210px}
+}
 .candidate-sources a:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
 .top{flex-wrap:wrap}
 .top nav{flex-wrap:wrap;gap:12px 20px;max-width:100%}
