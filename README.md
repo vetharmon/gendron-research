@@ -13,7 +13,9 @@ The site is built from the consolidated project audit and is not an independent 
 ## Publish
 In Settings → Pages choose **Deploy from a branch**, branch `main`, folder `/(root)`. Then the site should publish at https://vetharmon.github.io/gendron-research/.
 
-Candidate sidebars show parents’ names where recorded and direct source links. PRDH references are stored in `_data/prdh_links.json` as labels, URLs and uncertainty notes only; reconstructed cards and their bulk data are not published. A retired-index notice preserves old bookmarks.
+Candidate pages show parents’ names where recorded and direct source links. PRDH references are stored in `_data/prdh_links.json` as labels, URLs and uncertainty notes only; reconstructed cards and their bulk data are not published. A retired-index notice preserves old bookmarks.
+
+Candidate documents group copies and finding links for each act under one selected transcription, with an English translation where the selected text is not already English. Biographies use chronological bullets linked to those documents. Material differences between copies remain in the document notes. See [the document format](docs/document-format.md) for the source fields and workbook mapping.
 
 The family Bible gallery includes the cover and six historical pages. No affidavit or paid-provider register scans are hosted.
 

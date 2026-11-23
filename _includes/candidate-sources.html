@@ -1,57 +1,61 @@
-<section class="panel candidate-parents" aria-labelledby="parents-title">
-  <h2 id="parents-title">Parents</h2>
-  {% if page.parents %}
-  <p>{{ page.parents | escape }}</p>
-  {% if page.parents_note %}<p class="hint">{{ page.parents_note | escape }}</p>{% endif %}
-  {% else %}
-  <p class="hint">Not recorded.</p>
-  {% endif %}
-</section>
-<section class="panel candidate-sources" aria-labelledby="sources-title">
-  <h2 id="sources-title">Source links</h2>
-  {% if page.sources.size > 0 %}
-  {% assign has_source_text = false %}
+{% if page.sources.size > 0 %}
+<section class="candidate-documents" id="documents" aria-labelledby="documents-title">
+  <div class="document-section-heading">
+    <h2 id="documents-title">Documents</h2>
+    <p>Copies and record links are grouped by document. Square brackets mark uncertain readings and editorial notes.</p>
+  </div>
+  {% assign document_keys = '' | split: ',' %}
   {% for source in page.sources %}
-    {% if source.transcription %}{% unless source.url contains 'prdh-igd.com/' %}{% assign has_source_text = true %}{% break %}{% endunless %}{% endif %}
-  {% endfor %}
-  {% if has_source_text %}<p class="hint">Square brackets mark uncertain or unreadable words, omissions, and editorial notes. Summaries are labeled separately from transcriptions.</p>{% endif %}
-  <ul class="source-list">
-    {% assign source_keys = '' | split: ',' %}
-    {% for source in page.sources %}
-    {% assign source_key = source | jsonify %}
-    {% unless source.url contains 'prdh-igd.com/' or source_keys contains source_key %}
-    <li>
-      <a href="{{ source.url | escape }}">{{ source.label | escape }}</a>
-      {% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}
-      {% if source.transcription %}
+    {% unless source.url contains 'prdh-igd.com/' %}
+      {% assign document_key = source.document_id %}
+      {% if document_key == nil or document_key == '' %}
+        {% capture document_key %}source-{{ forloop.index }}{% endcapture %}
+        {% assign document_copies = page.sources | slice: forloop.index0, 1 %}
+      {% else %}
+        {% assign document_copies = page.sources | where: 'document_id', document_key %}
+      {% endif %}
+      {% unless document_keys contains document_key %}
+        {% assign primary = document_copies | where: 'document_primary', true | first %}
+        {% assign primary = primary | default: source %}
         {% assign text_heading = 'Source text' %}
-        {% case source.text_type %}
+        {% case primary.text_type %}
           {% when 'transcription' %}{% assign text_heading = 'Transcription' %}
           {% when 'partial_transcription' %}{% assign text_heading = 'Partial transcription' %}
           {% when 'abstract' %}{% assign text_heading = 'Record abstract' %}
           {% when 'index_summary' %}{% assign text_heading = 'Index or compiled summary' %}
           {% when 'archival_transcription' %}{% assign text_heading = 'Archival transcription' %}
         {% endcase %}
-        <div class="transcription">
-          <span class="transcription-label">{{ text_heading }}</span>
-          <p>{{ source.transcription | escape | newline_to_br }}</p>
-          {% if source.text_note %}<small class="source-text-note">{{ source.text_note | escape }}</small>{% endif %}
-        </div>
-      {% elsif source.text_note %}<small class="source-text-note">{{ source.text_note | escape }}</small>{% endif %}
-    </li>
-    {% assign source_keys = source_keys | push: source_key %}
+        <article class="panel document-card" id="document-{{ document_key | escape }}">
+          <h3>{{ primary.document_title | default: primary.label | escape }}</h3>
+          <ul class="document-copies" aria-label="Copies and record links">
+            {% for copy in document_copies %}
+              <li>
+                <a href="{{ copy.url | escape }}">{{ copy.copy_label | default: copy.label | escape }}</a>
+                {% if copy.access %}<span class="document-access">{{ copy.access | escape }}</span>{% endif %}
+                {% if copy == primary and primary.transcription %}<span class="document-basis">Transcription source</span>{% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+          {% if primary.transcription %}
+            <div class="document-texts{% unless primary.translation %} document-texts-single{% endunless %}">
+              <section class="document-text transcription"{% if primary.text_language == 'fr' %} lang="fr"{% endif %}>
+                <h4 class="transcription-label">{% if primary.text_language == 'en' %}English · {% endif %}{{ text_heading }}</h4>
+                <p>{{ primary.transcription | escape | newline_to_br }}</p>
+              </section>
+              {% if primary.translation %}
+                <section class="document-text document-translation" lang="en">
+                  <h4>English translation{% if primary.text_type == 'abstract' or primary.text_type == 'index_summary' %} · summary{% elsif primary.text_type == 'partial_transcription' %} · partial{% endif %}</h4>
+                  <p>{{ primary.translation | escape | newline_to_br }}</p>
+                </section>
+              {% endif %}
+            </div>
+          {% endif %}
+          {% assign document_note = primary.document_note | default: primary.text_note %}
+          {% if document_note %}<p class="document-note">{{ document_note | escape | newline_to_br }}</p>{% endif %}
+        </article>
+        {% assign document_keys = document_keys | push: document_key %}
+      {% endunless %}
     {% endunless %}
-    {% endfor %}
-  </ul>
-  {% endif %}
-  {% assign prdh_links = site.data.prdh_links[short_id] %}
-  {% if prdh_links.size > 0 %}
-  <h3>PRDH-IGD</h3>
-  <p class="hint">Subscription required; opening records may use credits.</p>
-  <ul class="source-list">
-    {% for source in prdh_links %}
-    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.note %}<small>{{ source.note | escape }}</small>{% endif %}</li>
-    {% endfor %}
-  </ul>
-  {% endif %}
+  {% endfor %}
 </section>
+{% endif %}
