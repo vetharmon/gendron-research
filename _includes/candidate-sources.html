@@ -10,12 +10,36 @@
 <section class="panel candidate-sources" aria-labelledby="sources-title">
   <h2 id="sources-title">Source links</h2>
   {% if page.sources.size > 0 %}
+  {% assign has_source_text = false %}
+  {% for source in page.sources %}
+    {% if source.transcription %}{% unless source.url contains 'prdh-igd.com/' %}{% assign has_source_text = true %}{% break %}{% endunless %}{% endif %}
+  {% endfor %}
+  {% if has_source_text %}<p class="hint">Square brackets mark uncertain or unreadable words, omissions, and editorial notes. Summaries are labeled separately from transcriptions.</p>{% endif %}
   <ul class="source-list">
-    {% assign source_urls = '' | split: ',' %}
+    {% assign source_keys = '' | split: ',' %}
     {% for source in page.sources %}
-    {% unless source.url contains 'prdh-igd.com/' or source_urls contains source.url %}
-    <li><a href="{{ source.url | escape }}">{{ source.label | escape }}</a>{% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}{% if source.transcription %}<div class="transcription"><span class="transcription-label">Transcription</span><p>{{ source.transcription }}</p></div>{% endif %}</li>
-    {% assign source_urls = source_urls | push: source.url %}
+    {% assign source_key = source | jsonify %}
+    {% unless source.url contains 'prdh-igd.com/' or source_keys contains source_key %}
+    <li>
+      <a href="{{ source.url | escape }}">{{ source.label | escape }}</a>
+      {% if source.access %}<small>{{ source.access | escape }}</small>{% endif %}
+      {% if source.transcription %}
+        {% assign text_heading = 'Source text' %}
+        {% case source.text_type %}
+          {% when 'transcription' %}{% assign text_heading = 'Transcription' %}
+          {% when 'partial_transcription' %}{% assign text_heading = 'Partial transcription' %}
+          {% when 'abstract' %}{% assign text_heading = 'Record abstract' %}
+          {% when 'index_summary' %}{% assign text_heading = 'Index or compiled summary' %}
+          {% when 'archival_transcription' %}{% assign text_heading = 'Archival transcription' %}
+        {% endcase %}
+        <div class="transcription">
+          <span class="transcription-label">{{ text_heading }}</span>
+          <p>{{ source.transcription | escape | newline_to_br }}</p>
+          {% if source.text_note %}<small class="source-text-note">{{ source.text_note | escape }}</small>{% endif %}
+        </div>
+      {% elsif source.text_note %}<small class="source-text-note">{{ source.text_note | escape }}</small>{% endif %}
+    </li>
+    {% assign source_keys = source_keys | push: source_key %}
     {% endunless %}
     {% endfor %}
   </ul>
