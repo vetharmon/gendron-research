@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22",
- "count": 565,
+ "generated": "2026-11-25",
+ "count": 569,
  "entries": [
   {
    "date": "",
@@ -6781,6 +6781,54 @@
    "baptism": "1818-05-25",
    "place": "Châteauguay",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ — Louis Brunelle CN602,S16 catalogue; https://numerique.banq.qc.ca/patrimoine/details/52327/4512057",
+   "action": "Located the dated original-minutes section for the already-indexed 9 May 1831 inventory",
+   "outcome": "The catalogue identifies 13 April 1829–28 February 1835, reference 06M,CN602,S16enfACTES7. The Pierre Gendron / deceased Marie-Louise Daniel inventory date falls within this section. The inventory, minute number, heirs, children and tutorship remain unread; no later record or survival of C183 is established. Needs work retained.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C226",
+   "name": "Francois Regis GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ — François-Clovis Basinet CN607,S2 repertory; https://numerique.banq.qc.ca/patrimoine/details/52327/3783803",
+   "action": "Read all 27 original images, printed pages 56–82",
+   "outcome": "The section catalogued 1862–1875 actually runs from 4 February 1862, no. 789, through 31 March 1876, no. 1124. No entry naming Régis/François Régis Gendron, Claire Chatigny, or an identifiable estate of Jean Baptiste Gendron and Claire Chatigny was found. Other Gendron entries remain unassigned. This negative result covers only this repertory section; the underlying minutes and the 1876–1879 section remain unread. Likely eliminated retained.",
+   "baptism": "1828-03-07",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C243",
+   "name": "Francois Napoleon GENDREAU",
+   "researcher": "Chat",
+   "source": "Le Courrier du Canada, 10 May 1881, p. 2, col. 6; https://numerique.banq.qc.ca/patrimoine/details/52327/2537439",
+   "action": "Read original issue masthead and Mountain Hill House arrivals",
+   "outcome": "The notice lists A. Grant, Anguin, followed by Nap. Gendreau, do. Anguin is retained as printed. This supports an adult-record comparison with the 1881 Napoléon Gendrow–Alexander Grant household, but supplies no age, parents, occupation or explicit employment relationship. No link to C243’s 1828 baptism is proved.",
+   "baptism": "1828-12-11",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C243",
+   "name": "Francois Napoleon GENDREAU",
+   "researcher": "Chat",
+   "source": "L’Électeur, 12 May 1881, p. 2, col. 4; https://numerique.banq.qc.ca/patrimoine/details/52327/2513280",
+   "action": "Read original issue masthead and Hotel Dion arrivals; compare the 10 May notice",
+   "outcome": "The notice lists A Grant, N Gendreau, Amqui. Amqui is explicit. Several neighboring guests also occur in the 10 May Courrier notice, so the two notices are not counted as independent journeys. The hotel headings differ; their relationship remains unestablished. The adult association is compatible with the existing census lead, but an explicit link to Augustin Gendreau and Julie Gagné remains needed. Likely eliminated retained.",
+   "baptism": "1828-12-11",
+   "place": "Montmagny (St-Thomas)",
+   "tier": "likely"
   }
  ]
 }
