@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-25",
- "count": 569,
+ "count": 575,
  "entries": [
   {
    "date": "",
@@ -6829,6 +6829,78 @@
    "baptism": "1828-12-11",
    "place": "Montmagny (St-Thomas)",
    "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C006",
+   "name": "Jean Baptiste GENDREAU",
+   "researcher": "Chat",
+   "source": "NosOrigines, Jean-Baptiste Jinchereau, profile 2151924; https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Jinchereau_Jean-Baptiste&pid=2151924",
+   "action": "Compare the 1875 Gendreau burial-index lead with a competing compiled identity",
+   "outcome": "The compiled Jinchereau profile matches the exact 10 September death, 13 September 1875 burial, age 60 and spouse Marie Emond, but names parents Augustin-Joseph Jinchereau and Marie-Josephte Nadeau. It points to Saint-François, Île d’Orléans, marriage M2 on 11 October 1859 and burial S10 on 13 September 1875. Neither original was read. This is a strong competing identity and possible surname-index problem, not a definitive exclusion or a later event of C006. Needs work unchanged.",
+   "baptism": "1816-04-26",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C022",
+   "name": "Ambroise GENDREAU",
+   "researcher": "Chat",
+   "source": "Museum of Worcester city directories: 1850 p.99/PDF p.101, https://worcesterhistorical.com/wp-content/uploads/2022/11/wor1850citydir.pdf ; 1852 p.139/PDF p.139, https://worcesterhistorical.com/wp-content/uploads/2025/08/1852CityDirectory.pdf",
+   "action": "Verify the existing 1850 screenshot lead against the full original and read a new 1852 directory entry",
+   "outcome": "1850: Jandro Ambrose, oyster cellar, Wash. Sqr, home French Row. 1852: Jandro Ambrose, grocer, home 23 School. Both original printed pages visually read. The 1850 result verifies the already logged screenshot lead, not a new discovery. The entries provide an address and occupation trail but no age, spouse, parents or birthplace. Connection to C022 and the Minnesota household remains unproved; likely unchanged.",
+   "baptism": "1817-07-18",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C022",
+   "name": "Ambroise GENDREAU",
+   "researcher": "Chat",
+   "source": "Franklin P. Rice, Worcester Births, Marriages and Deaths (1894), pp.335,435,12, https://archive.org/details/worcesterbirthsm02worc ; separate return transcription https://genealogysearch.org/massmarriages/worcester.html",
+   "action": "Read the compiled 3 May 1845 marriage and two Andrews birth entries in the original publication scans",
+   "outcome": "Printed pp.335/435 give Andrew Embois and Eliza Vaslet, married 3 May 1845; the separate web transcription reads And. Embois / Eliza Voalet. Page 12 lists Emily, born 26 April 1846, and Mary-Elizabeth, born 4 March 1848, daughters of Ambrose and Eliza Andrews. These are derivative transcriptions, not original vital entries. Reciprocal marriage listings describe one event, and the tree may derive its exact date from it. No Embois–Andrews–Jandro alias is established. Seek the exact marriage and birth originals; likely unchanged.",
+   "baptism": "1817-07-18",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "Chat",
+   "source": "Senate Executive Document 132, 50th Congress, 2nd session, 27 February 1889, p.32, https://www.govinfo.gov/app/details/SERIALSET-02613_00_00-003-0132-0000 ; official Vermont revised roster (1892), pp.225,768, https://archive.org/details/cu31924080774148/page/225/mode/1up",
+   "action": "Read the original Treasury claim entry, title page, and official cavalry roster and cemetery rows",
+   "outcome": "The Treasury entry names deceased Henry Jerdo and his parents Sorrel and Mary Ann Jerdo: certificate-or-claim 67218, settlement 5452, fiscal year 1865, $61.75, ration commutation. These are not pension numbers and do not establish either parent's survival in 1889. The roster records Henry Jerdo of Burlington, Company A, First Vermont Cavalry, enlisted 21 November 1863, mustered 1 December 1863, wounded/captured 29 June 1864, died Wilmington 2 March 1865. The publications provide claim and service targets but neither gives the mother's maiden name or a Québec identity bridge. Likely unchanged.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "Chat",
+   "source": "National Archives T289 roll 585, images 02720–02721, NAID 413634895; A1158 numerical cards NAID 685190488, 685412930, 685336008; https://catalog.archives.gov/id/413634895",
+   "action": "Read two reciprocal organizational pension-index cards and three numerical cross-reference cards",
+   "outcome": "The originals explicitly identify Henry Jeandreau, alias Henry Jerdo, Company A, 1st Vermont Cavalry. Mother: application 233709, filed 15 October 1877, certificate field blank. Father: application 298858, certificate 220681, filing date blank. Both T289 cards also list B 1 Vt. Cav. under additional services, unresolved. These are two parental claims, not five independent cases. The cards name neither parent and do not link the soldier to Honoré Cyrille Gendreau, Marie Anne Viens or the 1842 Sorel marriage. Full pension papers unread; likely unchanged.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "Napanee Beaver, 22 June 1906, p.7, Arden column; https://archive.org/details/napanee-beaver-may-4-1906-july-20-1906/page/n64/mode/1up",
+   "action": "Read a new original illness notice and make a bounded follow-on newspaper check",
+   "outcome": "Joseph Gendron Sr. of Arden is reported dangerously ill after a paralytic stroke. Publication is six days before the already located John Joseph Gendron death on 28 June 1906, Ontario registration 015312, but the notice gives no age, parents, spouse or birthplace; identity is not established. OCR checks of uploaded Beaver material dated 29 June and 6,13,20 July and Express issues dated 29 June and 6,13 July found no additional matching notice. Not a complete visual search. The original 1860 Shandrow–Clark return remains unread and Andrew versus Antoine unresolved. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
   }
  ]
 }
