@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-25",
- "count": 575,
+ "count": 577,
  "entries": [
   {
    "date": "",
@@ -6901,6 +6901,30 @@
    "baptism": "1829-11-07",
    "place": "Châteauguay",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "Chat",
+   "source": "National Archives T288 roll 241 image 00454, NAID 381860288; roll 242 image 02921, NAID 381865661; https://catalog.archives.gov/id/381860288",
+   "action": "Read both original alphabetical pension cards for Henry Jeandreau alias Henry Jerdo",
+   "outcome": "Both cards name mother Mary A. Jeandreau and father Sorelle Jeandreau. Mother: application 233709, filed 15 October 1877, certificate blank. Father: application 298858, certificate 220681, filed 27 November 1882; November is clear on the reciprocal Jerdo card. These are the same two claims already located in T289 and A1158. T288 strikes through Company B while retaining A, 1st Vermont Cavalry; the difference from T289's additional-service field is unresolved. The names support comparison with Sorrel and Mary Ann Jerdo in the Treasury report, but no maternal maiden name, Québec parents or marriage is supplied. Full pension papers unread; Likely unchanged.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-25",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "Chat",
+   "source": "New York State Death Index 1892, Reclaim The Records / Internet Archive, leaf n446, image 447 of 1001; https://archive.org/details/New_York_State_Death_Index_1892/page/n446/mode/1up",
+   "action": "Visually verify the historical death-index entry behind the earlier tree/source-title lead",
+   "outcome": "The original index-page image reads Jerdo, Sorrell; 2 Aug; Essex; 35369, under the 1892 heading. This verifies certificate 35369 as an exact full-record target. The index supplies no age, spouse, parents, birthplace or pension number. The full death certificate remains unread; the deceased is not thereby identified with C086 or the pension claimant. Likely unchanged.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
   }
  ]
 }
