@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-26",
- "count": 586,
+ "count": 590,
  "entries": [
   {
    "date": "",
@@ -4113,7 +4113,7 @@
    "researcher": "ChatGPT",
    "source": "21 November 2026 — original Bastard personal census",
    "action": "Publish the qualified original-record findings and exact next identity test.",
-   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, e095/e002356142: Michel Gendron, shoemaker, 29 next birthday, Canada East, Roman Catholic; Vanda 21 and Moses 1 follow him. Alexander Gendron, farmer, 27 next birthday, Canada East, Roman Catholic, is at line 39 after intervening entries. The Michel/Vanda/Bastard combination strongly correlates with the Manson marriage transcription, but the census names no parents or relationship to Alexander. Ages differ from the 1818/1820 candidates; no identification or age-only exclusion. Possible elimination unchanged.",
+   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, e095/e002356142: Michel Gendron, shoemaker, 29 next birthday, Canada East, Roman Catholic; Vanda 21 and Moses 1 follow him. Alexander Gendron, farmer, 21 next birthday, Canada East, Roman Catholic, is at line 39 after intervening entries. The Michel/Vanda/Bastard combination strongly correlates with the Manson marriage transcription, but the census names no parents or relationship to Alexander. Ages differ from the 1818/1820 candidates; no identification or age-only exclusion. Possible elimination unchanged. Reconciled 26 November 2026 from the original-image audit dated 22 November (Log 1732–1733 and 1875): Alexander is 21 next birthday, single, and a male non-family resident in the Robins household. This supersedes the earlier age 27 reading. The images were not newly inspected in this reconciliation, and no parents or relationship to Michel are stated.",
    "baptism": "1818-04-04",
    "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
    "tier": "possible"
@@ -4125,7 +4125,7 @@
    "researcher": "ChatGPT",
    "source": "21 November 2026 — original Alexander Gendron census comparison",
    "action": "Publish the qualified original-record findings and exact next identity test.",
-   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, line 39, records Alexander Gendron, farmer, 27 next birthday, Canada East, Roman Catholic. Michel 29, Vanda 21 and Moses 1 occur at lines 29–31, separated by Wing and Robins entries. This is a specific comparison for the Alex. Gendron marriage witness, not proof of a shared household or brotherhood. No parents are supplied; the age differs from the 1820 baptism. The witness, census man and candidate remain distinct pending a bridge. Needs work unchanged.",
+   "outcome": "Original 1851 Bastard Township personal census, Part 1, printed page 37, line 39, records Alexander Gendron, farmer, 21 next birthday, Canada East, Roman Catholic. Michel 29, Vanda 21 and Moses 1 occur at lines 29–31, separated by Wing and Robins entries. This is a specific comparison for the Alex. Gendron marriage witness, not proof of a shared household or brotherhood. No parents are supplied; the age differs from the 1820 baptism. The witness, census man and candidate remain distinct pending a bridge. Needs work unchanged. Reconciled 26 November 2026 from the original-image audit dated 22 November (Log 1732–1733 and 1875): Alexander is 21 next birthday, single, and a male non-family resident in the Robins household. This supersedes the earlier age 27 reading. The images were not newly inspected in this reconciliation, and no parents or relationship to Michel are stated.",
    "baptism": "1820-06-22",
    "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
    "tier": "none"
@@ -7032,6 +7032,54 @@
    "outcome": "The 1891 schedule records Charles Gendreau, 56, married, cultivateur, and Marie Clara, 51, wife, with six children on lines 10–15. Charles and the children are recorded as born in Quebec; Marie Clara is recorded as born in the United States. Both parental birthplace columns for Charles carry Quebec, but the schedule does not name his parents. Adjacent families 30–31 list George Gendreau, 30, and Laurent, 26, followed by Edmond, 32, wife Celanire, 22, and daughter Celanire, 3; adjacency alone is not a stated relationship to Charles. The senior couple and younger family context agree with the existing Ely/Compton comparison. Charles’s age of 56 is consistent with the 1834 namesake’s birth and the 1881 age of 46; C111, born 21 February 1823, would have been 68. This is new corroborating census evidence for the comparison family, not an identification or later record of C111. Needs work retained.",
    "baptism": "1823-02-21",
    "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C039",
+   "name": "Michel Archange GENDRON",
+   "researcher": "Chat",
+   "source": "Existing 22 November 2026 original census audit, Log 1732–1733, 1875 and 2146; LAC e095/e002356142 and e002356143; current source abstracts.",
+   "action": "Reconcile stale age and household summaries with the prior verified reading; explicitly mark the earlier public log outcomes corrected.",
+   "outcome": "Reconciled 26 November 2026 from the original-image audit dated 22 November (Log 1732–1733 and 1875): Alexander is 21 next birthday, single, and a male non-family resident in the Robins household. This supersedes the earlier age 27 reading. The images were not newly inspected in this reconciliation, and no parents or relationship to Michel are stated. Neither the census man nor the Manson witness is thereby identified as a Québec brother. C039 remains Possible elimination; C065 remains Needs work.",
+   "baptism": "1818-04-04",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C065",
+   "name": "Alexandre GENDRON",
+   "researcher": "Chat",
+   "source": "Existing 22 November 2026 original census audit, Log 1732–1733, 1875 and 2146; LAC e095/e002356142 and e002356143; current source abstracts.",
+   "action": "Reconcile stale age and household summaries with the prior verified reading; explicitly mark the earlier public log outcomes corrected.",
+   "outcome": "Reconciled 26 November 2026 from the original-image audit dated 22 November (Log 1732–1733 and 1875): Alexander is 21 next birthday, single, and a male non-family resident in the Robins household. This supersedes the earlier age 27 reading. The images were not newly inspected in this reconciliation, and no parents or relationship to Michel are stated. The census Alexander, abbreviated Alex. marriage witness and Québec baptismal candidate remain distinct pending a family bridge. Needs work unchanged.",
+   "baptism": "1820-06-22",
+   "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "Saved C275 baptism B159, act 4510999, and proposed marriage M15, act 13400979; existing qualified partial transcription and 26 November reinspection.",
+   "action": "Correct overconfident comparator provenance in the source table, candidate summaries and public source cards; retain the unresolved maternal surname.",
+   "outcome": "Qualified the C275 comparison against the saved original and its existing partial transcription. The 31 August 1830 baptism names Joseph Gendron and Marie Commeau. The proposed 16 October 1861 marriage M15 names Joseph Gendreau and Marie [M…neau?]; the bride is read Marie Adélaïde [Bonvouloir?]. The mother’s surname cannot be certified as Commeau. This is an unresolved reading, not proof of a different mother. The adult link remains likely. Neither 1871 census household is identified, and this supplies no later-life identification for this candidate. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "Saved C275 baptism B159, act 4510999, and proposed marriage M15, act 13400979; existing qualified partial transcription and 26 November reinspection.",
+   "action": "Correct overconfident comparator provenance in the source table, candidate summaries and public source cards; retain the unresolved maternal surname.",
+   "outcome": "Qualified the C275 comparison against the saved original and its existing partial transcription. The 31 August 1830 baptism names Joseph Gendron and Marie Commeau. The proposed 16 October 1861 marriage M15 names Joseph Gendreau and Marie [M…neau?]; the bride is read Marie Adélaïde [Bonvouloir?]. The mother’s surname cannot be certified as Commeau. This is an unresolved reading, not proof of a different mother. The adult link remains likely. Neither 1871 census household is identified, and this supplies no later-life identification for this candidate. Needs work unchanged.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
    "tier": "none"
   }
  ]
