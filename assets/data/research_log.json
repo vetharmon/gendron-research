@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25",
- "count": 583,
+ "generated": "2026-11-26",
+ "count": 586,
  "entries": [
   {
    "date": "",
@@ -6997,6 +6997,42 @@
    "baptism": "1829-02-10",
    "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
    "tier": "solid"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C034",
+   "name": "Amand GENDRON",
+   "researcher": "Chat",
+   "source": "Winchester town reports: 1887 marriage list, p. 19, https://archive.org/details/reportsoftownoff1888winc/page/n29/mode/1up ; 1890 marriage list, p. 24, https://archive.org/details/reportsoftownoff1888winc/page/n220/mode/1up ; binding note, https://archive.org/details/reportsoftownoff1890winc/page/n1/mode/1up",
+   "action": "Read and independently verify two contemporary printed marriage entries, their year headings, and the note explaining the misbound 1891 report.",
+   "outcome": "16 February 1887: Joseph O. Moffett and Eugenia Gendron, both residing in Winchester. 16 September 1890: Joseph E. Gendron and Florance A. Holbrook, both residing in Winchester. The list explicitly covers the year ending 31 December 1890; its report is bound in the volume labelled 1888–1889. The entries give no parents, ages, birthplaces, witnesses or separate ceremony location. Florance is the literal printed spelling. These are municipal summaries, not the full individual registrations. Eugenia is a precise Moffett comparison name, not proof of identity with the 1932 obituary woman, the 1880 Marie E., or C017’s compiled Eugénie. Use both exact registration dates to seek Antoine Élisée Gendron and Marie Anne Vézina. The Québec–Winchester connection remains uncompleted. C034 remains Needs work; no later record of Amand identified.",
+   "baptism": "1818-02-02",
+   "place": "Île-Perrot (Ste-Jeanne-de-Chantal)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C017",
+   "name": "Antoine Elisee GENDRON",
+   "researcher": "Chat",
+   "source": "Winchester town reports: 1887 marriage list, p. 19, https://archive.org/details/reportsoftownoff1888winc/page/n29/mode/1up ; 1890 marriage list, p. 24, https://archive.org/details/reportsoftownoff1888winc/page/n220/mode/1up ; binding note, https://archive.org/details/reportsoftownoff1890winc/page/n1/mode/1up",
+   "action": "Read and independently verify two contemporary printed marriage entries, their year headings, and the note explaining the misbound 1891 report.",
+   "outcome": "16 February 1887: Joseph O. Moffett and Eugenia Gendron, both residing in Winchester. 16 September 1890: Joseph E. Gendron and Florance A. Holbrook, both residing in Winchester. The list explicitly covers the year ending 31 December 1890; its report is bound in the volume labelled 1888–1889. The entries give no parents, ages, birthplaces, witnesses or separate ceremony location. Florance is the literal printed spelling. These are municipal summaries, not the full individual registrations. Eugenia is a precise Moffett comparison name, not proof of identity with the 1932 obituary woman, the 1880 Marie E., or C017’s compiled Eugénie. Use both exact registration dates to seek Antoine Élisée Gendron and Marie Anne Vézina. The Québec–Winchester connection remains uncompleted. C017’s existing solid elimination remains unchanged.",
+   "baptism": "1817-02-03",
+   "place": "Neuville (St-François-de-Sales)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C111",
+   "name": "Charles GENDRON",
+   "researcher": "Chat",
+   "source": "Library and Archives Canada, Census of Canada, 1891, Quebec, district 149 (Compton), subdistrict J3, Hereford Municipality and Paquetteville Village, schedule 1, p.7, family 29, lines 8–15; https://data2.collectionscanada.gc.ca/1891/jpg/30953_148194-00548.jpg",
+   "action": "Read a newly located original census schedule for the existing Charles Gendreau–Clara Perreault comparison family",
+   "outcome": "The 1891 schedule records Charles Gendreau, 56, married, cultivateur, and Marie Clara, 51, wife, with six children on lines 10–15. Charles and the children are recorded as born in Quebec; Marie Clara is recorded as born in the United States. Both parental birthplace columns for Charles carry Quebec, but the schedule does not name his parents. Adjacent families 30–31 list George Gendreau, 30, and Laurent, 26, followed by Edmond, 32, wife Celanire, 22, and daughter Celanire, 3; adjacency alone is not a stated relationship to Charles. The senior couple and younger family context agree with the existing Ely/Compton comparison. Charles’s age of 56 is consistent with the 1834 namesake’s birth and the 1881 age of 46; C111, born 21 February 1823, would have been 68. This is new corroborating census evidence for the comparison family, not an identification or later record of C111. Needs work retained.",
+   "baptism": "1823-02-21",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
   }
  ]
 }
