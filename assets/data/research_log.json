@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-26",
- "count": 590,
+ "count": 592,
  "entries": [
   {
    "date": "",
@@ -7080,6 +7080,30 @@
    "outcome": "Qualified the C275 comparison against the saved original and its existing partial transcription. The 31 August 1830 baptism names Joseph Gendron and Marie Commeau. The proposed 16 October 1861 marriage M15 names Joseph Gendreau and Marie [M…neau?]; the bride is read Marie Adélaïde [Bonvouloir?]. The mother’s surname cannot be certified as Commeau. This is an unresolved reading, not proof of a different mother. The adult link remains likely. Neither 1871 census household is identified, and this supplies no later-life identification for this candidate. Needs work unchanged.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C110",
+   "name": "Olivier GENDRON",
+   "researcher": "Chat",
+   "source": "NARA RG 75, M2039 roll 2, Field Notes, Pages 1–25, NAID 229038406; worksheet no. 9, original 1870 roll page 8, frames 0327–0328. Recto: https://catalog.archives.gov/medialz/dc-metro/rg-075/M2039/M2039-02/M2039-02-0327.jpg. Verso: https://catalog.archives.gov/medialz/dc-metro/rg-075/M2039/M2039-02/M2039-02-0328.jpg.",
+   "action": "Read the original Durant field note behind the newly found Oliver Jandreau / Tom Jandreau index lead.",
+   "outcome": "The original worksheet is dated 27 May 1909 at Drummonds Isle and headed Census of Aug. 1, 1908. Mary is marked dead, her spouse is Tom Jandreau, P.O. Detour, and their sixth listed child is Oliver Jandreau, explicitly age 12, P.O. Harbor Spgs Mich. His stated age excludes this exact indexed Oliver as C110, who was eight months old at his February 1823 baptism. Tom’s age and parents are not supplied; no connection to Thomas Gendron/Isabelle Texier is established. The verso continues the LaPointe family without an additional Tom/Oliver ancestry statement. This is a newly read original field-note worksheet, not a newly read baptism or marriage act. The separate final and payment rolls were not read. C110 remains Needs work.",
+   "baptism": "1823-02-12",
+   "place": "St-Régis (St-François-Régis)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "Existing original-reading note dated 19 November 2026, private Log row 906, Québec West, St. Pierre Ward, p. 98, family 425, lines 15–17 (image 137/231). FamilySearch https://www.familysearch.org/ark:/61903/1:1:M425-RXB is an index access point, not a freshly read original image. The earlier reading used Ancestry index record https://www.ancestry.com/search/collections/1578/records/915480 .",
+   "action": "Correct the unsupported wife relationship in the historical 15 November public search-log entry using the existing 19 November original-reading note.",
+   "outcome": "The 19 November original-reading note records Louis Gendreau, 45, sailor, Cécile Gendreau, 60, and Pierre Gendreau, 4. The schedule states no household relationships. Both adults are marked married, which does not establish that Cécile was Louis’s wife. Replaced that unsupported relationship in the old page entry and added a dated correction identifying the prior reading. No new census inspection was made; unrelated historical findings are preserved. The sailor remains unassigned to François Gendron and Marguerite Lamagdeleine’s son. Needs work unchanged.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
    "tier": "none"
   }
  ]
