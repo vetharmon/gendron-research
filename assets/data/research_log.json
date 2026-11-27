@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26",
- "count": 595,
+ "generated": "2026-11-27",
+ "count": 601,
  "entries": [
   {
    "date": "",
@@ -7141,6 +7141,78 @@
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
    "tier": "likely"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C004",
+   "name": "Pierre GENDREAU",
+   "researcher": "Chat",
+   "source": "27 November 2026 — possible paternal-family inventory indexed in 1821 — https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_20170823&2=Gendreau&3=&4=&5=&6=&7=&8=Boss%C3%A9&9=&10=&11=&12=&13=&14=&15=&16=&17=&18=&19= ; https://advitam.banq.qc.ca/notice/80925",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "The Québec-district inventory index gives Jean-Baptiste Gendreau, shoemaker of Saint-Roch-des-Aulnaies, with Marie-Josephte Bossé of L’Islet, 18 August 1821, Germain-Alexandre Verreau, CN302,S48. The name, occupation, place and spouse association closely match the father’s family, but the entry precedes the indexed marriage by three days and does not name Claire Caron, identify the deceased or list children. Original target: 1968-00-193, container 3, 1 August 1820–18 December 1821, microfilms 1-6483/1-6484; repertoire container 50 and index 52. Original unread, no Pierre survival or death inferred, Needs work unchanged.",
+   "baptism": "1816-02-22",
+   "place": "St-Roch-des-Aulnaies (L'Islet)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C034",
+   "name": "Amand GENDRON",
+   "researcher": "Chat",
+   "source": "27 November 2026 — Châteauguay and Beauharnois copied family records — https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1080 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1159 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1299 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1301 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/235",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "Two readers inspected five typed archival acts. Châteauguay copies name François Jeandron/Marguerite Lamagdeleine at François’s 26 May 1811 baptism (born 25 May) and Marguerite’s 8 November 1813 baptism (born 7 November); Beauharnois names François Gendron/Marguerite Lamagdeleine at Luce’s 30 March 1823 birth/baptism, first found 26 November. The 5 March 1810 marriage instead names Jean-Baptiste Jeandron; no François alias is established. A 21 November 1813 François burial gives age three and a half and mother Magdeleine, conflicting with the 1811 child’s age and maternal given name; the identification remains open. These are later typed copies, not contemporary originals, and do not establish Amand’s or Louis’s later life. Needs work unchanged. Matching parental names support a possible cross-parish family connection, not an established sibling relationship between C034 and C195.",
+   "baptism": "1818-02-02",
+   "place": "Île-Perrot (Ste-Jeanne-de-Chantal)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "27 November 2026 — newly located 1839 parental inventory index — https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_MONTREAL_20170823&2=Gendron&3=&4=&5=&6=&7=Goulet&8=&9=&10=&11=&12=&13=&21= ; https://advitam.banq.qc.ca/notice/489271",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "The official Montréal inventory index lists Jacques Gendron, cultivateur of Saint-Hugues, and deceased Geneviève Goulet, 1 April 1839, Timothée Brodeur, CN602,S14. The public catalogue narrows the original to 1983-09-067, container 551, September 1837–September 1840, microfilm 9324; the separate répertoire is container 1168, 1826–1861. No original inventory was accessible, no children are named in the index, and no survival or death is inferred. Needs work unchanged.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C178",
+   "name": "Thomas GENDRON",
+   "researcher": "Chat",
+   "source": "27 November 2026 — newly located 1839 parental inventory index — https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_MONTREAL_20170823&2=Gendron&3=&4=&5=&6=&7=Goulet&8=&9=&10=&11=&12=&13=&21= ; https://advitam.banq.qc.ca/notice/489271",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "The official Montréal inventory index lists Jacques Gendron, cultivateur of Saint-Hugues, and deceased Geneviève Goulet, 1 April 1839, Timothée Brodeur, CN602,S14. The public catalogue narrows the original to 1983-09-067, container 551, September 1837–September 1840, microfilm 9324; the separate répertoire is container 1168, 1826–1861. No original inventory was accessible, no children are named in the index, and no survival or death is inferred. Needs work unchanged.",
+   "baptism": "1826-03-07",
+   "place": "Berthier-sur-Mer (Notre-Dame-de-l'Assomption)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "27 November 2026 — Châteauguay and Beauharnois copied family records — https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1080 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1159 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1299 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/1301 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/235",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "Two readers inspected five typed archival acts. Châteauguay copies name François Jeandron/Marguerite Lamagdeleine at François’s 26 May 1811 baptism (born 25 May) and Marguerite’s 8 November 1813 baptism (born 7 November); Beauharnois names François Gendron/Marguerite Lamagdeleine at Luce’s 30 March 1823 birth/baptism, first found 26 November. The 5 March 1810 marriage instead names Jean-Baptiste Jeandron; no François alias is established. A 21 November 1813 François burial gives age three and a half and mother Magdeleine, conflicting with the 1811 child’s age and maternal given name; the identification remains open. These are later typed copies, not contemporary originals, and do not establish Amand’s or Louis’s later life. Needs work unchanged. Matching parental names support a possible cross-parish family connection, not an established sibling relationship between C034 and C195.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "27 November 2026 — newly located 1834 parental inventory index — https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_MONTREAL_20170823&2=Gendron&3=&4=&5=&6=&7=Guy&8=&9=&10=&11=&12=&13=&21= ; https://advitam.banq.qc.ca/notice/489869",
+   "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
+   "outcome": "The official Montréal inventory index lists Joseph Gendron, journalier of Beauharnois, and deceased Marie-Anne Guy, 24 March 1834, Ovide Leblanc, CN607,S29. The public catalogue narrows the original to 1988-12-055, container 534, January–August 1834, microfilm 8162. The listed repertoire ends in 1833. No original family clause, children, act number or image range was read; George’s survival and identity remain unresolved. Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
   }
  ]
 }
