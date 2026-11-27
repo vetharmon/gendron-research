@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-27",
- "count": 601,
+ "count": 604,
  "entries": [
   {
    "date": "",
@@ -7210,6 +7210,42 @@
    "source": "27 November 2026 — newly located 1834 parental inventory index — https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_MONTREAL_20170823&2=Gendron&3=&4=&5=&6=&7=Guy&8=&9=&10=&11=&12=&13=&21= ; https://advitam.banq.qc.ca/notice/489869",
    "action": "Read and compare the cited archival copies or official finding aids; record identity limits and the next specific record.",
    "outcome": "The official Montréal inventory index lists Joseph Gendron, journalier of Beauharnois, and deceased Marie-Anne Guy, 24 March 1834, Ovide Leblanc, CN607,S29. The public catalogue narrows the original to 1988-12-055, container 534, January–August 1834, microfilm 8162. The listed repertoire ends in 1833. No original family clause, children, act number or image range was read; George’s survival and identity remain unresolved. Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C006",
+   "name": "Jean Baptiste GENDREAU",
+   "researcher": "Chat",
+   "source": "https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=INVENTAIRE_MONTREAL_20170823&2=Gendreau&3=Joseph&4=&5=&6=&7=Pr%C3%A9vost&8=&9=&10=&11=&12=&13=&21= ; https://advitam.banq.qc.ca/notice/488402",
+   "action": "Locate a possible parental inventory and compare its chronology with the provisional 1838 sibling-marriage reading.",
+   "outcome": "The official Montréal inventory index lists Joseph Gendreau, marked deceased, of Longueuil, and Appoline Prévost, dated 5 April 1830, CN601,S123, Joseph Demers. The names and locality make a strong parental-family target, but the index names no children and the original remains unread. The catalogue places the date in acquisition 1971-00-000, container 3980, March 1830–June 1831, microfilm 3219. Container 9190 lists a repertoire for 1814–1833 and an index for 1814–1828. If this is the recorded parental couple, the deceased status conflicts with the father's-consent wording in the preserved provisional 27 May 1838 marriage reading. That witness list names Joseph le Gendrault without an explicit relationship; he is not established as the father. French and English readings are preserved pending comparison with the originals. The 22 September 1829 Joseph burial also remains unassigned. No later appearance or death of Jean Baptiste is established; Needs work unchanged.",
+   "baptism": "1816-04-26",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C120",
+   "name": "Louis GENDREAU",
+   "researcher": "Chat",
+   "source": "Prior research-log reconciliation and original Plattsburgh directory, printed page 102 / PDF page 69",
+   "action": "Retire an already-distinguished Bocage remarriage proposal and check the new Peter Jandreau directory comparison against its scanned original.",
+   "outcome": "The 19 November log reports different fathers for the Geneviève Bocage brides of 1816 and 1832; the older remarriage proposal is marked superseded on that prior reading, without claiming a new inspection of either marriage. The directory records Peter Jandreau, carpenter, dead 23 December 1913, and separately Helen, widow of Peter, at 30 Smith. The page gives no age, birthplace or parents; this remains an unlinked comparison, neither a C120 identification nor an exclusion. Pagé/Bocage and the proposed Jerdo connection remain unresolved. Needs work unchanged.",
+   "baptism": "1823-05-29",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "Saint-Clément de Beauharnois later typed copies, C-2889 images 861–862 and 902",
+   "action": "Visually read the complete Joseph Roy/Marie Domitilde Gendron marriage and Marie Philomène Roy baptism, independently checked; added two document groups with full normalized French transcriptions and English translations.",
+   "outcome": "The February 1838 marriage identifies Marie Domitilde as a minor daughter of Joseph Gendron, journalier expressly consenting and witnessing, and deceased Marie Anne Guy, matching George’s recorded parents. Groom Joseph Roy is adult son of Louis Roy/Catherine Tibert; the four witnesses and both spouses could not sign. The typed day is 10; a small handwritten annotation above it remains unresolved, and a compiled 6 February date does not settle the discrepancy. Marie Philomène was born and baptized on 8 November 1838 to Joseph Roy/Domithilde Gendron; sponsors Pierre Gendron and Catherine Roy, with the father present, could not sign. Pierre has no stated parents or kinship and is not identified as C049. These are later typed copies, not contemporary handwritten originals. Neither names George or connects the Montréal adult; Needs work unchanged.",
    "baptism": "1828-02-01",
    "place": "Beauharnois (St-Clément)",
    "tier": "none"
