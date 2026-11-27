@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-26",
- "count": 592,
+ "count": 595,
  "entries": [
   {
    "date": "",
@@ -1248,7 +1248,7 @@
    "outcome": "Baptism located — act 2995012, St-Hyacinthe (Notre-Dame-du-Rosaire), 1826-05-09.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -1260,7 +1260,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2484,7 +2484,7 @@
    "outcome": "Original baptism B154 read and downloaded on 15 November 2026. Born and baptized that day; father a cultivateur of the place. The parents match C094 Pierre, C114 Louis and C136 Jean Baptiste. LAFRANCE indexes the mother's burial on 16 August 1826 (3003179), father's remarriage on 12 February 1833 (13401051), and sister Élisabeth's marriage on 28 October 1845 (13368786). These follow-up acts have not been read in the original. No later record identified for C183.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-15",
@@ -3024,7 +3024,7 @@
    "outcome": "Ancestry tree for Andre Pierre Gendron supplies Emérence Marie Bélanger as his 1833 second wife, with children Zoé, Louise, Joseph, Alexis, Phélonise, Éléonore and Malvina. Located a widowed woman indexed Emmanuel Bélonger, corrected Emérance/Emérantienne Bélanger, age 49, at St-Hyacinthe in 1861. Original p.349, reel C-1320, viewer 336/386, line 14 and following, read: the widow followed by Zoé 24, Louise 22, Joseph 20, Alexis 17, Phélonise 14, Éléonore 12, Malvina 7, then another Gendron aged 25 whose given name was not confidently read. The matching younger family supports the stepfamily lead; no entry was securely identified as Pierre C183. Father and stepmother name searches in 1851 supplied no securely matching household in the returned results. No status change.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-16",
@@ -4320,7 +4320,7 @@
    "outcome": "BAnQ’s official inventory index identifies Pierre Gendron and deceased Marie-Louise Daniel of Saint-Hyacinthe, act 9 May 1831, CN602,S16, greffe de Louis Brunelle. The original inventory, heirs and children remain unread, so C183’s survival is not inferred. Re-read C114’s 1823 baptism confirms Marie Louise Daniel; C094’s 1822 baptism gives Marie Daniel. Élisabeth’s already-indexed 1845 marriage is now targeted by spouse Jean-Baptiste Cloutier. Needs work unchanged.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-21",
@@ -4368,7 +4368,7 @@
    "outcome": "Archiv-Histo’s detailed Parchemin table lists Louis Brunelle, 1805–1837, 4,328 minutes, complet, while its general homepage describes 1626–1809. This is a possible route to the 9 May 1831 inventory notice, not a verified notice or minute number. Drouin film 390 covers the dates of Élisabeth’s 1845 marriage and the father’s 1833 remarriage, with missing 1833 folios noted. The notarial inventory and both parish acts remain unread. No child-specific evidence or grade change.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-21",
@@ -6792,7 +6792,7 @@
    "outcome": "The catalogue identifies 13 April 1829–28 February 1835, reference 06M,CN602,S16enfACTES7. The Pierre Gendron / deceased Marie-Louise Daniel inventory date falls within this section. The inventory, minute number, heirs, children and tutorship remain unread; no later record or survival of C183 is established. Needs work retained.",
    "baptism": "1826-05-09",
    "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-25",
@@ -7105,6 +7105,42 @@
    "baptism": "1827-04-02",
    "place": "Beauharnois (St-Clément)",
    "tier": "none"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Louis Brunelle, CN602,S16, 06M,CN602,S16enfACTES7, minute 3796, 9 May 1831; original images 1060–1066 of 2657. Opening: https://numerique.banq.qc.ca/patrimoine/details/52327/4512064?docref=63f5gzloi4LS47E0LtGFnQ",
+   "action": "Locate the original inventory after Marie Louise Daniel’s death and inspect the complete act, including its opening and closing, for children, heirs and tutorship.",
+   "outcome": "Pierre Gendron of Saint-Hyacinthe acts for his former community of property with deceased Marie Louise Daniel and as elected tutor to Élisabeth Gendron, aged six, child of that marriage. François Daniel is named maternal grandfather and subrogated tutor. The opening refers to a court certificate dated 7 May 1831, which has not itself been read. C183 Pierre, who would have been five on the inventory date, is not named; no additional child of this marriage was found in the complete act. The document does not explicitly call Élisabeth the sole surviving child and does not state Pierre’s death. Selected opening clauses are transcribed and translated on the candidate page.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Louis Brunelle, CN602,S16, 06M,CN602,S16enfACTES7, minute 3797, 9 May 1831; original images 1067–1072 of 2657. Opening: https://numerique.banq.qc.ca/patrimoine/details/52327/4512064?docref=mQNxIhpHEpDb0xmHFYFYBg",
+   "action": "Inspect the complete estate-sale act immediately following the inventory and compare its family and tutorship language.",
+   "outcome": "The sale describes Pierre Gendron as tutor to 'l’enfant issu de son mariage' with deceased Marie Louise Daniel, in the singular, and again names François Daniel as grandfather and subrogated tutor. No additional child of that marriage was found in the complete sale. Its wording agrees with the inventory, but both acts belong to the same estate proceeding and are not independent proof of a death. The opening has a corrected date; the wrapper and the act identify 9 May 1831. Selected opening text and its English translation are supplied on the candidate page.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-26",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "Original 9 May 1831 inventory and sale, Brunelle minutes 3796–3797; previously audited C094, C114 and C136 baptism/burial readings. Sources and selected texts: https://vetharmon.github.io/gendron-research/candidates/c183/",
+   "action": "Correlate the estate family with C183’s baptism, independently review the key French clauses, and reassess the evidential grade.",
+   "outcome": "Changed Needs work to Likely eliminated: probable childhood death before 9 May 1831. The formal representation of six-year-old Élisabeth, repeated singular-child wording and absence of five-year-old Pierre make his omission meaningful. The previously audited C136 birth/death pair records Marie Louise Daniel and Marie Daniel for the same parental family, supporting correlation while preserving C183’s own shorter maternal wording. This remains an inference: neither estate act names Pierre or states his death, no 'seule/unique' wording was found, and his burial is unidentified. A separate representation or omission could alter the conclusion. The 7 May 1831 tutorship certificate is the next targeted check. No exact death date or solid elimination is asserted.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "likely"
   }
  ]
 }
