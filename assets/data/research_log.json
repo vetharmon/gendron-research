@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 672,
+ "count": 681,
  "entries": [
   {
    "date": "",
@@ -8065,6 +8065,114 @@
    "baptism": "1829-01-24",
    "place": "Ste-Anne-de-la-Pérade (Ste-Anne)",
    "tier": "solid"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C080 / C111",
+   "name": "Jean Baptiste and Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/615",
+   "action": "Read and independently check the complete typed-copy marriage of their sister Zoé and inspect every named witness.",
+   "outcome": "The 27 November 1849 Saint-Clément marriage, MG 8 G 3 volume 5 p.1662, names Zoé as a minor daughter of Toussaint Gendron/Claire Rollin. Witnesses are Jean-Baptiste Ranger, described as the groom's father, Jean-Baptiste Primeau and Célestin Primeau. No Gendron brother is named. The copy calls the groom's father deceased before naming him as father-witness; retain that inconsistency pending manuscript comparison. No new C080/C111 appearance; Needs work unchanged.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C111",
+   "name": "Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/294",
+   "action": "Read and independently check the complete Zoé Primeau baptism for a later Charles Gendron sponsor appearance.",
+   "outcome": "The 14 November 1845 typed-copy baptism, volume 4 p.1344, records Zoé born 12 November to Jean Baptiste Primeau/Ursule Rollin; godfather Charles Gendron, godmother Marguerite Primeau. This repeats the Charles sponsor association from Mélanie's 1844 baptism but supplies no kinship, parents, age or spouse for him. Keep unassigned; Needs work unchanged.",
+   "baptism": "1823-02-21",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C111",
+   "name": "Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/315 ; https://www.mesaieux.com/genealogy/charles_gendron",
+   "action": "Compare the newly read typed marriage date and parentage with the existing competing-family locator.",
+   "outcome": "The complete typed act, MG 8 G 3 volume 4 p.1365, expressly dates Charles Gendron/Angèle Gendron's marriage 17 February 1846. Groom's parents Charles Gendron/Catherine Hinse; bride's parents Jean Baptiste Gendron/Marie Poirier. The next act also says 17 February 1846. Prior notes and MesAieux give 1845. Preserve both dates and the Hinse/Hains spelling distinction pending the underlying manuscript. Corrected current summary prose to acknowledge the conflict; earlier dated search history is retained. The parental distinction from C111 stands; Needs work unchanged.",
+   "baptism": "1823-02-21",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C080 / C111",
+   "name": "Jean Baptiste and Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/63 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/64 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/610 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/611",
+   "action": "Read both complete parent-naming marriages to distinguish the two Claire Rollins.",
+   "outcome": "The 1 August 1820 Toussaint Gendron marriage names Claire Rolin dite Macouais as daughter of Joseph Rolin dit Macouais/Françoise Bergevin dite Langevin. The 8 October 1832 Louis Roy marriage names another Claire Rollin as daughter of Amant Rollin/the late Louise Gendron. Toussaint serves in place of the latter bride’s father; no exact biological relationship follows from that role. The two mothers and their children remain separate. These are later typed copies, independently checked, with complete selected FR/EN. No candidate elimination.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C080 / C111",
+   "name": "Jean Baptiste and Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/973 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/24 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/383 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/138",
+   "action": "Read newly accessible typed copies for the remarried household and the stepfather’s earlier parent-name evidence.",
+   "outcome": "The 2 June 1840 remarriage, already recorded in the research history, explicitly identifies Jean Baptiste as widower of Marguerite Gervais and Claire as widow of Toussaint Gendron; Charles and Jean Baptiste Gendron are witnesses without stated relationship. The 1817 first marriage names Gendron/Roussel parents; the 1790 baptism matches that parental comparison but is not explicitly linked by the marriage. Marguerite Gervais died 23 January 1839, was buried 25 January, aged about 39. These are later typed copies with complete selected FR/EN; the contemporary manuscripts were not newly inspected. No witness identity or candidate elimination is established.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C080 / C111",
+   "name": "Jean Baptiste and Charles GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/459 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/765 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/766 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/995 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1178 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1311 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1312",
+   "action": "Read five selected Gendron–Gervais child acts and test a competing Jean-Baptiste godfather identity.",
+   "outcome": "Four child observations in later typed copies: unnamed burial 8 April 1824, father written Jandron; Marguerite born and conditionally baptized 20 February 1828, conflicting with the compiled 24 February; Jean-Baptiste born 16 June and baptized 17 June 1831, strongly correlated with the same-named child who died 17 April and was buried 19 April 1833, recorded age two versus calculated about 22 months; unnamed child buried 11 March 1835 after home baptism and immediate death, sex and exact birth/death dates unstated. The deceased Jean-Baptiste cannot be the 1842 godfather. Complete selected FR/EN supplied, but the first union is not exhaustively reconstructed and another same-name surviving son is not excluded. No candidate elimination.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C211",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "https://sgdrummond.quebec/cjutras/CJ_GENDREAU-Pie.html#F167904 ; https://sgdrummond.quebec/claude-jutras/",
+   "action": "After fresh live C211 Log review through row 3948, follow the public Claude Jutras GENDREAU index to family F 167904; compare the parent pair and known younger-child events; extract precise new Paul-Léon, Charles-Joseph and Marie Dussault event locators.",
+   "outcome": "Compiled family F 167904 names Pierre Gendreau, cultivateur, and Marie Dussault. Paul-Léon is reported born 25 Feb 1838/baptized 27 Feb 1838 Saint-Pie; Charles-Joseph born/baptized 14 Sep 1835 Saint-Pie; Marie Dussault died 17 Oct 1873/buried 19 Oct 1873 Saint-Pie, age 73. The group agrees with already-known Pierre-Zéphirin, Élophe and Ambroise death targets. No original act or per-event archival reference supplied. Selected FR/EN abstracts retained in three distinct event-target groups. Paul is a plausible comparison for the 1851/52 household, with an approximately one-year next-birthday age discrepancy; C211 himself is not named. No grade/outcome change.",
+   "baptism": "1827-10-01",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C211",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.miltonqc.ca/wp-content/uploads/2021/01/175e-capsule-historique-6C-2-La-tannerie.pdf ; https://www.miltonqc.ca/wp-content/uploads/2021/01/175e-capsule-historique-6C-1-La-tannerie.pdf",
+   "action": "Search the newly found full name Paul-Léon Gendreau; inspect the municipal tannery history and companion property/registry context.",
+   "outcome": "Modern historical capsule 6 part 2, p 1 lists Paul-Léon Gendreau in 1879 between Adolphe Bertrand and Jean-Baptiste Jeanson. Part 1, p 4 ties the tannery to the former south part of lot 19, 3 e Rang Ouest and identifies Granby registry contract numbers; p 10 cites an earlier 14 Jul 1876 sale no 16456. The 1879 instrument is neither reproduced nor numbered. No wife, age or parents; the owner remains unassigned and cannot establish C211 or Paul 1838 survival. PDFs saved; part 2 p 1 and part 1 pp 4, 10 visually checked.",
+   "baptism": "1827-10-01",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C266 / C275",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "1881 Canada census, Québec, district64 Iberville, F Sainte-Brigide, division1, p20, house91/family98, lines14–22; C-13204; imagee008149251 — https://data2.collectionscanada.gc.ca/e/e326/e008149251.jpg",
+   "action": "Visually read the complete selected nine-person household in the original census; prepare French and English source text; compare with the previously read 1871 family 197.",
+   "outcome": "Joseph Gendron 50, cultivateur, M; Dorothée 36, M; Césarie 17; Audena 15; Napoléon 8; Sylvia 6; Arthur 4; Rose Anna 3; Adélina 1. Québec/Catholique/Française carried by ditto from earlier on the same page. Root independently confirmed full image and selected details. Repeated Joseph/Césarie/Odéna–Audena trio strongly supports a continuation of the 1871 household, preserving the Audena spelling and one-year age discrepancy. No relationship column or parental names: household remains unassigned conclusively to C266/C275. Existing grades unchanged. Next original target: 17 October 1871 Sainte-Brigide Joseph/Dorothée Bédard marriage or a parent-naming act for Césarie/Audena.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
   }
  ]
 }
