@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 685,
+ "count": 688,
  "entries": [
   {
    "date": "",
@@ -8220,6 +8220,42 @@
    "outcome": "Public compiled locators give father François’s burial 9 July 1852 at Saint-Antoine-sur-Richelieu (death 7 July) and Julie Gendron/Félix Viau marriage 31 March 1856 at Contrecoeur. The latter profile names François Gendron/Marie-Anne-Élisabeth Dupont as Julie’s parents. Both originals remain unread. Julie/Joseph Guyon’s 1 August 1854 marriage belongs to a separately compiled Antoine Gendron/Euphrosine Audet family and is not this sibling lead.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C110",
+   "name": "Olivier GENDRON",
+   "researcher": "Chat",
+   "source": "Saint-Clément de Beauharnois, MG 8 G 3, vol. 4, p. 1477, C-2890 image 427; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/427",
+   "action": "Read the complete later typed copy of the known 5 July 1847 Félicité burial behind the father-Thomas index hit; independently checked by two readers.",
+   "outcome": "Félicité, aged 40, died two days earlier and was buried on 5 July 1847; the copied parents are Thomas Gendron and Françoise Rufiange. Witnesses are Jean Ginestet and Didier Montmarquet, with F. Caisse as priest. No Olivier or sibling relationship is stated. The known father-only index hit supplies no Thomas/Isabelle Tessier bridge and must not be adopted as a proven sister. This is a newly read typed archival copy, not the contemporary handwritten original. No candidate identity or grade change.",
+   "baptism": "1823-02-12",
+   "place": "St-Régis (St-François-Régis)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C086",
+   "name": "Francois GENDREAU",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c7203/963",
+   "action": "Read an accessible archival résumé of the known 11 October 1842 marriage and test the disputed retained continuation.",
+   "outcome": "C-7203 image 963, MG8 G59 volume 3 (1842–1858), October entry 445 M11, visually read in full: Cyrille GENDREAU / François / Geneviève Beaucage; Marie Anne VIENS / f Joseph / Geneviève Provençal. Complete selected French and English added, with copied f and editorial expansion explicit. This is a later typed résumé, not the original act. It supports Provençal at that source level but has no witnesses or signing clause; the Louis brother clause and the unverified Roussel copy wording remain unresolved. Existing grade retained.",
+   "baptism": "1821-08-10",
+   "place": "Berthierville (Ste-Geneviève-de-Berthier)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C275",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://usgenwebsites.org/MEAndroscoggin/marriages_American-Canadian-Marriages-1599-1984.pdf",
+   "action": "Locate an additional parent-naming collateral act for the unassigned Sainte-Brigide Joseph/Dorothée household.",
+   "outcome": "New compiled locator: cached MFGS American/Canadian Marriages text, entry immediately before Page 1990, gives Napoleon Gendron, parents Joseph Gendron/Dorothee Bedard (Ste Brig.), and Emelie Frechette, parents Francois Frechette/Elmire Tetreau, married 20 November 1893 at St. Cesaire, Rouv. Only cached extracted text read; direct PDF returned 406 and no page image or parish original was inspected. This may concern Napoléon, 8, in the 1881 household, but the link is unverified and Joseph's parents are absent. C275's existing grade and all household qualifications remain.",
+   "baptism": "1830-08-31",
+   "place": "Marieville (St-Nom-de-Marie)",
    "tier": "likely"
   }
  ]
