@@ -17,18 +17,31 @@ CLI = "/opt/hatch/bin/hatch_gws_cli"
 WORKBOOK = "1qKiRp9tKqCHYS0IPVqWJMWhNaoYXMWU57u3bm-66q9k"
 OUT = "assets/data/research_log.json"
 
-def get(rng):
-    r = subprocess.run([CLI, "sheets", "spreadsheets", "values", "get",
-                        "--params", json.dumps({"spreadsheetId": WORKBOOK, "range": rng}),
+def request(command, params):
+    r = subprocess.run([CLI, "sheets", "spreadsheets", *command,
+                        "--params", json.dumps(params),
                         "--format", "json"], capture_output=True, text=True)
     if r.returncode != 0:
-        sys.exit(f"read failed for {rng}: {r.stdout} {r.stderr}")
-    return json.loads(r.stdout).get("values", [])
+        sys.exit(f"read failed for {command}: {r.stdout} {r.stderr}")
+    return json.loads(r.stdout)
+
+def get(rng):
+    return request(["values", "get"], {"spreadsheetId": WORKBOOK, "range": rng}).get("values", [])
 
 def cell(row, i):
-    return row[i].strip() if len(row) > i and row[i] else ""
+    value = row[i] if len(row) > i else ""
+    if isinstance(value, bool):
+        return "TRUE" if value else "FALSE"
+    return str(value).strip() if value is not None else ""
 
-cand_rows = get("Candidates!A2:H282")
+metadata = request(["get"], {"spreadsheetId": WORKBOOK, "fields": "sheets.properties"})
+row_counts = {s["properties"]["title"]: s["properties"]["gridProperties"]["rowCount"]
+              for s in metadata.get("sheets", [])}
+for required in ("Candidates", "Log"):
+    if required not in row_counts:
+        sys.exit(f"missing sheet metadata: {required}")
+
+cand_rows = get(f"Candidates!A2:H{row_counts['Candidates']}")
 cands = {}
 for r in cand_rows:
     cid = cell(r, 0)
@@ -37,7 +50,7 @@ for r in cand_rows:
                       "place": cell(r, 3), "tier": cell(r, 4)}
 
 entries = []
-for r in get("Log!A2:H2000"):
+for r in get(f"Log!A2:H{row_counts['Log']}"):
     if cell(r, 7) != "TRUE":
         continue
     cid = cell(r, 1)
