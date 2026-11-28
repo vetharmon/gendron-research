@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 688,
+ "count": 692,
  "entries": [
   {
    "date": "",
@@ -8257,6 +8257,54 @@
    "baptism": "1830-08-31",
    "place": "Marieville (St-Nom-de-Marie)",
    "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C006",
+   "name": "Jean Baptiste GENDREAU",
+   "researcher": "Chat",
+   "source": "Previously recorded 19 November 2026 original-reading report; Saint-François, Île d’Orléans, 1859 and 1875. Sources: https://www.ancestry.com/search/collections/1091/records/14505271 ; https://www.ancestry.com/search/collections/1091/records/11198588",
+   "action": "Reconcile stale source metadata and narrative with the earlier resolved namesake comparison.",
+   "outcome": "The 19 November report reads marriage M2, 11 October 1859, image 5/8, as Jean Baptiste Ginchereau, cultivator, adult son of late Augustin Ginchereau, marrying Marie Émond; the 13 September 1875 burial, image 11/13, has the same spouse and surname. The report had already closed this comparison for the Varennes son of Joseph Gendreau and Apolline Provost. Dated 16 November index observations and every stored transcription/translation are preserved. No original was newly inspected in this reconciliation. C006 remains Needs work and is established through 6 October 1840.",
+   "baptism": "1816-04-26",
+   "place": "Varennes (Ste-Anne)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C010 / C212",
+   "name": "Pierre GENDRON / Narcisse GENDRON",
+   "researcher": "Chat",
+   "source": "Suzanne collateral family: two complete archival typed acts — https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/756 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/1006",
+   "action": "Visually read and independently QA the complete 19 November 1835 marriage and 11 February 1841 rehabilitation; save full French and English selected-act text.",
+   "outcome": "Suzanne is explicitly daughter of Ignace Gendron/deceased Josephte Gendron; the rehabilitation names Marie Virginie born 17 October 1836 and Charles born 30 August 1838. Neither Pierre nor Narcisse appears. Preserve typed Augé/Jeannes and the different fourth-to-fourth versus third-to-third consanguinity and dispensation descriptions. No grade change. Derivative archival typed copies, not newly read parish manuscripts; witnesses' kinship is not inferred. Root independently confirmed both complete selected acts.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C010 / C212",
+   "name": "Pierre GENDRON / Narcisse GENDRON",
+   "researcher": "Chat",
+   "source": "Known 1851 parental-census comparison re-read through public LAC images — https://data2.collectionscanada.gc.ca/e/e092/e002296024.jpg ; https://data2.collectionscanada.gc.ca/e/e092/e002296025.jpg ; https://data2.collectionscanada.gc.ca/e/e092/e002296026.jpg",
+   "action": "Retrieve and visually inspect printed p. 17/manuscript No 9 and its p. 18 continuation; inspect next nominal p. 19/manuscript No 10 for continuity. Reuse C212 source-004 for this same underlying record.",
+   "outcome": "Lines 47–50: Ignace Gendron 70, farmer, Beauharnois; Amable Lamadeleine 61, Châteauguay; Adeline Bertrand 17, St Philom. [Saint-Philomène]; [Marianne?] Lamadeleine 51, Lachine, female. Last row is not Narcisse Gendron. Compiled 1844 Ignace/Amable marriage makes this a stronger comparison, but census age/birthplace differ from compiled 1786 Châteauguay birth. No parental identification or grade change. Public transcript contains selected nominal columns 1–8 only. Continuation entries appear shifted one printed row; no fixed household size or explicit kinship is asserted. Root and Louis independently checked the images; Adeline's provisional St-Urbain birthplace was corrected to St Philom. before integration.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C184",
+   "name": "Theophile GENDREAU",
+   "researcher": "Chat",
+   "source": "Published C184 original audit PR285; existing private Log 4011; source metadata and narrative history reconciliation — https://github.com/vetharmon/gendron-research/pull/285 ; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13395685",
+   "action": "Reconcile stale partial-transcription metadata and narrative with the already-published completed audit; retain the earlier dated history",
+   "outcome": "Read the published audit at main e778fc3 and existing private Log 4011. Rose Gendreault/Jean Baptiste Gaboury’s 3 November 1836 act 13395685 is complete across d1p_02251261.jpg and d1p_02251262.jpg. The audit names witnesses Louis Vidal, Olivier Fontaine and Charles Gaboury and acknowledges Dosithée and Jean Baptiste; Théophile is not named. Update only this source’s text_type to transcription and its document_note to the complete-act disposition, preserving its audited French, English and provenance verbatim. Replace the stale current narrative warnings while retaining the 23 November coverage paragraph with an adjacent superseding explanation. Align both Jacques-burial prose summaries with environ onze ans/about eleven in the preserved audit transcription. This is metadata/history reconciliation, not a new original-image reading. Existing Log 4011 stays private; C184 remains Needs work. The five existing C184 source rows in the shared Sheet were also reconciled with the published audit, preserving that audit’s full source text and provenance.",
+   "baptism": "1826-05-21",
+   "place": "Iberville (St-Athanase-de-Bleury)",
+   "tier": "none"
   }
  ]
 }
