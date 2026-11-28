@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 649,
+ "count": 663,
  "entries": [
   {
    "date": "",
@@ -7788,6 +7788,174 @@
    "outcome": "The finding aid supplies direct agricultural census images and an OnLand route. Web retrieval of OnLand returned a JavaScript shell; no abstract index or deed inspected. Exact targets: Kennebec concession 5 lots 14–15 and concession 4 lot 13. This is an access limitation, not a negative land search.",
    "baptism": "1829-11-07",
    "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C181",
+   "name": "Étienne GENDRON — unnamed sibling burial, 1824",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/275",
+   "action": "Read the complete later typed burial copy visually and prepare full French transcription and English translation.",
+   "outcome": "NEW linked family act: St-Clément, MG 8 G 3 vol. 1 p. 267, C-2889 image 275, last entry, records burial on 7 July 1824 of an unnamed child of Joseph Gendron, cultivateur, and Marguerite Daigneau, privately baptized at home, dead avant-hier (5 July), aged half an hour. Witnesses Antoine and François Héneault could not sign. Sex is not explicit. This child was already dead before Étienne's 1826 birth and cannot be Joseph buried in January 1828. Full FR/EN prepared. Later typed copy, not contemporary manuscript; no candidate survival or grade change.",
+   "baptism": "1826-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C042",
+   "name": "Paul GENDRON — unnamed sibling burial, 1824",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/275",
+   "action": "Read the complete later typed burial copy visually and cross-reference the same parent pair.",
+   "outcome": "NEW linked family act: St-Clément, MG 8 G 3 vol. 1 p. 267, C-2889 image 275, last entry, records burial on 7 July 1824 of an unnamed child of Joseph Gendron, cultivateur, and Marguerite Daigneau, privately baptized at home, dead avant-hier (5 July), aged half an hour. Witnesses Antoine and François Héneault could not sign. Sex is not explicit. This child was already dead before Étienne's 1826 birth and cannot be Joseph buried in January 1828. Full FR/EN prepared. Later typed copy, not contemporary manuscript; no candidate survival or grade change.",
+   "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C181",
+   "name": "Étienne GENDRON — pre-baptism sibling screen, 1822–1826",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/200 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/354 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/349 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/352",
+   "action": "OCR-screen 155 consecutive frames, C-2889 images 200–354 (21 August 1822–25 March 1826), and visually read selected potential matches and boundary frames.",
+   "outcome": "All 155 frames produced nonempty OCR. Newly located unnamed sibling burial at image 275; known Marguerite–Hercule Levasseur marriage at image 239. No separate Joseph baptism of Joseph Gendron and Marguerite Daigneau detected. Different-family comparisons visually read in full: Joseph Octave, 14 February 1826, son of Joachim Gendron and Angélique Hébert (image 349/p. 340); Angelle, 12 March 1826, daughter of Joseph Gendron and Marie-Anne Guy (image 352/p. 343; Josephte Daigneault is godmother). OCR-assisted screening is not an exhaustive visual absence proof. No repetition of the prior post-baptism images 356–434 screen; C181 remains unresolved.",
+   "baptism": "1826-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C181",
+   "name": "Étienne GENDRON — probable older sibling Joseph, full 1806 baptism",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2891/902",
+   "action": "Reread the complete later typed act, already located in Log1510, and prepare full French and English text.",
+   "outcome": "Châteauguay, MG 8 G 6 vol. 4 p. 1229, C-2891 image 902: Joseph baptized 4 May 1806, born yesterday, son of Joseph Jeandron, laboureur, and Marguerite Deniau; sponsors Benjamin Cousino and Marie Huot could not sign; Bruguier, priest. Exact recorded names retained and stray typed e after laboureur noted. Event is known; complete text is the addition. Existing status remains probable older sibling, without a later explicit kinship link or secured later-life outcome. Does not resolve the 1828 Joseph/Étienne conflict.",
+   "baptism": "1826-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C181",
+   "name": "Étienne GENDRON — unassigned 1825 St-Clément Joseph household",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c718/19 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c718/20 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c718/21 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/489",
+   "action": "Locate and visually screen the complete St-Clément name section, pp. 1079–1081, then directly read the Joseph Gendron household age columns.",
+   "outcome": "Original census image 21/p. 1081, Joseph Gendron between Charles Allard and Jean Bte Hébert: 7 persons; 1 under 6, 2 from 6 to under 14, 2 from 14 to under 18; 1 married man from 25 to under 40 and 1 married woman from 14 to under 45. No count is entered for men 40–under 60, unlike the target father’s expected age of about 50. Household remains unassigned. Wife and children are unnamed; no separate Joseph child or subsequent life of the probable 1806 sibling established. This does not resolve C181. The expected age comes from the previously read later typed burial of Joseph Gendron, spouse of Marguerite Daigneau: died 31 December 1829, buried 1 January 1830, aged 54 (C-2889 image 489/p. 477). Census and burial ages can be wrong; this is a discrepancy, not an independently proved exclusion.",
+   "baptism": "1826-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C264",
+   "name": "Joseph GENDRON — positive original abstracts",
+   "researcher": "Chat",
+   "source": "https://www.onland.ca/ui/13/books/48638/viewer/671328794?page=685 ; https://www.onland.ca/ui/13/books/48638/viewer/671328794?page=686 ; https://www.onland.ca/ui/13/books/48638/viewer/671328794?page=680 ; https://www.onland.ca/ui/13/books/48638/viewer/671328794?page=681",
+   "action": "Follow new Kennebec lot/concession locators into public original registry abstracts",
+   "outcome": "Frontenac LRO 13, Kennebec books 37–42: p.144/viewer 685, lot 15 con.5, Crown patent to Joseph Gendron dated 26 August 1870, W½ 100 acres; A248 deed 9 October 1882, registered 7 November 1882, Jos. Gendron et ux. to Ontario & Quebec Railway Company. P.406/viewer 686 repeats the 1870 patent as C2307, registered 10 April 1931. P.143/viewer 680, D2308 patent 2 December 1930, registered 10 April 1931, names Joseph, Louis, William and Frank Gendron; Margaret Magher [apparently Meagher]; Nora Clark; Georgie [Lenore/Lenora?] Henry; Florence Thorndyke; Marion Marcotte; Adelia Gunn; and Frank Gunn as heirs of Joseph Gendron, in shares. D2317 dated 21 January 1929, registered 8 June 1931, repeated p.413/viewer 681 and p.406/viewer 686, conveys the west-half tracts to John A. Newton; reads Georgie L. Henry and Marion G. Marcotte. Two readers checked key readings; A248’s day was corrected from provisional 6 to 9 after direct comparison with A247. Selected original-abstract readings, not complete instrument transcriptions. Do not assume all heirs are children. No parents or birthplace for Joseph; no C264 or John B./Baptiste bridge. Retain the 1878/1880 portions. Read complete D2308 and D2317 if accessible, then compare their family/residence details with the original 1860 return. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C264",
+   "name": "Joseph GENDRON — positive derivative index and finding aid",
+   "researcher": "Chat",
+   "source": "https://archive.org/download/olri_township-index_037_kaladar-korah/olri_township-index_037_Kaladar-Korah-20250820T154324Z-1-001.pdf#page=9 ; https://archive.org/download/olri-archival-references-2026/OLRI%20Archival%20References_2026.pdf#page=4",
+   "action": "Search digitized Ontario Land Records Index and resolve the original sale reference",
+   "outcome": "Visually read township fiche 37, Kaladar–Korah, printed p.7237/PDF 9: CHANDRON JOS; KENNEBEC W1/2 lot 15, con.5; date ID 5; issue date 18661204; transaction S; no residence place entered; reference 01 CIII3 002 446. The independently checked January 2026 crosswalk p.4 maps RG 1 C-III-3 vol.2 to Sales of Clergy Reserves, current RG 1-386-0-2. For p.446 use MS 693 reel 191 (pp.397–end), FS film 1376305/DGS 8346111. 1979 derivative index and modern finding aid, not the original 1866 sale. The same tract and close surname are a strong Ontario land-chain lead, not C264 identity proof. Inspect RG 1-386-0-2, vol.2 p.446; original sale remains unread.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C264",
+   "name": "Joseph GENDRON — bounded negative",
+   "researcher": "Chat",
+   "source": "https://www.onland.ca/ui/13/books/48638/viewer/671328794?page=318",
+   "action": "Check first original abstract page for John B./Baptiste’s lot 13, concession 4",
+   "outcome": "Frontenac LRO 13, Kennebec books 37–42, p.110/viewer 318 read top, middle and bottom. Opening patent dated 7 December 1900, registered 12 February 1901; original entries through approximately 1940, with later annotations. No Gendron/Shandraw entry identified on this page. Screenshots retained. One-page bounded negative, not an exhaustive township or title search. It does not disprove the earlier voter occupancy. Kept in proposed Log only; no negative source/narrative addition to the candidate page. If the John B./Baptiste route is resumed, distinguish occupancy from patented title and look for an independently identifying family record.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C233",
+   "name": "Pierre Samuel GENDRON",
+   "researcher": "Chat",
+   "source": "https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00181.jpg ; https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00180.jpg ; https://data2.collectionscanada.gc.ca/1871/jpg/4395477_00467.jpg",
+   "action": "Inspected original census scans and correlated the household with saved C233 marriage/baptism; preserved source uncertainty and candidate grades",
+   "outcome": "The 1871 Sainte-Rosalie Pierre 42 / Louise 44 lead (FamilySearch 1:1:M4K1-9HX) is now identified as C233 Pierre Samuel Gendron. Original 1861 first-sheet lines 22–29 give P. S. Gendron, notary, 33, Louise Fournier 34, Joseph 10, Saül 9, Célina 7, Adéline 5 and Flavien Dupont 14. Original 1871 pp.36–37 give Pierre, notary, 42, Louise 44, the same four younger Gendrons aged 19, 18, 16 and 14, plus Aimé 7, Régina 6 and Flavien Dupont 24. Dwelling 102 has corrected family 125, replacing crossed-out 126. The 1861 declaration names Pierre Samuel Gendron. C233’s saved 1850 marriage to Louise Fournier and 1828 baptism name Simon Gendron / Marie Louise Yon, with the marriage surname still faded. Household correlation, not an explicit census kinship statement, establishes the identity. Complete selected-column French/English text added; no grade change. C233 remains solidly eliminated and is now recorded in Québec through 1871.",
+   "baptism": "1828-08-31",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C233",
+   "name": "Pierre Samuel GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13497830 ; saved original and continuation",
+   "action": "Re-read the saved original marriage and continuation; corrected French and English text together",
+   "outcome": "Re-read the existing 13 May 1850 St-Simon M6 and its continuation. The groom is Pierre Samuel Gendron, with Pierre Sa- / muel spanning a line break; the earlier selected text omitted Pierre. His occupation is read [instituteur ?], correcting cultivateur. The mother’s faded surname remains [Yon ?]; date and ancillary uncertainties are retained. Full French/English text corrected together. No new marriage or grade change.",
+   "baptism": "1828-08-31",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C211",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00181.jpg ; https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00180.jpg ; https://data2.collectionscanada.gc.ca/1871/jpg/4395477_00467.jpg",
+   "action": "Inspected original census scans and correlated the household with saved C233 marriage/baptism; preserved source uncertainty and candidate grades",
+   "outcome": "The 1871 Sainte-Rosalie Pierre 42 / Louise 44 lead (FamilySearch 1:1:M4K1-9HX) is now identified as C233 Pierre Samuel Gendron. Original 1861 first-sheet lines 22–29 give P. S. Gendron, notary, 33, Louise Fournier 34, Joseph 10, Saül 9, Célina 7, Adéline 5 and Flavien Dupont 14. Original 1871 pp.36–37 give Pierre, notary, 42, Louise 44, the same four younger Gendrons aged 19, 18, 16 and 14, plus Aimé 7, Régina 6 and Flavien Dupont 24. Dwelling 102 has corrected family 125, replacing crossed-out 126. The 1861 declaration names Pierre Samuel Gendron. C233’s saved 1850 marriage to Louise Fournier and 1828 baptism name Simon Gendron / Marie Louise Yon, with the marriage surname still faded. Household correlation, not an explicit census kinship statement, establishes the identity. Complete selected-column French/English text added; no grade change. Retire this specific namesake lead for C211; no event of that candidate is established.",
+   "baptism": "1827-10-01",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C183",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00181.jpg ; https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00180.jpg ; https://data2.collectionscanada.gc.ca/1871/jpg/4395477_00467.jpg",
+   "action": "Inspected original census scans and correlated the household with saved C233 marriage/baptism; preserved source uncertainty and candidate grades",
+   "outcome": "The 1871 Sainte-Rosalie Pierre 42 / Louise 44 lead (FamilySearch 1:1:M4K1-9HX) is now identified as C233 Pierre Samuel Gendron. Original 1861 first-sheet lines 22–29 give P. S. Gendron, notary, 33, Louise Fournier 34, Joseph 10, Saül 9, Célina 7, Adéline 5 and Flavien Dupont 14. Original 1871 pp.36–37 give Pierre, notary, 42, Louise 44, the same four younger Gendrons aged 19, 18, 16 and 14, plus Aimé 7, Régina 6 and Flavien Dupont 24. Dwelling 102 has corrected family 125, replacing crossed-out 126. The 1861 declaration names Pierre Samuel Gendron. C233’s saved 1850 marriage to Louise Fournier and 1828 baptism name Simon Gendron / Marie Louise Yon, with the marriage surname still faded. Household correlation, not an explicit census kinship statement, establishes the identity. Complete selected-column French/English text added; no grade change. Retire this specific namesake lead for C183; no event of that candidate is established.",
+   "baptism": "1826-05-09",
+   "place": "St-Hyacinthe (Notre-Dame-du-Rosaire)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C281",
+   "name": "Pierre GENDRON",
+   "researcher": "Chat",
+   "source": "https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00181.jpg ; https://data2.collectionscanada.gc.ca/1861/jpg/4108659_00180.jpg ; https://data2.collectionscanada.gc.ca/1871/jpg/4395477_00467.jpg",
+   "action": "Inspected original census scans and correlated the household with saved C233 marriage/baptism; preserved source uncertainty and candidate grades",
+   "outcome": "The 1871 Sainte-Rosalie Pierre 42 / Louise 44 lead (FamilySearch 1:1:M4K1-9HX) is now identified as C233 Pierre Samuel Gendron. Original 1861 first-sheet lines 22–29 give P. S. Gendron, notary, 33, Louise Fournier 34, Joseph 10, Saül 9, Célina 7, Adéline 5 and Flavien Dupont 14. Original 1871 pp.36–37 give Pierre, notary, 42, Louise 44, the same four younger Gendrons aged 19, 18, 16 and 14, plus Aimé 7, Régina 6 and Flavien Dupont 24. Dwelling 102 has corrected family 125, replacing crossed-out 126. The 1861 declaration names Pierre Samuel Gendron. C233’s saved 1850 marriage to Louise Fournier and 1828 baptism name Simon Gendron / Marie Louise Yon, with the marriage surname still faded. Household correlation, not an explicit census kinship statement, establishes the identity. Complete selected-column French/English text added; no grade change. Retire this specific namesake lead for C281; no event of that candidate is established.",
+   "baptism": "1830-12-17",
+   "place": "Sorel (St-Pierre)",
+   "tier": "possible"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.mun.ca/mapm/data/census81dbf.zip ; https://www.mun.ca/mapm/data/Lovell80dbf.zip ; https://map.cieq.ca/en/project/storeroom.html ; prior Log924",
+   "action": "New bounded machine-readable search, after fresh live Log audit; no original image newly read",
+   "outcome": "Screened all 180,847 active 1881 MAP DBF rows and 32,341 active 1880 Lovell DBF rows for recorded Gendron/Gendreau/Jandrow-style stems. The explicit census name-field check yielded 98 broad hits and no first-name georg; eight Virginie entries under Audet/Lapointe/Bonneville/Gendron-style fields were aged 2–31, with no matching older widow established. No clear George or Virginie widow appeared among 20 broad 1880 directory hits. These are derivative-dataset negatives, not original-register or Montréal-wide absence findings. Prior Log 924's Beauharnois Pierre 50 / Angèle 47 / Joseph 84 household suggests a father's later-estate route, but its original and any father burial/succession were not recovered. No parentage bridge; Needs work unchanged.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
    "tier": "none"
   }
  ]
