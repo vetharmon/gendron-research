@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-27",
- "count": 617,
+ "count": 626,
  "entries": [
   {
    "date": "",
@@ -7402,6 +7402,114 @@
    "source": "Canadiana C-2892, sequences 872–1050; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/991 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1013",
    "action": "bounded childhood burial screen and collateral leads.",
    "outcome": "OCR-screened all 179 images in Canadiana C-2892 sequences 872–1050, spanning 5 October 1829–27 February 1832, for Gendron and parental-name matches; visually inspected the candidate baptism and relevant collateral hits. No burial of Joseph with the target parents was identified in this bounded screen. Sequence 991, typed p. 2792, records Antoine baptized 25 May 1831, born the previous day, to Antoine Gendron and Marie Anne Lefebvre. Sequence 1013, p. 2814, records Jean-Baptiste buried 26 August 1831, died two days earlier, aged one month, son of Antoine Gendron and Marie Lefebvre. Retain the differing names and the one-month age exactly; the relationship between these collateral entries requires manuscript verification. Neither is a burial of Joseph, and neither establishes the identity of the younger Joseph in the 1851 household. OCR with selected image checks is not an exhaustive visual reading or proof of survival. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/401",
+   "action": "Complete the selected baptism from the archival typed copy",
+   "outcome": "C-2889/401, vol.2 p.390, records Louis born and baptized 2 April 1827, legitimate son of François Gendron, journalier, and Marguerite Lamagdeleine. Sponsors Nicolas Malet and Julie Bélair are described as illiterate; father present. Two readers checked the full typed entry. Full French and English added under act-4253710; the indexed and FamilySearch links remain secondary copies in the same document group. The contemporary manuscript was not newly inspected in this continuation; no later identity or grade change.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/58 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/221",
+   "action": "Extend the unassigned Louis / Marie Desbiens family timeline",
+   "outcome": "Two readers checked Godefroy, born 2 / baptized 3 December 1842, Louis Gendron cultivateur / Marie Desbiens, sponsors Joseph Léger and Esther Brillant-Leduc (C-2890/58, p.1117), and Marie, born and baptized 14 January 1845, Louis journalier / Marie Desbiens, sponsors Joseph Léger and Marie Gendron (C-2890/221, p.1272). Neither gives Louis’s parents. The marriage target is now before 2 December 1842. C195 would have been 15 years and 8 months at Godefroy’s birth; age alone is not an exclusion. Nicolas / Marie Desbiens, Saint-Timothée 1838, remains a separate-name compiled comparison without an established alias.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/900 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/299",
+   "action": "Screen the earlier Beauharnois typed register",
+   "outcome": "Completed OCR discovery screening of 181 C-2889 images 900–1080 and 299 C-2890 images 1–299, 480 images total. Actual record bounds are 21 October 1838–29 November 1845; C-2889/1079–1080 and C-2890/1–5 are blank or front matter. Selected hits were read visually. No identifying Louis / Marie Desbiens marriage or pre-1842 child surfaced. This is not an exhaustive manual negative, and no absence, death, migration or identity inference is drawn. It precedes the separately recorded C-2890/300–698 screen.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/949 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/96",
+   "action": "Correct the 1839 and 1843 all-Gendron burial negatives",
+   "outcome": "Two fully read typed acts contradict the 21 November claims that no Gendron burial of any kind occurred in those years: François, buried 2 November 1839, died 31 October, age one month, François Gendron / Archange Goyet (C-2889/949); and Jean Baptiste, buried 22 May 1843, died 20 May, age 37, Paul Gendron / Catherine Leboeuf (C-2890/96). Both concern other people and do not establish C195’s burial. The blanket negatives and the older general claim of complete 1828–1849 burial coverage are withdrawn pending a fresh manual audit. Historical workbook log rows remain intact; this dated correction supersedes their overbroad conclusions. Needs work unchanged.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13400870 ; https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Record?app=census&IdNumber=22968427&ST=SCTB",
+   "action": "Reconcile older narrative and source-text inconsistencies",
+   "outcome": "The 1844 Rimouski marriage evidence note now follows its selected transcription, Marie Henriette Chamard, instead of the stray Chasseur; this is a text correction, not a newly read original. The older census narrative gives Joachim Gendron as 60, while the selected household abstract gives 66. That age discrepancy is explicitly retained pending an original-image check. The abstract calls Félicité Hebert his wife but states no parent-child relationship for Jos. or Bénony; the older assertion that no relationships appear is withdrawn. The original census was not newly inspected in this continuation. No identity assignment or grade change.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1208 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1390 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/52 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/112 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/236",
+   "action": "Extend the Nicolas / Suzanne family chronology",
+   "outcome": "Five newly read typed family acts name Nicolas/Nicholas Gendron and Susanne/Suzanne Auger or Augé: Elise born/baptized 7 September 1833; Narcisse born/baptized 9 August 1836 and buried 1 July 1837 after death on 29 June, stated age eleven months; Philomène born 6/baptized 7 August 1838; Mathieu born 27/baptized 28 February 1841. Two readers checked each full entry and full French/English is supplied. None names Bélonie/Benoni or establishes his later life. The separate Elise burial of 24 October 1832 names Nicolas Gendronn and Susanne Faubert; it remains unassigned and is not silently merged with this family. Needs work unchanged.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/60 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/250",
+   "action": "Screen the later Châteauguay copied register",
+   "outcome": "Completed OCR discovery screening of 191 images C-2893/60–250, August 1837 through the beginning of a 6 September 1841 marriage. Relevant family hits were checked visually. No later appearance of Bélonie/Benoni was identified; the previously rejected 1841 burial still names Pierre Michel Gendron / Marie Suzanne Poineau. This is not a complete page-by-page visual reading or proof of absence. Exact marriage targets for Marguerite (1855) and Sophie (1857) remain unread; additional compiled Charles (1858), Philomène (1858) and Mathieu (1863) marriage locators are retained for parent and witness checks.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1124 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1270 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1384 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/122 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/206 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/1078",
+   "action": "Extend Antoine / Marie Anne’s family chronology and parish coverage",
+   "outcome": "Six newly read typed baptisms name Antoine Gendron / Marie Anne Lefebvre: Jean-Baptiste born/baptized 19 September 1832; Moyse born 23/baptized 24 July 1834; Elise born 12/baptized 13 July 1836; Louis born/baptized 6 October 1838; Pierre born/baptized 1 April 1840; and Adélaïde born/baptized 16 March 1842 at Beauharnois, whose father is described as a day labourer of Châteauguay. All full entries were independently checked and translated. These are collateral family records, not later Joseph events. The dates do not simply match the 1851 household ages, and no younger Joseph baptism was established. The 1842 copy’s anomalous se savent signer is retained with uncertainty; no literacy inference is made. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1051 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2893/250",
+   "action": "Extend the bounded Châteauguay copied-register screen",
+   "outcome": "Completed OCR discovery screening of C-2892/1051–1397 and C-2893/6–250: 592 images including the blank C-2892/1397. The actual entries run from 28 February 1832 to the start of a 6 September 1841 marriage, with a reel transition after 13 September 1836. Relevant hits were visually checked, and all transient image errors were recovered. No parent-matched burial of the 1829 Joseph or baptism identifying the younger census Joseph was established. This is not a complete manual negative and does not prove death or survival. The separate 1842 Beauharnois baptism shows that neighboring-parish coverage is useful for this family.",
    "baptism": "1829-11-07",
    "place": "Châteauguay",
    "tier": "none"
