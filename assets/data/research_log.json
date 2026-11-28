@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-27",
- "count": 604,
+ "count": 617,
  "entries": [
   {
    "date": "",
@@ -7248,6 +7248,162 @@
    "outcome": "The February 1838 marriage identifies Marie Domitilde as a minor daughter of Joseph Gendron, journalier expressly consenting and witnessing, and deceased Marie Anne Guy, matching George’s recorded parents. Groom Joseph Roy is adult son of Louis Roy/Catherine Tibert; the four witnesses and both spouses could not sign. The typed day is 10; a small handwritten annotation above it remains unresolved, and a compiled 6 February date does not settle the discrepancy. Marie Philomène was born and baptized on 8 November 1838 to Joseph Roy/Domithilde Gendron; sponsors Pierre Gendron and Catherine Roy, with the father present, could not sign. Pierre has no stated parents or kinship and is not identified as C049. These are later typed copies, not contemporary handwritten originals. Neither names George or connects the Montréal adult; Needs work unchanged.",
    "baptism": "1828-02-01",
    "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Saint-Pierre-les-Becquets civil register, CE401,S40, 1823, volume 4427161, image 16/21, handwritten p. 31, upper right, 04T_CE401S40_1823_21.jpg; https://numerique.banq.qc.ca/patrimoine/details/52327/4427161",
+   "action": "Independently inspect the complete maternal burial in the civil register and supply a grouped primary French transcription and English translation.",
+   "outcome": "Magdeleine Lafrance was buried 23 October 1823 after dying the previous day, aged about 18; wife of Louis Gendron, cultivateur of this parish. Named witnesses André Demers and Augustin Mailhot, with other unnamed people, could not sign. No child is named; no death or later record of Joseph Adolphe is established. This civil copy was read; the baptism and separately linked copies were not reopened. Needs work unchanged.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Saint-Pierre-les-Becquets civil register, CE401,S40, 1861, volume 4430304, image 19/36, handwritten p. 36, M13, 04T_CE401S40_1861_24.jpg; https://numerique.banq.qc.ca/patrimoine/details/52327/4430304 ; C157 source review of 26 November 2026 https://vetharmon.github.io/gendron-research/candidates/c157/",
+   "action": "Reconcile the conflicting C129 competing-family marriage description against the original civil act and C157’s current dated source review.",
+   "outcome": "The 15 July 1861 civil marriage names Joseph Gendron son of Charles Gendron/Marie Gagnon and Reine Mailhot widow of Léon Auger; witnesses include Charles Gendron fils, François [Dionne?] and Adolphe Mailhot. Charles Laplante is withdrawn from C129’s description. C157’s 26 November review corrects FamilySearch to image 286 and reports Marie Lapierre in the parish copy; that parish image was not newly read. One selected civil transcription and translation added, the older parish text retained with provenance. Different parents continue to distinguish the groom from C129; no candidate status change.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C143",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Timothée Brodeur, CN602,S14: https://numerique.banq.qc.ca/patrimoine/details/52327/4457261 ; https://numerique.banq.qc.ca/patrimoine/details/52327/5467196 ; catalogue https://advitam.banq.qc.ca/notice/489271",
+   "action": "Locate the precise public digital volume and repertoire for the already-indexed 1 April 1839 parental inventory; attempt manuscript inspection.",
+   "outcome": "Located BAnQ digital volume 4457261, dated 24 December 1834–13 January 1840, with 3,025 images, and repertoire locator 5467196 with 107 images. The date range covers the already-indexed 1 April 1839 Jacques Gendron/Geneviève Goulet inventory. The viewer was blank and an image request returned an explicit automated-traffic security denial; no manuscript image or repertoire entry was read. No act number, image range, heirs or family clauses established. These are retrieval locators only; Needs work unchanged.",
+   "baptism": "1824-08-22",
+   "place": "St-François-de-la-Rivière-du-Sud (St-François-de-Sales)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C178",
+   "name": "Thomas GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ, Timothée Brodeur, CN602,S14: https://numerique.banq.qc.ca/patrimoine/details/52327/4457261 ; https://numerique.banq.qc.ca/patrimoine/details/52327/5467196 ; catalogue https://advitam.banq.qc.ca/notice/489271",
+   "action": "Locate the precise public digital volume and repertoire for the already-indexed 1 April 1839 parental inventory; attempt manuscript inspection.",
+   "outcome": "Located BAnQ digital volume 4457261, dated 24 December 1834–13 January 1840, with 3,025 images, and repertoire locator 5467196 with 107 images. The date range covers the already-indexed 1 April 1839 Jacques Gendron/Geneviève Goulet inventory. The viewer was blank and an image request returned an explicit automated-traffic security denial; no manuscript image or repertoire entry was read. No act number, image range, heirs or family clauses established. These are retrieval locators only; Needs work unchanged.",
+   "baptism": "1826-03-07",
+   "place": "Berthier-sur-Mer (Notre-Dame-de-l'Assomption)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C157",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "BAnQ Saint-Pierre-les-Becquets civil register, volume 4430304, image 19/36, handwritten p. 36, M13; https://numerique.banq.qc.ca/patrimoine/details/52327/4430304 ; candidate source review dated 26 November 2026",
+   "action": "Reconcile stale marriage descriptions against the original civil act and dated source review; provide complete English translations for both selected French document texts.",
+   "outcome": "Independently confirmed the civil M13 marriage of 15 July 1861: Joseph Gendron, son of Charles Gendron and Marie Gagnon, and Reine Mailhot, widow of Léon Auger. Selected the BAnQ civil source with its complete normalized French transcription and English translation; retained the older LAFRANCE and parish texts as nonprimary copies. Corrected the stale Charles Laplante description and attributed the image-286 locator and parish maternal reading Marie Lapierre to the 26 November review; no new parish inspection. Added a complete English translation to the unchanged 26 November baptism transcription, preserving every uncertainty; no new baptism inspection. Solid elimination unchanged.",
+   "baptism": "1825-01-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2889/430",
+   "action": "existing baptism copy completed and rechecked.",
+   "outcome": "The already cited C-2889 image 430, MG 8 G 3 vol.2 p.419, was read in full and independently checked. It records George’s birth and baptism on 1 February 1828, father Joseph Gendron, cultivateur, mother Marie-Anne Guy, and sponsors Michel Desgroseillers and an uncertain typed name retained as [Eusèe Toin?]. Full French and English text now accompany the existing act-4253799 document group. This is completion of an existing typed-copy source, not a new baptism discovery or a new reading of the handwritten original. No later identity or status change.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/626 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/627 ; https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Angele&pid=1409887",
+   "action": "Gauthier / Angélique Gendron marriage comparison.",
+   "outcome": "Read the complete 29 January 1850 typed marriage across C-2890 images 626–627, MG 8 G 3 vol.5 pp.1673–1674. Pierre Gauthier is an adult son of Jean Louis Gauthier, charron, and Marie Desormiers; Angélique Gendron is a minor daughter of Joseph Gendron, journalier, and Marie Anne Grey. The fathers witnessed, with Pierre Gendon, whose relationship is unstated. George is not named. NosOrigines 1409887 instead connects this marriage to Angèle born 12 March 1826, parents Joseph Gendron / Marie Anne Guy, and names the groom’s mother Madeleine Cusson. Grey/Guy, minor versus age 23, and Desormiers/Cusson remain unresolved discrepancies; the bride is not yet established as George’s sister.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C220",
+   "name": "George GENDRON",
+   "researcher": "Chat",
+   "source": "Canadiana C-2890, sequences 626–698; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/626",
+   "action": "bounded 1850 copied-register OCR screen.",
+   "outcome": "Screened 73 consecutive C-2890 images 626–698, from records dated 28 January through 30 December 1850, using OCR to locate name hits and visually inspecting selected relevant acts. No George parental bridge was identified. This was not a complete manual reading or an exhaustive negative finding; it does not establish his absence from the register. An incidental Louis Gendron / Marie Débien baptism comparison was sent to C195 for separate follow-up.",
+   "baptism": "1828-02-01",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/538 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/677",
+   "action": "new Louis / Marie Desbiens–Débien child comparisons.",
+   "outcome": "Visually read two complete St-Clément typed baptisms: Marguerite, born 3 and baptized 8 December 1848, parents Louis Gendron, fermier, and Marie Desbiens of the parish (C-2890 image 538, vol.5 p.1585); and Edwige, born two days before her 20 September 1850 baptism, parents Louis Gendron, journalier, and Marie Débien of St. Louis de Gonsague (image 677, p.1723). Sponsors are Louis Menard / Marie Boursier in 1848 and François Haineault / Angèle Bougie in 1850. Neither act gives Louis’s age, birthplace or parents. They provide an actionable local couple to investigate but are not attached to C195; Needs work unchanged. Preserve Desbiens and Débien as source spellings.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/468",
+   "action": "parental-couple burial comparison.",
+   "outcome": "Visually read the 12 January 1848 St-Clément typed burial at C-2890 image 468, vol.5 p.1517: Marguerite Magdeleine dite Ladouceur, died 10 January, aged 71, wife of François Gendron of the parish; witnesses Joseph Prévost and Jean Ginestet. This matches a plausible parental-couple name variant already mentioned in the 16 November public-tree comparison, but gives no parents or children and is not yet definitively identified as C195’s mother. The stated age implies birth around 1777 and age about 50 at Louis’s 1827 birth; retain and test it. The copy says wife, not widow, and does not expressly record François’s presence. No Louis or Amand is named.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C195",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "Canadiana C-2890, sequences 300–698; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2890/300",
+   "action": "bounded earlier copied-register OCR screen.",
+   "outcome": "Screened 326 consecutive C-2890 images 300–625, with endpoint dates 4 December 1845 and 28 January 1850, using OCR name hits followed by selected visual readings. The additional 1850 screen covered 73 images 626–698 through 30 December 1850. This found the 1848 Marguerite baptism and parental-couple burial but no marriage identifying the Louis / Marie Desbiens–Débien couple. This is an OCR-assisted discovery screen, not a complete manual negative search. No absence, death, migration or identity inference is drawn.",
+   "baptism": "1827-04-02",
+   "place": "Beauharnois (St-Clément)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/879",
+   "action": "archival typed baptism recovered (Canadiana C-2892).",
+   "outcome": "Visually read typed p. 2682, sequence 879, MG8-G6 vol. 7: baptism 7 November 1829; Joseph born the previous day, 6 November, to Antoine Gendron, local day labourer, and Marie Anne Lefebvre. Sponsors Joseph Dufort and Françoise Dugas; father present; all unable to sign. This archival transcript agrees with the LAFRANCE index and adds a birth date and sponsors. The manuscript remains unread; this is not a newly inspected original. No later identity or exclusion; Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-27",
+   "candidate": "C264",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "Canadiana C-2892, sequences 872–1050; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/991 ; https://heritage.canadiana.ca/view/oocihm.lac_reel_c2892/1013",
+   "action": "bounded childhood burial screen and collateral leads.",
+   "outcome": "OCR-screened all 179 images in Canadiana C-2892 sequences 872–1050, spanning 5 October 1829–27 February 1832, for Gendron and parental-name matches; visually inspected the candidate baptism and relevant collateral hits. No burial of Joseph with the target parents was identified in this bounded screen. Sequence 991, typed p. 2792, records Antoine baptized 25 May 1831, born the previous day, to Antoine Gendron and Marie Anne Lefebvre. Sequence 1013, p. 2814, records Jean-Baptiste buried 26 August 1831, died two days earlier, aged one month, son of Antoine Gendron and Marie Lefebvre. Retain the differing names and the one-month age exactly; the relationship between these collateral entries requires manuscript verification. Neither is a burial of Joseph, and neither establishes the identity of the younger Joseph in the 1851 household. OCR with selected image checks is not an exhaustive visual reading or proof of survival. Needs work unchanged.",
+   "baptism": "1829-11-07",
+   "place": "Châteauguay",
    "tier": "none"
   }
  ]
