@@ -1,6 +1,6 @@
 {
  "generated": "2026-11-28",
- "count": 681,
+ "count": 685,
  "entries": [
   {
    "date": "",
@@ -2016,7 +2016,7 @@
    "outcome": "Baptism located — act 4594647, Contrecoeur (Ste-Trinité), 1829-12-11.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2028,7 +2028,7 @@
    "outcome": "No qualifying burial established for him before 1850.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2040,7 +2040,7 @@
    "outcome": "No record after his baptism has been connected to him.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "",
@@ -2532,7 +2532,7 @@
    "outcome": "The public-tree lead for Jean Baptiste Gendron, husband of Marie Louise Chagnon, belongs to C152, born in 1824. His original marriage is dated 11 June 1850, despite the February date in the index. It is not evidence for C266 Joseph. No later Joseph record was established in the parental-couple search.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-15",
@@ -2988,7 +2988,7 @@
    "outcome": "Search Joseph Gendron, birth 1829, father Francois, mother Marianne Dupont did not yield a securely matching C266 in the first twenty displayed tree groups. A different result supplied the separate C264 Ontario lead. This was a first-page search, not an exhaustive negative finding. No status change.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-16",
@@ -3348,7 +3348,7 @@
    "outcome": "Corrected the biography to preserve C237’s actual likely grade. His proposed 1828 burial has an unresolved maternal-name conflict and must not become a certain death when repeated on C266’s page. Follow the François Gendron/Marianne Dupont family and brother C152; no later record of C266 established.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-16",
@@ -3912,7 +3912,7 @@
    "outcome": "Added the maternal-name variant Marie Anne Élisabeth Dupont from brother Antoine/C152’s original 30 September 1851 marriage, act 13400860. Use that family evidence in future adult-record searches. Preserved the concurrent 1871 household leads; Needs work unchanged.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-21",
@@ -4200,7 +4200,7 @@
    "outcome": "Compared the two existing 1871 index leads against documented namesakes already in the register. C245, born 23 January 1829 at Ste-Anne, married Anastasie Caille/Cadier in 1851 and has parents François Gendron/Adélaïde Vallée. C275, born 30 August 1830 at Marieville, married Marie Adeline Bonvouloir at Ste-Brigide in 1861 and has parents Joseph Gendron/Marie Commeau. These are specific competing identities to test, not assignments of the unread census households. No new original, candidate identification or exclusion; Needs work unchanged.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-21",
@@ -7080,7 +7080,7 @@
    "outcome": "Qualified the C275 comparison against the saved original and its existing partial transcription. The 31 August 1830 baptism names Joseph Gendron and Marie Commeau. The proposed 16 October 1861 marriage M15 names Joseph Gendreau and Marie [M…neau?]; the bride is read Marie Adélaïde [Bonvouloir?]. The mother’s surname cannot be certified as Commeau. This is an unresolved reading, not proof of a different mother. The adult link remains likely. Neither 1871 census household is identified, and this supplies no later-life identification for this candidate. Needs work unchanged.",
    "baptism": "1829-12-11",
    "place": "Contrecoeur (Ste-Trinité)",
-   "tier": "none"
+   "tier": "likely"
   },
   {
    "date": "2026-11-26",
@@ -8173,6 +8173,54 @@
    "baptism": "",
    "place": "",
    "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13400860 ; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/4594379",
+   "action": "Re-read the original 1851 marriage and Antoine’s baptism; correlate the explicitly named Joseph brother with C266.",
+   "outcome": "Saint-Antoine-sur-Richelieu, 30 September 1851, folio 272: Antoine Gendron/Hermine Cormier marriage expressly names François and Joseph Gendron as brothers of the groom. Antoine’s 1826 baptism names François Geandron/Marie Anne Dupont; the marriage’s compressed maternal name is retained as Marie-[Anne?] Élisabeth Dupont. C266 is probably the Joseph witness. Needs work → Likely eliminated, with C237’s uncertain infant death and the limits of one wedding appearance explicit; no solid elimination or continuous-residence claim. This is a new correlation of a previously saved record. Full selected marriage FR/EN added; no PRDH hits spent.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C237 / C266",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.genealogiequebec.com/Membership/LAFRANCE/acte/4594528 ; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/4596550",
+   "action": "Re-read the older Joseph’s original baptism and proposed infant burial to test the competing same-name brother.",
+   "outcome": "B63: Joseph baptized 12 September 1828, born yesterday, parents François Gendron/Marianne Dupont. S33: Joseph buried 13 October 1828, died yesterday, aged one month, father François Gendron and mother Isabelle Dussault. Father, parish, timing and age favour the C237 burial assignment, but the maternal-name conflict is confirmed and remains unresolved. C237 retains Likely; this qualification carries into C266’s probable 1851 identification.",
+   "baptism": "",
+   "place": "",
+   "tier": ""
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/censuses/pre-confederation/1851/districts/canada-east-quebec.html",
+   "action": "Check official 1851 census survival before pursuing the father’s and Joseph’s local household.",
+   "outcome": "LAC’s official district 35 Verchères table lists subdistrict 546 Contrecoeur and 549 St. Antoine as Missing. The earlier description of weak evidence from under-indexing is superseded: non-hits in these missing local returns provide no evidence of absence. No household was recovered.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C266",
+   "name": "Joseph GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Francois&pid=137963 ; https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Julie&pid=555635",
+   "action": "Locate specific further family acts that could name Joseph as a son or brother after 1851.",
+   "outcome": "Public compiled locators give father François’s burial 9 July 1852 at Saint-Antoine-sur-Richelieu (death 7 July) and Julie Gendron/Félix Viau marriage 31 March 1856 at Contrecoeur. The latter profile names François Gendron/Marie-Anne-Élisabeth Dupont as Julie’s parents. Both originals remain unread. Julie/Joseph Guyon’s 1 August 1854 marriage belongs to a separately compiled Antoine Gendron/Euphrosine Audet family and is not this sibling lead.",
+   "baptism": "1829-12-11",
+   "place": "Contrecoeur (Ste-Trinité)",
+   "tier": "likely"
   }
  ]
 }
