@@ -28,6 +28,20 @@ def get(rng):
 def cell(row, i):
     return row[i].strip() if len(row) > i and row[i] else ""
 
+def sheet_row_count(title):
+    r = subprocess.run([CLI, "sheets", "spreadsheets", "get",
+                        "--params", json.dumps({
+                            "spreadsheetId": WORKBOOK,
+                            "fields": "sheets.properties(title,gridProperties.rowCount)"}),
+                        "--format", "json"], capture_output=True, text=True)
+    if r.returncode != 0:
+        sys.exit(f"metadata read failed: {r.stdout} {r.stderr}")
+    for sheet in json.loads(r.stdout).get("sheets", []):
+        props = sheet.get("properties", {})
+        if props.get("title") == title:
+            return props["gridProperties"]["rowCount"]
+    sys.exit(f"sheet not found: {title}")
+
 cand_rows = get("Candidates!A2:H282")
 cands = {}
 for r in cand_rows:
@@ -37,7 +51,7 @@ for r in cand_rows:
                       "place": cell(r, 3), "tier": cell(r, 4)}
 
 entries = []
-for r in get("Log!A2:H2000"):
+for r in get(f"Log!A2:H{sheet_row_count('Log')}"):
     if cell(r, 7) != "TRUE":
         continue
     cid = cell(r, 1)
@@ -56,3 +70,4 @@ doc = {"generated": datetime.date.today().isoformat(), "count": len(entries),
 with open(OUT, "w") as f:
     json.dump(doc, f, ensure_ascii=False, indent=1)
 print(f"wrote {OUT}: {len(entries)} published entries")
+

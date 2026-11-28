@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27",
- "count": 626,
+ "generated": "2026-11-28",
+ "count": 632,
  "entries": [
   {
    "date": "",
@@ -7512,6 +7512,78 @@
    "outcome": "Completed OCR discovery screening of C-2892/1051–1397 and C-2893/6–250: 592 images including the blank C-2892/1397. The actual entries run from 28 February 1832 to the start of a 6 September 1841 marriage, with a reel transition after 13 September 1836. Relevant hits were visually checked, and all transient image errors were recovered. No parent-matched burial of the 1829 Joseph or baptism identifying the younger census Joseph was established. This is not a complete manual negative and does not prove death or survival. The separate 1842 Beauharnois baptism shows that neighboring-parish coverage is useful for this family.",
    "baptism": "1829-11-07",
    "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C042",
+   "name": "Paul GENDRON",
+   "researcher": "Chat",
+   "source": "NARA M545 roll 21; https://catalog.archives.gov/id/50852133 ; https://catalog.archives.gov/id/50849358 ; https://catalog.archives.gov/id/50850700 ; https://catalog.archives.gov/id/50853657",
+   "action": "Read all four original archival service-index cards and reconcile their filing instructions.",
+   "outcome": "Visually inspected the four original cards on M545 roll 21: Jondrieux, Paul (NAID 50852133; image 2371), Jandrieux, Paul (50849358; 0978), Johndrieux, Paul (50850700; 1653), and Jumdreux, Paul (50853657; 3136). All give Company D, 7th Michigan Infantry and Pvt./Pvt. The three reference cards each explicitly state Original filed under Jondrieux, Paul. This verifies the original filing name and links these three reference spellings to that soldier's main index entry. The four cards are distinct documents. They do not give Québec parentage, birthplace, age, wife, or a dated fate, and do not identify the soldier with C042 or the 1844 Monroe groom. The personal compiled service record remains unread. Needs work / none unchanged.",
+   "baptism": "1818-05-25",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C097",
+   "name": "Benoni GENDRON",
+   "researcher": "Chat",
+   "source": "Saved civil M2, Châteauguay, 18 January 1858; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13560102",
+   "action": "Reconcile the previously unread family-marriage target with the original already preserved under C235; two readers checked the complete act.",
+   "outcome": "Charles is adult son of Nicolas Gendron/Suzanne Auger. Julie Auger is daughter of Joseph Auger/Angélique Loyer. Nicolas and Joseph are explicitly the spouses’ fathers; Mathieu Gendron and Narcisse Auger are witnesses, no relationship stated. No Bélonie is named. Full French/English added and Charles removed from active unread targets; four other family marriages remain unread. Needs work unchanged.",
+   "baptism": "1822-03-05",
+   "place": "Châteauguay",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C235",
+   "name": "Charles Alexandre GENDRON",
+   "researcher": "Chat",
+   "source": "Saved civil M2, Châteauguay, 18 January 1858; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/13560102",
+   "action": "Independently recheck and correct the selected original marriage transcription and translation.",
+   "outcome": "The bride’s mother reads Angélique Loyer, correcting Roy. Mathieu Gendron and Narcisse Auger are témoins/witnesses, correcting amis/friends, with no kinship stated. The dispensation clause says publication; the priest signature remains qualified [J. Dequoy ?]. All declared unable to sign. Earlier family-correlation explanation and solid assessment retained; no new Bélonie identification.",
+   "baptism": "1828-09-09",
+   "place": "Châteauguay",
+   "tier": "solid"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "Chat",
+   "source": "Saved civil B7, Saint-Pierre-les-Becquets, 18 February 1828; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/3367473",
+   "action": "Reconcile C129’s selected C224 comparison against the complete saved original and C224’s current text.",
+   "outcome": "Two readers confirm Josephte Milburge, godfather Dieudonné Boucher, godmother Théotiste Nault and signature Tho: Pepin. Ptre. Corrected stale Millebourge/Timothée in French and English. No separate maternal Boucher surname or sponsor relationship is supplied. No half-sibling relationship, Milburge/Émilie equivalence or later Joseph Adolphe is established; Needs work unchanged.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "none"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C224",
+   "name": "Louis GENDRON",
+   "researcher": "Chat",
+   "source": "Saved civil B7, Saint-Pierre-les-Becquets, 18 February 1828; https://www.genealogiequebec.com/Membership/LAFRANCE/acte/3367473",
+   "action": "Read the complete saved baptism again to resolve the conflicting copy on C129 and the uncertain priest signature.",
+   "outcome": "Born 17 February, baptized 18 February 1828 to Louis Gendron/Josephte Milburge. Dieudonné Boucher and Théotiste Nault confirmed; signature Tho: Pepin. Ptre. Complete French/English reconciled across both pages. No maternal Boucher added and no godparent kinship stated. Proposed 1855 mother Emilie Boucher remains unresolved; Likely eliminated unchanged.",
+   "baptism": "1828-02-18",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
+   "tier": "likely"
+  },
+  {
+   "date": "2026-11-28",
+   "candidate": "C129",
+   "name": "Joseph Adolphe GENDRON",
+   "researcher": "Chat",
+   "source": "https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Gendron_Rose-De-Lima&pid=1147708 ; https://gw.geneanet.org/ra41dr07?lang=en&n=boucher+desrosiers&p=josephte+milburge+archange",
+   "action": "Record two precisely dated conditional family retrieval targets from public compilations.",
+   "outcome": "Rose-de-Lima Gendron/Joseph-Treffle Leboeuf marriage 12 September 1854, Saint-Pierre-les-Becquets, with compiled parents Louis Gendron/Josephte-Milburge Boucher; and Josephte-Milburge-Archange Boucher/Desrosiers burial 25 February 1837, reportedly died 22 February. No original for either read. Establish 1827 father-remarriage identity before adopting half-sibling/stepmother relationships or using an estate window. The 1827 M16 and 1838 M9 originals remain priorities; no grade change.",
+   "baptism": "1823-09-21",
+   "place": "St-Pierre-les-Becquets (St-Pierre-Apôtre)",
    "tier": "none"
   }
  ]
